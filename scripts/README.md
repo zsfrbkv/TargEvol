@@ -15,7 +15,7 @@ This directory includes all Jupyter notebooks used in the project.
 `targets_from_xml_selected.csv`
 
 #### What is it for
-It parses the input files and export `.csv` tables with all drugs, all targets and selected targets. It also creates some graphs but they are not exported as files.
+It parses the input files and exports `.csv` tables with all drugs, all targets and selected targets. It also creates some graphs but they are not exported as files.
 
 ### mapping.ipynb
 #### Input
