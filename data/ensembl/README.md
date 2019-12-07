@@ -1,5 +1,5 @@
 # ENSEMBL DATA
-This repo contains all initial data downloaded from **Ensembl** database using **BioMart** (https://www.ensembl.org/biomart/martview/84419c3f598a9c1f51de0559a5041297).
+This directory contains all initial data downloaded from **Ensembl** database using **BioMart** (https://www.ensembl.org/biomart/martview/84419c3f598a9c1f51de0559a5041297).
 
 ### dn_ds_human_mouse_chimp.csv
 This table contains all Human genes, their corresponding orthologs in Mouse and Chimpanzee as well as pre-calculated dN and dS. 
