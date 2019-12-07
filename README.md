@@ -1,11 +1,11 @@
 # EVOLUTION OF DRUG TARGETS
 This repo includes data and scripts used in the project.
 
-## data/
+### data/
 Initial data from databases and other resourses.
 
-## results/
+### results/
 Obtained tables, graphs and other results.
 
-## scripts
+### scripts/
 Scripts used in the project.
