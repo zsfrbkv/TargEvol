@@ -1,0 +1,1884 @@
+,name,organism,GenBank_ID,UniProt_ID,drugs,drugs_num
+BE0000102,"Alanine--glyoxylate aminotransferase 2, mitochondrial",Humans,AJ292204,Q9BYV1,DB00114,1
+BE0000378,Glutamate decarboxylase 1,Humans,M81883,Q99259,DB00114; DB00142,2
+BE0000323,Cystathionine beta-synthase,Humans,L19501,P35520,DB00114; DB00118; DB00133; DB00151,4
+BE0000392,Kynureninase,Humans,U57721,Q16719,DB00114,1
+BE0000331,"Serine hydroxymethyltransferase, cytosolic",Humans,L11931,P34896,DB00114,1
+BE0000151,"Cysteine desulfurase, mitochondrial",Humans,AF097025,Q9Y697,DB00114; DB00151,2
+BE0000529,"Aspartate aminotransferase, cytoplasmic",Humans,M37400,P17174,DB00114; DB00128; DB00142; DB00151,4
+BE0000424,"Ornithine aminotransferase, mitochondrial",Humans,M12267,P04181,DB00114; DB00129,2
+BE0000404,Ornithine decarboxylase,Humans,M16650,P11926,DB00114; DB06243,2
+BE0000727,"Kynurenine/alpha-aminoadipate aminotransferase, mitochondrial",Humans,AF097994,Q8N5Z0,DB00114; DB00142,2
+BE0000253,"4-aminobutyrate aminotransferase, mitochondrial",Humans,L32961,P80404,DB00114; DB00142; DB00780; DB01080,4
+BE0000181,Pyridoxine-5'-phosphate oxidase,Humans,AF468030,Q9NVS9,DB00114; DB03247,2
+BE0000778,Sphingosine-1-phosphate lyase 1,Humans,AJ011304,O95470,DB00114,1
+BE0000692,Tyrosine aminotransferase,Humans,X52520,P17735,DB00114; DB00120; DB00135; DB00142,4
+BE0000273,Kynurenine--oxoglutarate transaminase 1,Humans,X82224,Q16773,DB00114,1
+BE0000482,Threonine synthase-like 1,Humans,BC035132,Q8IYQ7,DB00114; DB00156,2
+BE0000007,"Glycogen phosphorylase, liver form",Humans,M14636,P06737,DB00114; DB00131,2
+BE0000660,Serine palmitoyltransferase 2,Humans,Y08686,O15270,DB00114; DB00133,2
+BE0000079,Cysteine sulfinic acid decarboxylase,Humans,AF116546,Q9Y600,DB00114; DB00151,2
+BE0000002,Histidine decarboxylase,Humans,X54297,P19113,DB00114; DB00117,2
+BE0000448,Arginine decarboxylase,Humans,AY050634,Q96A70,DB00114; DB00125,2
+BE0000164,L-serine dehydratase/L-threonine deaminase,Humans,J05037,P20132,DB00114; DB00133,2
+BE0000518,"2-amino-3-ketobutyrate coenzyme A ligase, mitochondrial",Humans,AF077740,O75600,DB00114,1
+BE0000618,"Glycine dehydrogenase [decarboxylating], mitochondrial",Humans,M63635,P23378,DB00114,1
+BE0000667,Alanine aminotransferase 1,Humans,U70732,P24298,DB00114; DB00142; DB00780,3
+BE0000603,Phosphoserine aminotransferase,Humans,AF113132,Q9Y617,DB00114; DB00142,2
+BE0000409,"5-aminolevulinate synthase, nonspecific, mitochondrial",Humans,X56351,P13196,DB00114,1
+BE0000316,Serine--pyruvate aminotransferase,Humans,X56092,P21549,DB00114; DB00133,2
+BE0000278,Pyridoxal phosphate phosphatase,Humans,AY125047,Q96GD0,DB00114,1
+BE0000441,Serine palmitoyltransferase 1,Humans,Y08685,O15269,DB00114; DB00133,2
+BE0000791,Cystathionine gamma-lyase,Humans,S52784,P32929,DB00114; DB00151,2
+BE0000517,"Branched-chain-amino-acid aminotransferase, cytosolic",Humans,U21551,P54687,DB00114; DB00142; DB00149; DB00161; DB00167,5
+BE0000721,"Branched-chain-amino-acid aminotransferase, mitochondrial",Humans,U68418,O15382,DB00114; DB00142; DB00149; DB00167,4
+BE0002149,Proline synthase co-transcribed bacterial homolog protein,Humans,AB018566,O94903,DB00114; DB00172,2
+BE0000822,Formimidoyltransferase-cyclodeaminase,Humans,AF169017,O95954,DB00114; DB00142,2
+BE0000383,"Aspartate aminotransferase, mitochondrial",Humans,M22632,P00505,DB00114; DB00128; DB00142,3
+BE0002150,"Glycogen phosphorylase, brain form",Humans,J03544,P11216,DB00114,1
+BE0000916,"Glycogen phosphorylase, muscle form",Humans,M32598,P11217,DB00114,1
+BE0002151,Aromatic-L-amino-acid decarboxylase,Humans,M76180,P20711,DB00114; DB00190; DB00968; DB12783,4
+BE0002152,Aspartate aminotransferase,Humans,AY513279,Q2TU84,DB00114; DB00128; DB00142,3
+BE0002154,Serine hydroxymethyltransferase,Humans,AK223555,Q53ET4,DB00114,1
+BE0002155,Selenocysteine lyase variant,Humans,AB209458,Q59FK2,DB00114,1
+BE0002156,Phosphorylase,Humans,AB209080,Q59GM9,DB00114,1
+BE0002157,Ornithine aminotransferase variant,Humans,AB208817,Q59HE2,DB00114,1
+BE0002158,5-aminolevulinate synthase,Humans,AY260745,Q5JAM2,DB00114,1
+BE0002159,"Glutamate decarboxylase 2 (Pancreatic islets and brain, 65kDa)",Humans,AL162503,Q5VZ30,DB00114,1
+BE0002160,DDC protein,Humans,CR456724,Q6IBS8,DB00114,1
+BE0002161,Pyridoxal-dependent decarboxylase domain-containing protein 1,Humans,BC060871,Q6P996,DB00114,1
+BE0002162,Kynurenine--oxoglutarate transaminase 3,Humans,AY028624,Q6YP21,DB00114; DB00142,2
+BE0002163,Glutamate decarboxylase-like protein 1,Humans,AK128643,Q6ZQY3,DB00114,1
+BE0004605,Selenocysteine lyase,Humans,AK128643,Q96I15,DB00114,1
+BE0004612,Immunoglobulin superfamily member 10,Humans,AK128643,Q6WRI0,DB00114,1
+BE0002164,5-phosphohydroxy-L-lysine phospho-lyase,Humans,AF318375,Q8IUZ5,DB00114,1
+BE0002165,"Glutamate decarboxylase 1 (Brain, 67kDa)",Humans,BC037780,Q8IVA8,DB00114,1
+BE0000292,"Serine hydroxymethyltransferase, mitochondrial",Humans,U23143,P34897,DB00114,1
+BE0000898,"5-aminolevulinate synthase, erythroid-specific, mitochondrial",Humans,X56352,P22557,DB00114,1
+BE0002166,Alanine aminotransferase 2,Humans,AY029173,Q8TD30,DB00114; DB00142; DB00780,3
+BE0002167,Molybdenum cofactor sulfurase,Humans,AK000740,Q96EN8,DB00114,1
+BE0002168,Serine dehydratase-like,Humans,AF134473,Q96GA7,DB00114,1
+BE0002169,P-selectin cytoplasmic tail-associated protein (PCAP),Humans,AB044561,Q96JQ3,DB00114,1
+BE0002170,Hepatic peroxysomal alanine:glyoxylate aminotransferase,Humans,AF348451,Q9BXA1,DB00114,1
+BE0000388,Serine racemase,Humans,AF169974,Q9GZT4,DB00114; DB00133,2
+BE0002171,O-phosphoseryl-tRNA(Sec) selenium transferase,Humans,AF146396,Q9HD40,DB00114,1
+BE0002172,Serine palmitoyltransferase 3,Humans,AK001974,Q9NUV7,DB00114,1
+BE0002173,Glutamic acid decarboxylase,Humans,AJ251501,Q9UGI5,DB00114; DB00780,2
+BE0002174,Alanine-glyoxylate aminotransferase homolog,Humans,AF191687,Q9UJX1,DB00114,1
+BE0000740,"Histidine--tRNA ligase, cytoplasmic",Humans,Z11518,P12081,DB00117,1
+BE0000285,Sodium-coupled neutral amino acid transporter 3,Humans,AF244548,Q99624,DB00117; DB00174,2
+BE0000086,Histidine ammonia-lyase,Humans,D16626,P42357,DB00117,1
+BE0000372,Glycine N-methyltransferase,Humans,AF101477,Q14749,DB00118; DB04272,2
+BE0000101,S-adenosylmethionine decarboxylase proenzyme,Humans,M21154,P17707,DB00118; DB03754,2
+BE0000304,S-adenosylmethionine synthase isoform type-2,Humans,X68836,P31153,DB00118,1
+BE0000407,S-adenosylmethionine synthase isoform type-1,Humans,D49357,Q00266,DB00118,1
+BE0002089,Catechol O-methyltransferase,Humans,M65212,P21964,DB00118; DB00323; DB00494; DB04820; DB11632,5
+BE0008997,Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase 1,Humans,M65212,Q8N1G2,DB00118,1
+BE0005015,Arsenite methyltransferase,Humans,M65212,Q9HBK9,DB00118,1
+BE0000789,Large neutral amino acids transporter small subunit 2,Humans,AF171669,Q9UHI5,DB00120,1
+BE0000038,Phenylalanine--tRNA ligase alpha subunit,Humans,U07424,Q9Y285,DB00120,1
+BE0000753,Phenylalanine-4-hydroxylase,Humans,K03020,P00439,DB00120; DB00360; DB00368; DB06262,4
+BE0000028,"Phenylalanine--tRNA ligase, mitochondrial",Humans,AF097441,O95363,DB00120,1
+BE0000561,Phenylalanine--tRNA ligase beta subunit,Humans,D84430,Q9NSD9,DB00120,1
+BE0000614,Tyrosine 3-monooxygenase,Humans,Y00414,P07101,DB00120; DB00135; DB00360; DB00765,4
+BE0000544,"Propionyl-CoA carboxylase beta chain, mitochondrial",Humans,X73424,P05166,DB00121; DB00161,2
+BE0000159,Biotin--protein ligase,Humans,D23672,P50747,DB00121,1
+BE0000094,Sodium-dependent multivitamin transporter,Humans,AF116241,Q9Y289,DB00121; DB00166,2
+BE0000072,"Methylcrotonoyl-CoA carboxylase beta chain, mitochondrial",Humans,AB050049,Q9HCC0,DB00121,1
+BE0000702,Acetyl-CoA carboxylase 2,Humans,U89344,O00763,DB00121; DB00173,2
+BE0000445,"Methylcrotonoyl-CoA carboxylase subunit alpha, mitochondrial",Humans,AF310972,Q96RQ3,DB00121,1
+BE0000698,"Pyruvate carboxylase, mitochondrial",Humans,U04641,P11498,DB00121,1
+BE0000492,"Propionyl-CoA carboxylase alpha chain, mitochondrial",Humans,X14608,P05165,DB00121,1
+BE0000626,Acetyl-CoA carboxylase 1,Humans,U19822,Q13085,DB00121,1
+BE0000494,Choline-phosphate cytidylyltransferase B,Humans,AF052510,Q9Y5K3,DB00122; DB14006,2
+BE0000426,Acetylcholinesterase,Humans,M55040,P22303,DB00122; DB00382; DB00411; DB00449; DB00483; DB00545; DB00674; DB00677; DB00733; DB00805; DB00843; DB00863; DB00944; DB00981; DB00989; DB01010; DB01122; DB01199; DB01233; DB01245; DB01364; DB01400; DB03128; DB04864; DB14006,25
+BE0000615,Choline-phosphate cytidylyltransferase A,Humans,L28957,P49585,DB00122; DB14006,2
+BE0002179,Phospholipase D2,Humans,AF033850,O14939,DB00122; DB14006,2
+BE0002180,Cholinesterase,Humans,M32391,P06276,DB00122; DB00382; DB00449; DB00545; DB00674; DB00677; DB00733; DB00772; DB00863; DB00941; DB00944; DB00989; DB01010; DB01057; DB01221; DB14006,16
+BE0002181,Phospholipase D1,Humans,U38545,Q13393,DB00122; DB14006,2
+BE0002186,Phosphoethanolamine/phosphocholine phosphatase,Humans,AJ457189,Q8TCT1,DB00122; DB14006,2
+BE0002341,Neuronal acetylcholine receptor subunit alpha-7,Humans,X70297,P36544,DB00122; DB00184; DB00237; DB00241; DB00306; DB00312; DB00418; DB00514; DB00599; DB00657; DB00674; DB00794; DB00849; DB00915; DB01174; DB01199; DB01273; DB01351; DB01353; DB03128; DB09061; DB14006,22
+BE0000212,High affinity cationic amino acid transporter 1,Humans,X59155,P30825,DB00123; DB00125; DB00129,3
+BE0000052,Cationic amino acid transporter 4,Humans,AJ000730,O43246,DB00123; DB00125; DB00129,3
+BE0000136,Cationic amino acid transporter 3,Humans,AF320612,Q8WY07,DB00123; DB00125; DB00129; DB13146,4
+BE0000562,Low affinity cationic amino acid transporter 2,Humans,D29990,P52569,DB00123; DB00129,2
+BE0000198,Lysine--tRNA ligase,Humans,D31890,Q15046,DB00123,1
+BE0000263,"Nitric oxide synthase, endothelial",Humans,M93718,P29474,DB00125; DB00155; DB00360; DB01110; DB05676,5
+BE0000520,Argininosuccinate lyase,Humans,Y00753,P04424,DB00125,1
+BE0000005,"Nitric oxide synthase, inducible",Humans,L09210,P35228,DB00125; DB00155; DB01110; DB01234; DB08814; DB11327,6
+BE0000758,"Arginase-2, mitochondrial",Humans,D86724,P78540,DB00125; DB00129,2
+BE0000671,Argininosuccinate synthase,Humans,X01630,P00966,DB00125; DB00128; DB00155,3
+BE0004338,Lactase-phlorizin hydrolase,Humans,X07994,P09848,DB00126; DB04564,2
+BE0004796,DNA,Humans,-,-,DB00126; DB00131; DB00173; DB00194; DB00236; DB00242; DB00249; DB00262; DB00276; DB00291; DB00305; DB00352; DB00385; DB00406; DB00428; DB00432; DB00441; DB00442; DB00445; DB00488; DB00515; DB00526; DB00531; DB00544; DB00553; DB00631; DB00693; DB00694; DB00709; DB00721; DB00738; DB00779; DB00791; DB00827; DB00845; DB00851; DB00853; DB00888; DB00911; DB00916; DB00928; DB00958; DB00987; DB00997; DB01004; DB01008; DB01030; DB01041; DB01042; DB01073; DB01096; DB01099; DB01101; DB01123; DB01168; DB01177; DB01181; DB01204; DB01206; DB01262; DB01265; DB01280; DB01610; DB01611; DB01987; DB04571; DB04572; DB05109; DB05245; DB06803; DB09327; DB13145; DB14753,73
+BE0002192,"Procollagen-lysine,2-oxoglutarate 5-dioxygenase 2",Humans,U84573,O00469,DB00126,1
+BE0002117,"Phytanoyl-CoA dioxygenase, peroxisomal",Humans,AF023462,O14832,DB00126,1
+BE0002195,"Procollagen-lysine,2-oxoglutarate 5-dioxygenase 3",Humans,AF046889,O60568,DB00126; DB00139,2
+BE0002197,Gamma-butyrobetaine dioxygenase,Humans,AF082868,O75936,DB00126; DB00139,2
+BE0000138,Dopamine beta-hydroxylase,Humans,X13255,P09172,DB00126; DB00822; DB00988,3
+BE0002200,Peptidyl-glycine alpha-amidating monooxygenase,Humans,M37721,P19021,DB00126,1
+BE0000060,Prolyl 4-hydroxylase subunit alpha-1,Humans,M24486,P13674,DB00126; DB00139; DB00172; DB01275,4
+BE0002202,Prolyl 3-hydroxylase 1,Humans,AF097431,Q32P28,DB00126; DB00139; DB00172,3
+BE0002203,2-oxoglutarate and iron-dependent oxygenase domain-containing protein 2,Humans,BX640675,Q6N063,DB00126,1
+BE0002205,Alpha-ketoglutarate-dependent dioxygenase alkB homolog 2,Humans,AY754389,Q6NS38,DB00126,1
+BE0002206,Prolyl 3-hydroxylase 2,Humans,AJ430351,Q8IVL5,DB00126; DB00139; DB00172,3
+BE0002208,Prolyl 3-hydroxylase 3,Humans,U47924,Q8IVL6,DB00126; DB00139; DB00172,3
+BE0002210,2-oxoglutarate and iron-dependent oxygenase domain-containing protein 1,Humans,BC032919,Q8N543,DB00126,1
+BE0002211,Egl nine homolog 2,Humans,AJ310544,Q96KS0,DB00126,1
+BE0002213,Alpha-ketoglutarate-dependent dioxygenase alkB homolog 3,Humans,AB042029,Q96Q83,DB00126,1
+BE0002215,Lysine-specific demethylase 5D,Humans,U52191,Q9BY66,DB00126,1
+BE0002217,Egl nine homolog 1,Humans,AF246631,Q9GZT9,DB00126; DB14488; DB14489; DB14490; DB14491; DB14501,6
+BE0000168,Solute carrier family 23 member 1,Humans,AF058317,Q9UHI7,DB00126,1
+BE0000087,"Procollagen-lysine,2-oxoglutarate 5-dioxygenase 1",Humans,L06419,Q02809,DB00126; DB00139,2
+BE0002219,Egl nine homolog 3,Humans,AJ310545,Q9H6Z9,DB00126,1
+BE0002221,"Trimethyllysine dioxygenase, mitochondrial",Humans,AF373407,Q9NVH6,DB00126; DB00139,2
+BE0002223,Transmembrane prolyl 4-hydroxylase,Humans,AY198406,Q9NXG6,DB00126,1
+BE0003317,Ribonuclease pancreatic,Humans,D26129,P07998,DB00128; DB04272,2
+BE0003751,Lysozyme C,Humans,D26129,P61626,DB00128; DB02772,2
+BE0000277,Calcium-binding mitochondrial carrier protein Aralar2,Humans,AJ496569,Q9UJS0,DB00128,1
+BE0000187,Aspartoacylase,Humans,S67156,P45381,DB00128; DB14487; DB14533,3
+BE0000219,Asparagine synthetase [glutamine-hydrolyzing],Humans,M27396,P08243,DB00128; DB00142; DB00174,3
+BE0000481,Aminoacylase-1,Humans,L07548,Q03154,DB00128; DB06151,2
+BE0000725,"Aspartate--tRNA ligase, cytoplasmic",Humans,J05032,P14868,DB00128,1
+BE0000235,Calcium-binding mitochondrial carrier protein Aralar1,Humans,Y14494,O75746,DB00128,1
+BE0000528,Aspartyl/asparaginyl beta-hydroxylase,Humans,U03109,Q12797,DB00128; DB00139,2
+BE0002225,Multifunctional protein ADE2,Humans,X53793,P22234,DB00128,1
+BE0002227,CAD protein,Humans,D78586,P27708,DB00128,1
+BE0002228,Adenylosuccinate synthetase isozyme 2,Humans,X66503,P30520,DB00128,1
+BE0001054,Excitatory amino acid transporter 3,Humans,U08989,P43005,DB00128; DB00142,2
+BE0000788,"Argininosuccinate synthetase, isoform CRA_a",Humans,AL354898,Q5T6L4,DB00128; DB00155,2
+BE0002229,"Aspartate--tRNA ligase, mitochondrial",Humans,AL109921,Q6PI48,DB00128,1
+BE0002230,Isoaspartyl peptidase/L-asparaginase,Humans,BC021295,Q7L266,DB00128; DB00174,2
+BE0002231,Adenylosuccinate synthetase isozyme 1,Humans,AY037159,Q8N142,DB00128,1
+BE0002232,Aspartoacylase-2,Humans,AY040761,Q96HD9,DB00128,1
+BE0000306,"Ornithine carbamoyltransferase, mitochondrial",Humans,K02100,P00480,DB00129; DB00155,2
+BE0000286,Arginase-1,Humans,M14502,P05089,DB00129,1
+BE0000371,Ornithine decarboxylase antizyme 1,Humans,U09202,P54368,DB00129,1
+BE0000258,Mitochondrial ornithine transporter 2,Humans,AF332005,Q9BXI2,DB00129,1
+BE0000201,Mitochondrial ornithine transporter 1,Humans,AF112968,Q9Y619,DB00129,1
+BE0002233,Ornithine decarboxylase antizyme 2,Humans,AF057297,O95190,DB00129,1
+BE0000347,"Glycine amidinotransferase, mitochondrial",Humans,S68805,P50440,DB00129; DB02530,2
+BE0002234,Ornithine decarboxylase antizyme 3,Humans,AF175296,Q9UMX2,DB00129,1
+BE0000874,CTP synthase 1,Humans,X52142,P17812,DB00130,1
+BE0000374,Amidophosphoribosyltransferase,Humans,D13757,Q06203,DB00130; DB01033; DB01254,3
+BE0002240,Glutamine synthetase,Humans,Y00387,P15104,DB00130; DB00142,2
+BE0000958,Cyclic AMP-responsive element-binding protein 1,Humans,S72459,P16220,DB00131; DB01183,2
+BE0001277,Serine/threonine-protein kinase pim-1,Humans,M27903,P11309,DB00131; DB12010,2
+BE0000487,"cAMP-specific 3',5'-cyclic phosphodiesterase 4B",Humans,L20966,Q07343,DB00131; DB00201; DB00277; DB00651; DB00806; DB00824; DB01088; DB01113; DB01427; DB01656; DB05219; DB05676,12
+BE0000254,5'-AMP-activated protein kinase subunit beta-1,Humans,AJ224515,Q9Y478,DB00131; DB00331,2
+BE0001473,Histidine triad nucleotide-binding protein 1,Humans,U27143,P49773,DB00131,1
+BE0001287,"cAMP-specific 3',5'-cyclic phosphodiesterase 4D",Humans,L20970,Q08499,DB00131; DB00651; DB01088; DB01656; DB05219; DB05676,6
+BE0000746,"Acetyl-coenzyme A synthetase 2-like, mitochondrial",Humans,AL035661,Q9NUB1,DB00131,1
+BE0000350,"Acetyl-coenzyme A synthetase, cytoplasmic",Humans,AF263614,Q9NR19,DB00131,1
+BE0000677,5'-AMP-activated protein kinase catalytic subunit alpha-1,Humans,AB022017,Q13131,DB00131; DB00914; DB12010,3
+BE0000774,5'-AMP-activated protein kinase subunit beta-2,Humans,AJ224538,O43741,DB00131,1
+BE0000269,Adenylate cyclase type 1,Humans,AC069008,Q08828,DB00131; DB09121,2
+BE0000639,Long-chain-fatty-acid--CoA ligase 1,Humans,D10040,P33121,DB00131,1
+BE0002431,"Fructose-1,6-bisphosphatase 1",Humans,L10320,P09467,DB00131,1
+BE0003540,Adenosine kinase,Humans,U50196,P55263,DB00131,1
+BE0000888,Fatty acid desaturase 1,Humans,AC004770,O60427,DB00132; DB00159,2
+BE0002246,Fatty acid desaturase 2,Humans,AF126799,O95864,DB00132,1
+BE0000986,Sodium/calcium exchanger 1,Humans,M91368,P32418,DB00132; DB00159,2
+BE0001023,Transient receptor potential cation channel subfamily V member 1,Humans,AJ277028,Q8NER1,DB00132; DB00159; DB00316; DB01744; DB06774; DB09061; DB09120,7
+BE0002247,Elongation of very long chain fatty acids protein 4,Humans,AF279654,Q9GZR5,DB00132,1
+BE0000071,Peroxisome proliferator-activated receptor alpha,Humans,L02932,Q07869,DB00132; DB00159; DB00313; DB00328; DB00412; DB00573; DB00636; DB01039; DB01050; DB01132; DB01241; DB01393; DB01708; DB02266; DB02709; DB03017; DB03193; DB03756; DB03796; DB04224; DB09064; DB09213; DB13873,23
+BE0001777,Bile acid receptor,Humans,U68233,Q96RI1,DB00132; DB01586; DB02659; DB03619; DB05990; DB06777,6
+BE0001007,Peroxisome proliferator-activated receptor delta,Humans,L07592,Q03181,DB00132; DB00159; DB00313; DB00374; DB00412; DB00605; DB01039; DB01132; DB01393; DB04224; DB13873,11
+BE0000215,Peroxisome proliferator-activated receptor gamma,Humans,U79012,P37231,DB00132; DB00159; DB00244; DB00313; DB00328; DB00412; DB00573; DB00731; DB00795; DB00912; DB00966; DB01014; DB01039; DB01050; DB01067; DB01118; DB01132; DB01393; DB02266; DB02709; DB03756; DB04224; DB08604; DB09061; DB09213; DB11672; DB13873,27
+BE0000412,Retinoic acid receptor RXR-alpha,Humans,X52773,P19793,DB00132; DB00210; DB00307; DB00412; DB00459; DB00523; DB00749; DB00755; DB01393; DB01436; DB03756; DB04224,12
+BE0000063,"Serine--tRNA ligase, cytoplasmic",Humans,X91257,P49591,DB00133,1
+BE0000763,Methionine synthase reductase,Humans,AF121213,Q9UBK8,DB00134,1
+BE0000734,Methionine synthase,Humans,U71285,Q99707,DB00134; DB11590,2
+BE0001534,Methionine aminopeptidase 2,Humans,U29607,P50579,DB00134; DB02893,2
+BE0000845,Betaine--homocysteine S-methyltransferase 1,Humans,U50929,Q93088,DB00134; DB04272,2
+BE0002249,S-methylmethionine--homocysteine S-methyltransferase BHMT2,Humans,AF257473,Q9H2M3,DB00134,1
+BE0000363,"Tyrosine--tRNA ligase, mitochondrial",Humans,AF132939,Q9Y2Z4,DB00135,1
+BE0000230,"Tyrosine--tRNA ligase, cytoplasmic",Humans,U40714,P54577,DB00135; DB02709,2
+BE0000779,Vitamin D3 receptor,Humans,J03258,P11473,DB00136; DB00146; DB00153; DB00169; DB00910; DB01070; DB01436; DB02300; DB04540; DB06410; DB11672,11
+BE0008987,Homeobox protein Hox-A10,Humans,J03258,P31260,DB00136,1
+BE0000030,Cystine/glutamate transporter,Humans,AB026891,Q9UPY5,DB00138; DB00142; DB00740; DB00795; DB06151; DB11590,6
+BE0000035,Cystinosin,Humans,Y15924,O60931,DB00138,1
+BE0002251,"B(0,+)-type amino acid transporter 1",Humans,AF141289,P82251,DB00138,1
+BE0001130,Neutral and basic amino acid transport protein rBAT,Humans,M95548,Q07837,DB00138,1
+BE0002257,"Succinate dehydrogenase cytochrome b560 subunit, mitochondrial",Humans,U57877,Q99643,DB00139,1
+BE0002258,Succinate receptor 1,Humans,AF348078,Q9BXA5,DB00139,1
+BE0002259,"Succinyl-CoA:3-ketoacid coenzyme A transferase 2, mitochondrial",Humans,AB050193,Q9BYC2,DB00139,1
+BE0002260,"Succinyl-CoA ligase [ADP-forming] subunit beta, mitochondrial",Humans,AB035863,Q9P2R7,DB00139,1
+BE0002261,Mitochondrial dicarboxylate carrier,Humans,AJ131612,Q9UBX3,DB00139,1
+BE0000176,"Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial",Humans,D30648,P31040,DB00139; DB04657; DB09270,3
+BE0000989,17-beta-hydroxysteroid dehydrogenase type 6,Humans,AF016509,O14756,DB00139,1
+BE0000611,Solute carrier family 13 member 3,Humans,AF154121,Q8WWT9,DB00139,1
+BE0000447,Solute carrier family 13 member 2,Humans,U26209,Q13183,DB00139,1
+BE0000022,Solute carrier family 13 member 1,Humans,AF260824,Q9BZW2,DB00139,1
+BE0000355,"Succinyl-CoA ligase [GDP-forming] subunit beta, mitochondrial",Humans,BC007716,Q96I99,DB00139,1
+BE0002252,"Succinate dehydrogenase [ubiquinone] cytochrome b small subunit, mitochondrial",Humans,AB006202,O14521,DB00139; DB00756,2
+BE0002253,Prolyl 4-hydroxylase subunit alpha-2,Humans,U90441,O15460,DB00139; DB00172,2
+BE0002254,"Succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial",Humans,U17248,P21912,DB00139,1
+BE0000152,"Succinate-semialdehyde dehydrogenase, mitochondrial",Humans,Y11192,P51649,DB00139; DB00157; DB00313; DB00534,4
+BE0002255,"Succinyl-CoA ligase [ADP/GDP-forming] subunit alpha, mitochondrial",Humans,AF104921,P53597,DB00139,1
+BE0002256,"Succinyl-CoA:3-ketoacid coenzyme A transferase 1, mitochondrial",Humans,U62961,P55809,DB00139,1
+BE0000370,Riboflavin kinase,Humans,AK002011,Q969G6,DB00140; DB03247,2
+BE0000595,Flavin reductase (NADPH),Humans,D26308,P30043,DB00140; DB00157; DB03247,3
+BE0002262,"Beta-1,4-galactosyltransferase 3",Humans,Y12509,O60512,DB00141,1
+BE0002263,"Beta-1,4-galactosyltransferase 4",Humans,AF038662,O60513,DB00141,1
+BE0002264,"Beta-1,4-galactosyltransferase 2",Humans,Y12510,O60909,DB00141,1
+BE0002265,N-acetyl-D-glucosamine kinase,Humans,AJ242910,Q9UJ70,DB00141,1
+BE0002266,N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase,Humans,AF187072,Q9UK23,DB00141,1
+BE0000391,Alpha-N-acetylglucosaminidase,Humans,U43572,P54802,DB00141,1
+BE0000109,N-acylglucosamine 2-epimerase,Humans,D10232,P51606,DB00141,1
+BE0000259,"Beta-1,4-galactosyltransferase 1",Humans,X14085,P15291,DB00141,1
+BE0000824,Metabotropic glutamate receptor 1,Humans,U31215,Q13255,DB00142,1
+BE0000833,Metabotropic glutamate receptor 4,Humans,X80818,Q14833,DB00142,1
+BE0000827,"Glutamate receptor ionotropic, kainate 4",Humans,S67803,Q16099,DB00142,1
+BE0000828,"Glutamate receptor ionotropic, kainate 5",Humans,S40369,Q16478,DB00142,1
+BE0000834,Metabotropic glutamate receptor 7,Humans,X94552,Q14831,DB00142,1
+BE0000835,Metabotropic glutamate receptor 8,Humans,U92459,O00222,DB00142,1
+BE0002267,Excitatory amino acid transporter 5,Humans,U76362,O00341,DB00142,1
+BE0002268,5-oxoprolinase,Humans,AB122018,O14841,DB00142,1
+BE0002235,Phosphoribosylformylglycinamidine synthase,Humans,AB002359,O15067,DB00142,1
+BE0000396,"Glutamate receptor ionotropic, NMDA 2D",Humans,U77783,O15399,DB00142; DB00454; DB01173; DB06151,4
+BE0002269,"Glutamate receptor ionotropic, delta-2",Humans,AF009014,O43424,DB00142,1
+BE0000534,"Glutamate receptor ionotropic, NMDA 3B",Humans,AC004528,O60391,DB00142; DB01159; DB01173,3
+BE0002237,"Glutamyl-tRNA(Gln) amidotransferase subunit B, mitochondrial",Humans,AF026851,O75879,DB00142,1
+BE0000825,"Glutaminase kidney isoform, mitochondrial",Humans,AF158555,O94925,DB00142,1
+BE0000188,Bifunctional glutamate/proline--tRNA ligase,Humans,X54326,P07814,DB00142; DB00172,2
+BE0000403,Vitamin K-dependent gamma-carboxylase,Humans,M81592,P38435,DB00142; DB00170; DB01022; DB01125; DB09332,5
+BE0001115,Excitatory amino acid transporter 1,Humans,L19158,P43003,DB00142,1
+BE0000884,Excitatory amino acid transporter 2,Humans,U03505,P43004,DB00142,1
+BE0000166,Glutamate--cysteine ligase catalytic subunit,Humans,M90656,P48506,DB00142; DB00151,2
+BE0002270,Excitatory amino acid transporter 4,Humans,U18244,P48664,DB00142,1
+BE0000755,"Glutamate dehydrogenase 2, mitochondrial",Humans,X66310,P49448,DB00142; DB00157,2
+BE0000321,GMP synthase [glutamine-hydrolyzing],Humans,U10860,P49915,DB00142,1
+BE0000365,"Glutamate receptor ionotropic, NMDA 1",Humans,D13515,Q05586,DB00142; DB00454; DB01043; DB01173; DB03929; DB06151; DB08954,7
+BE0000700,"Folylpolyglutamate synthase, mitochondrial",Humans,M98045,Q05932,DB00142; DB00293,2
+BE0002271,Glutamyl aminopeptidase,Humans,L14721,Q07075,DB00142,1
+BE0000760,"Glutamate receptor ionotropic, NMDA 2A",Humans,U09002,Q12879,DB00142; DB00454; DB00949; DB01159; DB06151,5
+BE0000417,"Glutamate receptor ionotropic, NMDA 2B",Humans,U90278,Q13224,DB00142; DB00454; DB00502; DB00949; DB01956; DB06151; DB08954; DB11823,8
+BE0000454,"Glutamate receptor ionotropic, NMDA 2C",Humans,L76224,Q14957,DB00142; DB00454,2
+BE0002272,"Probable glutamate--tRNA ligase, mitochondrial",Humans,AL832489,Q5JPH6,DB00142,1
+BE0002273,Lengsin,Humans,AF242388,Q5TDP6,DB00142,1
+BE0002244,Glutamine-dependent NAD(+) synthetase,Humans,AB091316,Q6IA69,DB00142,1
+BE0002274,"N-acetylglutamate synthase, mitochondrial",Humans,AY116537,Q8N159,DB00142,1
+BE0000641,"Glutamate receptor ionotropic, NMDA 3A",Humans,AJ416950,Q8TCU5,DB00142; DB00193; DB00333; DB00392; DB00514; DB00721; DB00915; DB00949; DB01159; DB01161; DB01173; DB01221; DB06151,13
+BE0002275,Mitochondrial glutamate carrier 2,Humans,AJ428203,Q9H1K4,DB00142,1
+BE0002276,Mitochondrial glutamate carrier 1,Humans,AJ428202,Q9H936,DB00142,1
+BE0000073,"Alpha-aminoadipic semialdehyde synthase, mitochondrial",Humans,AF229180,Q9UDR5,DB00142; DB00157,2
+BE0000003,"Glutaminase liver isoform, mitochondrial",Humans,AF110330,Q9UI32,DB00142,1
+BE0002277,Aspartyl aminopeptidase,Humans,AF005050,Q9ULA0,DB00142,1
+BE0002278,"Glutamate receptor ionotropic, delta-1",Humans,BC039263,Q9ULK0,DB00142,1
+BE0004640,Carboxypeptidase Q,Humans,AB026891,Q9Y646,DB00142,1
+BE0000180,"Glutamate dehydrogenase 1, mitochondrial",Humans,X07674,P00367,DB00142; DB00157; DB00756; DB11081,4
+BE0000346,"Glutamate receptor ionotropic, kainate 1",Humans,L19058,P39086,DB00142; DB00273,2
+BE0000640,Glutamate receptor 1,Humans,M64752,P42261,DB00142; DB00228; DB00273; DB00753; DB01028; DB01189; DB01236; DB08883; DB13146,9
+BE0000606,Glutamate--cysteine ligase regulatory subunit,Humans,L35546,P48507,DB00142; DB00151,2
+BE0000568,Glutamate carboxypeptidase 2,Humans,M99487,Q04609,DB00142,1
+BE0000602,Glutamate decarboxylase 2,Humans,M81882,Q05329,DB00142,1
+BE0000829,Glutamate receptor 2,Humans,L20814,P42262,DB00142; DB00237; DB00241; DB00306; DB00312; DB00418; DB00599; DB00794; DB00849; DB01174; DB01346; DB01351; DB01353; DB13146,14
+BE0000831,Glutamate receptor 3,Humans,U10302,P42263,DB00142; DB13146; DB14507,3
+BE0000830,Glutamate receptor 4,Humans,U16129,P48058,DB00142; DB13146,2
+BE0000823,Delta-1-pyrroline-5-carboxylate synthase,Humans,X94453,P54886,DB00142,1
+BE0000826,"Glutamate receptor ionotropic, kainate 2",Humans,U16126,Q13002,DB00142; DB00237; DB00241; DB00306; DB00312; DB00418; DB00599; DB00794; DB00849; DB01174; DB01351; DB01353,12
+BE0000832,"Glutamate receptor ionotropic, kainate 3",Humans,U16127,Q13003,DB00142,1
+BE0002279,Microsomal glutathione S-transferase 3,Humans,AF026977,O14880,DB00143,1
+BE0001167,Hematopoietic prostaglandin D synthase,Humans,D82073,O60760,DB00143; DB00162; DB00755,3
+BE0002280,Thioredoxin domain-containing protein 12,Humans,AF543416,O95881,DB00143,1
+BE0002281,Glutathione S-transferase A1,Humans,M15872,P08263,DB00143,1
+BE0002189,Glutathione S-transferase A2,Humans,M16594,P09210,DB00143; DB00608,2
+BE0002282,Microsomal glutathione S-transferase 1,Humans,J03746,P10620,DB00143,1
+BE0002283,S-formylglutathione hydrolase,Humans,M13450,P10768,DB00143,1
+BE0000889,Gamma-glutamyltranspeptidase 1,Humans,J04131,P19440,DB00143,1
+BE0001189,Glutathione S-transferase Mu 2,Humans,M63509,P28161,DB00143; DB03310,2
+BE0002284,Glutaredoxin-1,Humans,D21238,P35754,DB00143,1
+BE0001135,"Phospholipid hydroperoxide glutathione peroxidase, mitochondrial",Humans,X71973,P36969,DB00143,1
+BE0002285,Glutathione S-transferase Mu 5,Humans,L02321,P46439,DB00143,1
+BE0002286,Glutathione peroxidase 6,Humans,AY324826,P59796,DB00143,1
+BE0001825,"Hydroxyacylglutathione hydrolase, mitochondrial",Humans,X90999,Q16775,DB00143,1
+BE0002287,Glutathione peroxidase,Humans,BC070258,Q6NSD4,DB00143,1
+BE0002288,Probable glutathione peroxidase 8,Humans,AK074216,Q8TED1,DB00143,1
+BE0002289,Glutathione peroxidase 7,Humans,AF320068,Q96SL4,DB00143,1
+BE0002290,Microsomal glutathione S-transferase 2,Humans,U77604,Q99735,DB00143,1
+BE0002291,Glutathione S-transferase omega-2,Humans,AY350731,Q9H4Y5,DB00143,1
+BE0002292,"Glutaredoxin-2, mitochondrial",Humans,AF132495,Q9NS18,DB00143,1
+BE0000962,Lactoylglutathione lyase,Humans,D13315,Q04760,DB00143; DB00328,2
+BE0001117,Leukotriene C4 synthase,Humans,U09353,Q16873,DB00143,1
+BE0000648,"Glutathione reductase, mitochondrial",Humans,X15722,P00390,DB00143; DB00157; DB00262; DB03147; DB03310,5
+BE0000185,Glutathione synthetase,Humans,L42531,P48637,DB00143; DB00151; DB06151,3
+BE0000807,Glutathione S-transferase Mu 1,Humans,X08020,P09488,DB00143,1
+BE0000808,Glutathione S-transferase kappa 1,Humans,AY520571,Q9Y2Q3,DB00143,1
+BE0000809,Glutathione S-transferase A3,Humans,L13275,Q16772,DB00143,1
+BE0000810,Glutathione S-transferase Mu 3,Humans,J05459,P21266,DB00143,1
+BE0000811,Glutathione S-transferase A4,Humans,Y13047,O15217,DB00143,1
+BE0000812,Glutathione S-transferase Mu 4,Humans,M96234,Q03013,DB00143,1
+BE0000813,Glutathione S-transferase A5,Humans,BK000212,Q7RTV2,DB00143,1
+BE0000814,Glutathione S-transferase P,Humans,M24485,P09211,DB00143; DB00316; DB00363; DB00903; DB01015; DB01242; DB03619; DB04339; DB11672,9
+BE0000815,Glutathione S-transferase omega-1,Humans,U90313,P78417,DB00143,1
+BE0000816,Glutathione peroxidase 1,Humans,Y00433,P07203,DB00143,1
+BE0000817,Glutathione peroxidase 2,Humans,X53463,P18283,DB00143,1
+BE0000818,Glutathione S-transferase theta-1,Humans,X79389,P30711,DB00143,1
+BE0000819,Maleylacetoacetate isomerase,Humans,AJ001838,O43708,DB00143; DB08809,2
+BE0000820,Epididymal secretory glutathione peroxidase,Humans,AJ005277,O75715,DB00143,1
+BE0000821,Glutathione peroxidase 3,Humans,D00632,P22352,DB00143,1
+BE0000747,Aldose reductase,Humans,J04795,P15121,DB00143; DB00157; DB00605; DB04272,4
+BE0000058,Matrix metalloproteinase-9,Humans,J05070,P14780,DB00143; DB01017; DB01197; DB01296; DB14487; DB14533,6
+BE0002638,Cytochrome P450 3A4,Humans,M18907,P08684,DB00143; DB00951,2
+BE0002296,Diacylglycerol kinase gamma,Humans,D26135,P49619,DB00144,1
+BE0002297,Diacylglycerol kinase delta,Humans,AB078966,Q16760,DB00144,1
+BE0002299,Phosphatidylserine synthase 2,Humans,AL834357,Q9BVG9,DB00144,1
+BE0002300,Sphingomyelin phosphodiesterase 4,Humans,AB037839,Q9NXE4,DB00144,1
+BE0002301,Sphingomyelin phosphodiesterase 3,Humans,AJ250460,Q9NY59,DB00144,1
+BE0001001,Probable phospholipid-transporting ATPase IA,Humans,AF067820,Q9Y2Q0,DB00144,1
+BE0001132,Protein kinase C alpha type,Humans,X52479,P17252,DB00144; DB00163; DB05013; DB06595; DB14001; DB14002,6
+BE0001099,Phosphatidylserine synthase 1,Humans,D14694,P48651,DB00144,1
+BE0000673,Phosphatidylserine decarboxylase proenzyme,Humans,AL050371,Q9UG56,DB00144,1
+BE0000189,Scavenger receptor class B member 1,Humans,Z22555,Q8WTV0,DB00144,1
+BE0000714,Creatine kinase M-type,Humans,M14780,P06732,DB00148,1
+BE0000171,"Creatine kinase U-type, mitochondrial",Humans,J04469,P12532,DB00148,1
+BE0000082,Creatine kinase B-type,Humans,M16451,P12277,DB00148,1
+BE0000410,"Creatine kinase S-type, mitochondrial",Humans,J05401,P17540,DB00148,1
+BE0000375,Sodium- and chloride-dependent creatine transporter 1,Humans,L31409,P48029,DB00148,1
+BE0000567,Guanidinoacetate N-methyltransferase,Humans,Z49878,Q14353,DB00148,1
+BE0000204,"Probable leucine--tRNA ligase, mitochondrial",Humans,D21851,Q15031,DB00149,1
+BE0000613,Leucine carboxyl methyltransferase 2,Humans,AB011119,O60294,DB00149,1
+BE0000450,Leucine carboxyl methyltransferase 1,Humans,AF037601,Q9UIC8,DB00149,1
+BE0000769,"Leucine--tRNA ligase, cytoplasmic",Humans,D84223,Q9P2J5,DB00149,1
+BE0002311,"Tryptophan--tRNA ligase, mitochondrial",Humans,AJ242739,Q9UGM6,DB00150,1
+BE0000228,"Tryptophan--tRNA ligase, cytoplasmic",Humans,M77804,P23381,DB00150,1
+BE0000701,"Cysteine--tRNA ligase, cytoplasmic",Humans,L06845,P49589,DB00151,1
+BE0001145,Methylated-DNA--protein-cysteine methyltransferase,Humans,X54228,P16455,DB00151; DB14487; DB14533,3
+BE0000963,Thiamine transporter 2,Humans,AF271633,Q9BZV2,DB00151,1
+BE0002312,"Probable cysteine--tRNA ligase, mitochondrial",Humans,AK022180,Q9HA77,DB00151,1
+BE0000569,Cysteine dioxygenase type 1,Humans,Z31357,Q16878,DB00151; DB00157,2
+BE0000157,Thiamin pyrophosphokinase 1,Humans,AB028138,Q9H3S4,DB00152,1
+BE0003530,Thiamine transporter 1,Humans,AF160812,O60779,DB00152,1
+BE0004902,Voltage-dependent calcium channel,Humans,L07738,Q06432,DB00153; DB00381; DB00421; DB11148,4
+BE0000608,"N(G),N(G)-dimethylarginine dimethylaminohydrolase 2",Humans,AF070667,O95865,DB00155,1
+BE0000766,"N(G),N(G)-dimethylarginine dimethylaminohydrolase 1",Humans,AB001915,O94760,DB00155; DB00213; DB00736; DB05351,4
+BE0000067,"Nitric oxide synthase, brain",Humans,U17327,P29475,DB00155; DB01221; DB03147; DB03247; DB09241,5
+BE0002313,Protein-arginine deiminase type-6,Humans,AY422079,Q6TGC4,DB00155,1
+BE0002314,Protein-arginine deiminase type-1,Humans,AB033768,Q9ULC6,DB00155,1
+BE0002315,Protein-arginine deiminase type-3,Humans,AB026831,Q9ULW8,DB00155,1
+BE0002316,Protein-arginine deiminase type-2,Humans,AB030176,Q9Y2J8,DB00155,1
+BE0001092,Protein-arginine deiminase type-4,Humans,AB017919,Q9UM07,DB00155; DB00207; DB00759; DB01082,4
+BE0000234,"Threonine--tRNA ligase, cytoplasmic",Humans,M63180,P26639,DB00156,1
+BE0002317,"Threonine--tRNA ligase, mitochondrial",Humans,AK222814,Q9BW92,DB00156,1
+BE0000645,UDP-glucose 6-dehydrogenase,Humans,AF061016,O60701,DB00157,1
+BE0000227,Alcohol dehydrogenase 1A,Humans,M12271,P07327,DB00157,1
+BE0000299,Sorbitol dehydrogenase,Humans,U07361,Q00796,DB00157,1
+BE0000360,Alcohol dehydrogenase 4,Humans,M15943,P08319,DB00157,1
+BE0000465,Alcohol dehydrogenase 1C,Humans,X04299,P00326,DB00157; DB02659,2
+BE0000400,Alcohol dehydrogenase 1B,Humans,M24317,P00325,DB00157,1
+BE0000522,Alcohol dehydrogenase class 4 mu/sigma chain,Humans,L33179,P40394,DB00157,1
+BE0000208,"Glycerol-3-phosphate dehydrogenase [NAD(+)], cytoplasmic",Humans,L34041,P21695,DB00157; DB00331,2
+BE0000297,L-lactate dehydrogenase A-like 6A,Humans,AY581313,Q6ZMR3,DB00157,1
+BE0000009,Alcohol dehydrogenase class-3,Humans,M30471,P11766,DB00157; DB03017,2
+BE0000317,3-hydroxyacyl-CoA dehydrogenase type-2,Humans,U96132,Q99714,DB00157,1
+BE0000780,"Malate dehydrogenase, mitochondrial",Humans,AF047470,P40926,DB00157; DB04272; DB09092,3
+BE0000425,L-lactate dehydrogenase A chain,Humans,X02152,P00338,DB00157; DB02701; DB09118,3
+BE0000148,"NAD-dependent malic enzyme, mitochondrial",Humans,M55905,P23368,DB00157,1
+BE0000408,Peroxisomal multifunctional enzyme type 2,Humans,X87176,P51659,DB00157,1
+BE0000100,L-lactate dehydrogenase A-like 6B,Humans,AY009108,Q9BYZ2,DB00157,1
+BE0000149,L-lactate dehydrogenase C chain,Humans,J02938,P07864,DB00157,1
+BE0000068,L-lactate dehydrogenase B chain,Humans,X13794,P07195,DB00157; DB09118,2
+BE0000586,Peroxisomal bifunctional enzyme,Humans,L07077,Q08426,DB00157,1
+BE0000377,"Hydroxyacyl-coenzyme A dehydrogenase, mitochondrial",Humans,X96752,Q16836,DB00157,1
+BE0000328,"NADP-dependent malic enzyme, mitochondrial",Humans,X79440,Q16798,DB00157,1
+BE0000175,"D-beta-hydroxybutyrate dehydrogenase, mitochondrial",Humans,M93107,Q02338,DB00157,1
+BE0000589,"Malate dehydrogenase, cytoplasmic",Humans,D55654,P40925,DB00157,1
+BE0000128,"3-hydroxyisobutyrate dehydrogenase, mitochondrial",Humans,AC007130,P31937,DB00157,1
+BE0000336,Testosterone 17-beta-dehydrogenase 3,Humans,U05659,P37058,DB00157,1
+BE0000574,3-hydroxy-3-methylglutaryl-coenzyme A reductase,Humans,M11058,P04035,DB00157; DB00175; DB00227; DB00439; DB00641; DB01076; DB01095; DB01098; DB08860,9
+BE0000604,NADP-dependent malic enzyme,Humans,X77244,P48163,DB00157,1
+BE0000161,D-3-phosphoglycerate dehydrogenase,Humans,AF006043,O43175,DB00157,1
+BE0000184,3-keto-steroid reductase,Humans,AF098786,P56937,DB00157,1
+BE0000771,"Isocitrate dehydrogenase [NAD] subunit gamma, mitochondrial",Humans,Z68907,P51553,DB00157,1
+BE0000559,"Isocitrate dehydrogenase [NAD] subunit beta, mitochondrial",Humans,U49283,O43837,DB00157,1
+BE0000011,"Isocitrate dehydrogenase [NAD] subunit alpha, mitochondrial",Humans,U07681,P50213,DB00157; DB09092,2
+BE0000194,Estradiol 17-beta-dehydrogenase 1,Humans,X13440,P14061,DB00157; DB01708,2
+BE0000006,Estradiol 17-beta-dehydrogenase 2,Humans,L11708,P37059,DB00157; DB00783; DB13952; DB13953; DB13954; DB13955; DB13956,7
+BE0000570,11-cis retinol dehydrogenase,Humans,U43559,Q92781,DB00157; DB00162,2
+BE0000357,GDH/6PGL endoplasmic bifunctional protein,Humans,AJ012590,O95479,DB00157,1
+BE0000578,Estradiol 17-beta-dehydrogenase 8,Humans,BT007239,Q92506,DB00157,1
+BE0000438,Aldo-keto reductase family 1 member C4,Humans,S68287,P17516,DB00157,1
+BE0000722,Inosine-5'-monophosphate dehydrogenase 2,Humans,J04208,P12268,DB00157; DB00688; DB00811; DB01024,4
+BE0000592,Aldo-keto reductase family 1 member C3,Humans,S68288,P42330,DB00157; DB00328; DB01698; DB02266,4
+BE0000552,15-hydroxyprostaglandin dehydrogenase [NAD(+)],Humans,L76465,P15428,DB00157,1
+BE0000662,GDP-L-fucose synthase,Humans,U58766,Q13630,DB00157,1
+BE0000126,Aldo-keto reductase family 1 member C1,Humans,M86609,Q04828,DB00157; DB00936; DB00945,3
+BE0000329,Corticosteroid 11-beta-dehydrogenase isozyme 1,Humans,M76665,P28845,DB00157; DB00635; DB13751,3
+BE0000059,3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase type 2,Humans,M67466,P26439,DB00157; DB01108,2
+BE0000051,3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase type 1,Humans,M27137,P14060,DB00157; DB00741; DB01108; DB14539; DB14540; DB14541; DB14542; DB14543; DB14544,9
+BE0000761,Inosine-5'-monophosphate dehydrogenase 1,Humans,J05272,P20839,DB00157; DB00688; DB00811; DB01024,4
+BE0000260,"Trifunctional enzyme subunit alpha, mitochondrial",Humans,D16480,P40939,DB00157,1
+BE0000133,"Aldehyde dehydrogenase, mitochondrial",Humans,X05409,P05091,DB00157; DB00822,2
+BE0000131,Corticosteroid 11-beta-dehydrogenase isozyme 2,Humans,U14631,P80365,DB00157; DB00741; DB01185; DB14539; DB14540; DB14541; DB14542; DB14543; DB14544,9
+BE0000622,Aldo-keto reductase family 1 member C2,Humans,U05598,P52895,DB00157; DB01586; DB06777,3
+BE0000044,"Sterol-4-alpha-carboxylate 3-dehydrogenase, decarboxylating",Humans,U47105,Q15738,DB00157,1
+BE0000193,Aldehyde dehydrogenase family 3 member B2,Humans,U37519,P48448,DB00157,1
+BE0000231,"Methylmalonate-semialdehyde dehydrogenase [acylating], mitochondrial",Humans,AJ249994,Q02252,DB00157,1
+BE0000718,"Aldehyde dehydrogenase, dimeric NADP-preferring",Humans,M74542,P30838,DB00157,1
+BE0000554,Retinal dehydrogenase 1,Humans,M31994,P00352,DB00157; DB00162; DB00755,3
+BE0000720,"Glyceraldehyde-3-phosphate dehydrogenase, testis-specific",Humans,AJ005371,O14556,DB00157; DB14487; DB14533,3
+BE0000287,4-trimethylaminobutyraldehyde dehydrogenase,Humans,U34252,P49189,DB00157,1
+BE0000583,Aldehyde dehydrogenase family 1 member A3,Humans,U07919,P47895,DB00157; DB00162,2
+BE0000479,"Aldehyde dehydrogenase X, mitochondrial",Humans,M63967,P30837,DB00157,1
+BE0000446,Aldehyde dehydrogenase family 3 member B1,Humans,U10868,P43353,DB00157,1
+BE0000542,Glyceraldehyde-3-phosphate dehydrogenase,Humans,X01677,P04406,DB00157; DB09092,2
+BE0000513,Retinal dehydrogenase 2,Humans,AB015226,O94788,DB00157; DB00162; DB00755,3
+BE0000600,Fatty aldehyde dehydrogenase,Humans,L47162,P51648,DB00157,1
+BE0000135,Alpha-aminoadipic semialdehyde dehydrogenase,Humans,S74728,P49419,DB00157,1
+BE0000728,Pyrroline-5-carboxylate reductase 2,Humans,AF087859,Q96C36,DB00157; DB00172,2
+BE0000225,"Pyrroline-5-carboxylate reductase 1, mitochondrial",Humans,M77836,P32322,DB00157; DB00172,2
+BE0000098,"Pyruvate dehydrogenase E1 component subunit beta, mitochondrial",Humans,M34479,P11177,DB00157,1
+BE0000609,"Pyruvate dehydrogenase E1 component subunit alpha, testis-specific form, mitochondrial",Humans,M86808,P29803,DB00157,1
+BE0000571,"Pyruvate dehydrogenase E1 component subunit alpha, somatic form, mitochondrial",Humans,M27257,P08559,DB00157,1
+BE0000741,Biliverdin reductase A,Humans,X93086,P53004,DB00157,1
+BE0000762,"Short-chain specific acyl-CoA dehydrogenase, mitochondrial",Humans,M26393,P16219,DB00157; DB03147,2
+BE0000330,Dihydrofolate reductase,Humans,J00140,P00374,DB00157; DB00205; DB00440; DB00563; DB00642; DB00798; DB01131; DB01157; DB06813,9
+BE0000162,"2-oxoglutarate dehydrogenase, mitochondrial",Humans,D10523,Q02218,DB00157; DB00313; DB09092,3
+BE0000031,7-dehydrocholesterol reductase,Humans,AF096305,Q9UBM7,DB00157,1
+BE0000220,Ribosyldihydronicotinamide dehydrogenase [quinone],Humans,J02888,P16083,DB00157; DB00170; DB01065; DB01087; DB02709; DB03147,6
+BE0000655,NADH-ubiquinone oxidoreductase chain 2,Humans,J01415,P03891,DB00157,1
+BE0000196,NADH-ubiquinone oxidoreductase chain 3,Humans,J01415,P03897,DB00157,1
+BE0000307,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 7, mitochondrial",Humans,AC005329,O75251,DB00157,1
+BE0000617,"C-1-tetrahydrofolate synthase, cytoplasmic",Humans,J04031,P11586,DB00157,1
+BE0000268,"Bifunctional methylenetetrahydrofolate dehydrogenase/cyclohydrolase, mitochondrial",Humans,X16396,P13995,DB00157,1
+BE0000244,"Delta-1-pyrroline-5-carboxylate dehydrogenase, mitochondrial",Humans,U24267,P30038,DB00157,1
+BE0000160,NADH-cytochrome b5 reductase 3,Humans,M28713,P00387,DB00157; DB03147,2
+BE0000541,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 11,Humans,AJ539081,Q86Y39,DB00157,1
+BE0000551,NADH-ubiquinone oxidoreductase chain 4,Humans,J01415,P03905,DB00157,1
+BE0000540,Dihydropteridine reductase,Humans,X04882,P09417,DB00157,1
+BE0000503,NADH-ubiquinone oxidoreductase chain 1,Humans,V00662,P03886,DB00157; DB01028; DB01159; DB01189; DB01236,5
+BE0000008,"NAD(P) transhydrogenase, mitochondrial",Humans,U40490,Q13423,DB00157; DB09092,2
+BE0000473,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 5,Humans,U53468,Q16718,DB00157,1
+BE0000305,"NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 9, mitochondrial",Humans,AF050641,Q16795,DB00157; DB03147,2
+BE0000272,NADH-ubiquinone oxidoreductase chain 4L,Humans,J01415,P03901,DB00157,1
+BE0000081,"NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 10, mitochondrial",Humans,AF087661,O95299,DB00157,1
+BE0000401,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 7,Humans,AF050637,O95182,DB00157,1
+BE0000224,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1,Humans,X81900,O15239,DB00157,1
+BE0000348,NADH-ubiquinone oxidoreductase chain 6,Humans,J01415,P03923,DB00157,1
+BE0000580,NADH-ubiquinone oxidoreductase chain 5,Humans,J01415,P03915,DB00157; DB05382,2
+BE0000169,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 4,Humans,U94586,O00483,DB00157,1
+BE0000213,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 6,Humans,AF047182,P56556,DB00157,1
+BE0000545,"Acyl carrier protein, mitochondrial",Humans,AF087660,O14561,DB00157,1
+BE0000550,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 2,Humans,AF047185,O43678,DB00157,1
+BE0000367,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 8,Humans,AF044953,P51970,DB00157,1
+BE0000684,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 3,Humans,AF044955,O95167,DB00157,1
+BE0000676,"NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial",Humans,AF044958,O95169,DB00157,1
+BE0000173,NADH dehydrogenase [ubiquinone] 1 subunit C2,Humans,AF087659,O95298,DB00157; DB01136,2
+BE0000338,NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 1,Humans,AF050638,O75438,DB00157,1
+BE0000493,"NADH-ubiquinone oxidoreductase 75 kDa subunit, mitochondrial",Humans,X61100,P28331,DB00157,1
+BE0000245,NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 10,Humans,AF044954,O96000,DB00157,1
+BE0000295,NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 4,Humans,AF044957,O95168,DB00157,1
+BE0000284,NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 3,Humans,AF047183,O43676,DB00157,1
+BE0000427,"NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 2, mitochondrial",Humans,AF050639,O95178,DB00157,1
+BE0000512,NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 7,Humans,M33374,P17568,DB00157,1
+BE0000596,NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 9,Humans,AF044956,Q9Y6M9,DB00157,1
+BE0000729,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial",Humans,AF013160,O75306,DB00157,1
+BE0000243,"NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 5, mitochondrial",Humans,AF047181,O43674,DB00157,1
+BE0000313,"NADH dehydrogenase [ubiquinone] 1 subunit C1, mitochondrial",Humans,AF047184,O43677,DB00157,1
+BE0000376,NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 6,Humans,AF035840,O95139,DB00157,1
+BE0000027,"NADH dehydrogenase [ubiquinone] flavoprotein 3, mitochondrial",Humans,X99726,P56181,DB00157; DB09270,2
+BE0000737,"Dihydrolipoyl dehydrogenase, mitochondrial",Humans,J03490,P09622,DB00157; DB03147,2
+BE0000191,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 3, mitochondrial",Humans,AF067139,O75489,DB00157,1
+BE0000754,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 12,Humans,AF217092,Q9UI09,DB00157,1
+BE0000089,NADH dehydrogenase [ubiquinone] iron-sulfur protein 5,Humans,AF047434,O43920,DB00157,1
+BE0000500,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 4, mitochondrial",Humans,AF020351,O43181,DB00157,1
+BE0000485,"NADH dehydrogenase [ubiquinone] flavoprotein 1, mitochondrial",Humans,Y17379,P49821,DB00157,1
+BE0000137,"NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial",Humans,M22538,P19404,DB00157,1
+BE0000525,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 13,Humans,AF286697,Q9P0J0,DB00157,1
+BE0000093,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 6, mitochondrial",Humans,AF044959,O75380,DB00157,1
+BE0000319,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 4-like 2,Humans,AF164796,Q9NRX3,DB00157,1
+BE0000037,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 8, mitochondrial",Humans,U65579,O00217,DB00157,1
+BE0000421,Cytochrome P450 4A11,Humans,L04751,Q02928,DB00157,1
+BE0000065,"Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex, mitochondrial",Humans,Y00978,P10515,DB00157,1
+BE0000010,"Aminomethyltransferase, mitochondrial",Humans,D13811,P48728,DB00157,1
+BE0000096,Methylsterol monooxygenase 1,Humans,U60205,Q15800,DB00157,1
+BE0000735,Heme oxygenase 1,Humans,X06985,P09601,DB00157,1
+BE0000587,Heme oxygenase 2,Humans,D21243,P30519,DB00157,1
+BE0000344,"Steroid 17-alpha-hydroxylase/17,20 lyase",Humans,M14564,P05093,DB00157; DB00396; DB05812,3
+BE0000252,Tyrosinase,Humans,M27160,P14679,DB00157; DB00548; DB00600; DB09526; DB11217; DB11254,6
+BE0000652,Folate receptor gamma,Humans,Z32564,P41439,DB00158,1
+BE0000271,Folate receptor beta,Humans,X69516,P14207,DB00158,1
+BE0003405,Folate receptor alpha,Humans,M28099,P15328,DB00158,1
+BE0000262,Prostaglandin G/H synthase 2,Humans,L15326,P35354,DB00159; DB00210; DB00233; DB00244; DB00316; DB00328; DB00461; DB00465; DB00469; DB00480; DB00482; DB00500; DB00533; DB00554; DB00573; DB00580; DB00586; DB00605; DB00712; DB00749; DB00784; DB00788; DB00795; DB00812; DB00814; DB00821; DB00861; DB00870; DB00936; DB00939; DB00945; DB00963; DB00991; DB01009; DB01014; DB01041; DB01050; DB01283; DB01399; DB01401; DB01419; DB01435; DB01600; DB01628; DB02266; DB02709; DB04743; DB06725; DB06736; DB06802; DB08439; DB08910; DB09213; DB09214; DB09216; DB11071; DB11079; DB11201; DB11323; DB11327; DB13167; DB13346; DB13501; DB13783,64
+BE0000017,Prostaglandin G/H synthase 1,Humans,M31822,P23219,DB00159; DB00244; DB00316; DB00328; DB00350; DB00461; DB00465; DB00469; DB00500; DB00554; DB00573; DB00586; DB00605; DB00711; DB00712; DB00749; DB00784; DB00788; DB00795; DB00812; DB00814; DB00821; DB00861; DB00870; DB00936; DB00939; DB00945; DB00963; DB00991; DB01009; DB01014; DB01050; DB01283; DB01399; DB01401; DB01419; DB01435; DB01600; DB02266; DB02709; DB04817; DB06725; DB06736; DB06802; DB08814; DB09213; DB09214; DB09216; DB11071; DB11079; DB11201; DB11323; DB13346; DB13501; DB13783,55
+BE0000996,Long-chain-fatty-acid--CoA ligase 4,Humans,AF030555,O60488,DB00159; DB00412,2
+BE0001093,Long-chain-fatty-acid--CoA ligase 3,Humans,D89053,O95573,DB00159,1
+BE0000688,Free fatty acid receptor 1,Humans,AF024687,O14842,DB00159,1
+BE0000223,Valine--tRNA ligase,Humans,X59303,P26640,DB00161,1
+BE0000726,Retinol dehydrogenase 12,Humans,AK054835,Q96NR8,DB00162,1
+BE0002319,Short-chain dehydrogenase/reductase 3,Humans,AF061741,O75911,DB00162,1
+BE0002320,"All-trans-retinol 13,14-reductase",Humans,AY358568,Q6NUM9,DB00162,1
+BE0002321,Retinol dehydrogenase 11,Humans,AF167438,Q8TC12,DB00162,1
+BE0000032,Dehydrogenase/reductase SDR family member 4,Humans,AF044127,Q9BTZ2,DB00162,1
+BE0002322,Retinol dehydrogenase 14,Humans,AF237952,Q9HBH5,DB00162,1
+BE0002323,Retinol dehydrogenase 8,Humans,AF229845,Q9NYR8,DB00162,1
+BE0000900,Lecithin retinol acyltransferase,Humans,AF071510,O95237,DB00162,1
+BE0000301,Retinol-binding protein 1,Humans,M11433,P09455,DB00162; DB00459,2
+BE0000593,Retinol dehydrogenase 13,Humans,AK075392,Q8NBN7,DB00162,1
+BE0000255,Retinol-binding protein 3,Humans,M33875,P10745,DB00162,1
+BE0000786,Retinaldehyde-binding protein 1,Humans,J04213,P12271,DB00162,1
+BE0005056,Apolipoprotein D,Humans,J04213,P05090,DB00162,1
+BE0000956,Nuclear receptor subfamily 1 group I member 2,Humans,AF061056,O75469,DB00163; DB00239; DB00252; DB00255; DB00257; DB00312; DB00421; DB00431; DB00499; DB00503; DB00530; DB00531; DB00532; DB00564; DB00675; DB00682; DB00754; DB00783; DB00834; DB00849; DB00977; DB01026; DB01039; DB01045; DB01068; DB01110; DB01115; DB01127; DB01138; DB01174; DB01181; DB01220; DB01229; DB01234; DB01248; DB01393; DB01708; DB02709; DB02789; DB04824; DB04930; DB06777; DB08604; DB08864; DB13179; DB13873; DB13952; DB13953; DB13954; DB13955; DB13956; DB14001; DB14002,53
+BE0000872,Protein kinase C beta type,Humans,M13975,P05771,DB00163; DB14001; DB14002,3
+BE0000248,Arachidonate 5-lipoxygenase,Humans,J03600,P09917,DB00163; DB00179; DB00233; DB00244; DB00471; DB00586; DB00711; DB00744; DB00795; DB00939; DB01014; DB01017; DB02709; DB11994; DB12010; DB14001; DB14002,17
+BE0002324,Diacylglycerol kinase alpha,Humans,X62535,P23743,DB00163; DB14001; DB14002,3
+BE0002325,Serine/threonine-protein phosphatase 2A catalytic subunit beta isoform,Humans,X12656,P62714,DB00163; DB14001; DB14002,3
+BE0002326,Serine/threonine-protein phosphatase 2A catalytic subunit alpha isoform,Humans,X12646,P67775,DB00163; DB14001; DB14002,3
+BE0000076,SEC14-like protein 4,Humans,AY158085,Q9UDX3,DB00163; DB14001; DB14002,3
+BE0000339,SEC14-like protein 3,Humans,AY158086,Q9UDX4,DB00163; DB14001; DB14002,3
+BE0000256,SEC14-like protein 2,Humans,AL096881,O76054,DB00163; DB03796; DB14001; DB14002,4
+BE0000042,Pyridoxal kinase,Humans,U89606,O00764,DB00165,1
+BE0000040,"Lipoyltransferase 1, mitochondrial",Humans,AB017566,Q9Y234,DB00166,1
+BE0002327,"Lipoyl synthase, mitochondrial",Humans,BC023635,O43766,DB00166,1
+BE0002328,"Isoleucine--tRNA ligase, mitochondrial",Humans,AC103590,Q9NSE4,DB00167,1
+BE0000573,"Short/branched chain specific acyl-CoA dehydrogenase, mitochondrial",Humans,U12778,P45954,DB00167; DB00313,2
+BE0000491,"Isoleucine--tRNA ligase, cytoplasmic",Humans,D28473,P41252,DB00167,1
+BE0000713,Vitamin K epoxide reductase complex subunit 1,Humans,AY423044,Q9BQB6,DB00170; DB00266; DB00498; DB00682; DB00946; DB01418,6
+BE0002329,Vitamin K epoxide reductase complex subunit 1-like protein 1,Humans,AY423045,Q8N0U8,DB00170,1
+BE0000048,Prothrombin,Humans,M17262,P00734,DB00170; DB00278; DB01123; DB04898; DB06695; DB09332; DB14487; DB14533,8
+BE0000333,Coagulation factor VII,Humans,M13232,P08709,DB00170; DB09332,2
+BE0000364,Coagulation factor IX,Humans,K02402,P00740,DB00170; DB09332,2
+BE0000216,Coagulation factor X,Humans,K03194,P00742,DB00170; DB06228; DB06605; DB09075; DB09332; DB12364,6
+BE0000380,Vitamin K-dependent protein C,Humans,M11228,P04070,DB00170; DB00464; DB09131; DB09332,4
+BE0000943,Vitamin K-dependent protein S,Humans,M15036,P07225,DB00170; DB00464; DB09332,3
+BE0000547,Vitamin K-dependent protein Z,Humans,M55670,P22891,DB00170,1
+BE0001184,NAD(P)H dehydrogenase [quinone] 1,Humans,J03934,P15559,DB00170; DB00266; DB03147,3
+BE0000724,Osteocalcin,Humans,X53698,P02818,DB00170; DB01022; DB05260,3
+BE0002330,"Proline dehydrogenase 1, mitochondrial",Humans,U82381,O43272,DB00172,1
+BE0002331,Peptidyl-prolyl cis-trans isomerase H,Humans,AF016371,O43447,DB00172,1
+BE0002332,Peptidyl-prolyl cis-trans isomerase B,Humans,M60857,P23284,DB00172,1
+BE0001399,"Peptidyl-prolyl cis-trans isomerase F, mitochondrial",Humans,M80254,P30405,DB00172,1
+BE0002333,Peptidyl-prolyl cis-trans isomerase C,Humans,S71018,P45877,DB00172,1
+BE0001014,Peptidyl-prolyl cis-trans isomerase A,Humans,Y00052,P62937,DB00172,1
+BE0002334,Peptidyl-prolyl cis-trans isomerase G,Humans,U40763,Q13427,DB00172,1
+BE0002335,Pyrroline-5-carboxylate reductase,Humans,AF151351,Q4W8W1,DB00172,1
+BE0002336,"Probable proline--tRNA ligase, mitochondrial",Humans,BC007956,Q7L3T8,DB00172,1
+BE0004615,Pyrroline-5-carboxylate reductase 3,Humans,U47924,Q53H96,DB00172,1
+BE0002337,Trans-L-3-hydroxyproline dehydratase,Humans,BC012131,Q96EM0,DB00172,1
+BE0000423,Sodium- and chloride-dependent neutral and basic amino acid transporter B(0+),Humans,AF151978,Q9UN76,DB00172,1
+BE0000723,Sodium-dependent proline transporter,Humans,S80071,Q99884,DB00172,1
+BE0000115,Adenine phosphoribosyltransferase,Humans,Y00486,P07741,DB00173; DB01632; DB04272,3
+BE0003786,Low molecular weight phosphotyrosine protein phosphatase,Humans,M83653,P24666,DB00173,1
+BE0002791,Peroxisomal trans-2-enoyl-CoA reductase,Humans,AJ250303,Q9BY49,DB00173,1
+BE0004323,SRSF protein kinase 2,Humans,U88666,P78362,DB00173,1
+BE0001128,S-methyl-5'-thioadenosine phosphorylase,Humans,U22233,Q13126,DB00173,1
+BE0000236,Neutral amino acid transporter B(0),Humans,U53347,Q15758,DB00174; DB13146,2
+BE0002338,"Probable asparagine--tRNA ligase, mitochondrial",Humans,BC007800,Q96I59,DB00174,1
+BE0000607,"Asparagine--tRNA ligase, cytoplasmic",Humans,AJ000334,O43776,DB00174,1
+BE0000749,Sodium-dependent serotonin transporter,Humans,X70697,P31645,DB00176; DB00182; DB00191; DB00193; DB00215; DB00245; DB00285; DB00289; DB00321; DB00344; DB00408; DB00454; DB00458; DB00472; DB00476; DB00514; DB00540; DB00543; DB00574; DB00579; DB00656; DB00661; DB00715; DB00726; DB00805; DB00852; DB00907; DB00988; DB01104; DB01105; DB01114; DB01142; DB01149; DB01151; DB01175; DB01191; DB01242; DB01577; DB04821; DB04832; DB04896; DB06148; DB06204; DB06684; DB06700; DB06701; DB08918; DB09068; DB09167; DB09195; DB09225,51
+BE0000090,Potassium voltage-gated channel subfamily H member 2,Humans,U04270,Q12809,DB00176; DB00199; DB00204; DB00276; DB00280; DB00308; DB00342; DB00346; DB00455; DB00457; DB00458; DB00472; DB00477; DB00489; DB00537; DB00590; DB00604; DB00637; DB00661; DB00675; DB00679; DB00908; DB01026; DB01035; DB01074; DB01100; DB01110; DB01118; DB01136; DB01142; DB01149; DB01162; DB01182; DB01195; DB01211; DB01218; DB01244; DB04855; DB06144; DB06217; DB11090; DB11186; DB11386; DB11633; DB11642,45
+BE0000062,Type-1 angiotensin II receptor,Humans,M91464,P30556,DB00177; DB00275; DB00678; DB00796; DB00876; DB00966; DB01029; DB08822,8
+BE0000221,Angiotensin-converting enzyme,Humans,J04144,P12821,DB00178; DB00492; DB00519; DB00542; DB00584; DB00691; DB00722; DB00790; DB00881; DB01180; DB01197; DB01340; DB01348; DB09477; DB13166,15
+BE0005831,B1 bradykinin receptor,Humans,J04144,P46663,DB00178; DB01197; DB09477; DB14487; DB14533,5
+BE0000685,Sex hormone-binding globulin,Humans,X16349,P04278,DB00179; DB00255; DB00367; DB00396; DB00421; DB00539; DB00655; DB00675; DB00882; DB00890; DB00977; DB04573; DB04824; DB09371; DB11221; DB11619; DB14487; DB14533,18
+BE0000794,Glucocorticoid receptor,Humans,X03225,P04150,DB00180; DB00223; DB00240; DB00253; DB00288; DB00324; DB00351; DB00394; DB00396; DB00421; DB00443; DB00547; DB00588; DB00591; DB00596; DB00620; DB00635; DB00663; DB00687; DB00741; DB00764; DB00769; DB00834; DB00838; DB00846; DB00860; DB14596; DB00896; DB00959; DB01013; DB01047; DB01130; DB01185; DB01222; DB01234; DB01260; DB01380; DB01410; DB06781; DB08867; DB08906; DB09091; DB09095; DB11619; DB11921; DB13158; DB13867; DB14512; DB14539; DB14540; DB14541; DB14542; DB14543; DB14544,54
+BE0000217,Gamma-aminobutyric acid type B receptor subunit 1,Humans,AJ225028,Q9UBS5,DB00181; DB00996; DB01080; DB01956; DB02530,5
+BE0002340,Gamma-aminobutyric acid type B receptor subunit 2,Humans,AJ012188,O75899,DB00181; DB00996; DB02530,3
+BE0000118,Synaptic vesicular amine transporter,Humans,L09118,Q05940,DB00182; DB00206; DB00368; DB00502; DB00579; DB00865; DB00988; DB01089; DB01364; DB01576; DB01577; DB04821; DB04844; DB05381; DB06706; DB06714; DB12161,17
+BE0000647,Sodium-dependent dopamine transporter,Humans,M96670,Q01959,DB00182; DB00191; DB00245; DB00285; DB00408; DB00422; DB00454; DB00458; DB00476; DB00543; DB00579; DB00721; DB00726; DB00745; DB00830; DB00852; DB00865; DB00907; DB00937; DB00988; DB01104; DB01105; DB01114; DB01146; DB01149; DB01156; DB01161; DB01175; DB01576; DB01577; DB04821; DB06148; DB06413; DB06700; DB06701; DB14754,36
+BE0000867,Cocaine- and amphetamine-regulated transcript protein,Humans,U16826,Q16568,DB00182,1
+BE0001044,Trace amine-associated receptor 1,Humans,AF380185,Q96RJ0,DB00182; DB01255; DB01576; DB01577; DB06714,5
+BE0000486,Sodium-dependent noradrenaline transporter,Humans,M65105,P23975,DB00182; DB00191; DB00193; DB00226; DB00234; DB00245; DB00285; DB00289; DB00321; DB00344; DB00408; DB00422; DB00454; DB00458; DB00476; DB00514; DB00540; DB00543; DB00579; DB00696; DB00715; DB00726; DB00830; DB00852; DB00907; DB00934; DB00937; DB00988; DB01105; DB01114; DB01142; DB01149; DB01151; DB01156; DB01170; DB01173; DB01175; DB01221; DB01242; DB01364; DB01576; DB01577; DB01579; DB04821; DB04840; DB04896; DB06148; DB06204; DB06700; DB06701; DB08918; DB09167; DB09185; DB09225; DB14754,55
+BE0004888,Alpha adrenergic receptor,Humans,D25235,P35348,DB00182; DB00268; DB01365; DB09205; DB11273; DB11278; DB11577; DB13345,8
+BE0004872,Beta adrenergic receptor,Humans,J03019,P08588,DB00182; DB00217; DB00334; DB00540; DB00726; DB01365; DB11273; DB11278; DB13345,9
+BE0000756,D(2) dopamine receptor,Humans,M30625,P14416,DB00182; DB00246; DB00248; DB00268; DB00334; DB00363; DB00372; DB00391; DB00408; DB00409; DB00413; DB00420; DB00433; DB00450; DB00458; DB00477; DB00490; DB00502; DB00508; DB00540; DB00543; DB00555; DB00568; DB00589; DB00623; DB00679; DB00696; DB00714; DB00726; DB00734; DB00777; DB00805; DB00831; DB00850; DB00875; DB00915; DB00933; DB00934; DB00988; DB01043; DB01063; DB01069; DB01100; DB01151; DB01184; DB01186; DB01200; DB01221; DB01224; DB01233; DB01235; DB01238; DB01239; DB01267; DB01392; DB01403; DB01618; DB01621; DB01623; DB01624; DB04842; DB04844; DB04946; DB05271; DB05316; DB06016; DB06144; DB06148; DB06216; DB06288; DB08815; DB09097; DB09128; DB09225; DB11274; DB14185,76
+BE0002196,Amine oxidase [flavin-containing] B,Humans,S62734,P27338,DB00182; DB00191; DB00752; DB00780; DB00909; DB01037; DB01132; DB01171; DB01247; DB01367; DB01577; DB01626; DB03147; DB04820; DB04821; DB04832; DB06654,17
+BE0004909,Monoamine oxidase,Humans,M68840,P21397,DB00182; DB00721; DB01168; DB01171,4
+BE0008661,vesicular monoamine transporter 2 (VMAT2),Humans,M68840,Q99870,DB00182; DB11915; DB12010,3
+BE0001158,Gastrin/cholecystokinin type B receptor,Humans,L08112,P32239,DB00183,1
+BE0000849,Neuronal acetylcholine receptor subunit alpha-4,Humans,L35901,P43681,DB00184; DB00237; DB00241; DB00306; DB00312; DB00418; DB00514; DB00564; DB00572; DB00599; DB00657; DB00674; DB00747; DB00753; DB00783; DB00794; DB00849; DB00915; DB00981; DB01174; DB01245; DB01273; DB01351; DB01353; DB13952; DB13953; DB13954; DB13955; DB13956,29
+BE0000850,Neuronal acetylcholine receptor subunit beta-2,Humans,X53179,P17787,DB00184; DB00514; DB00564; DB00572; DB00657; DB00674; DB00747; DB00753; DB00981; DB01245; DB01273,11
+BE0000738,Neuronal acetylcholine receptor subunit alpha-2,Humans,U62431,Q15822,DB00184; DB00411; DB00416; DB00472; DB00483; DB00514; DB00565; DB00657; DB00674; DB00721; DB00728; DB00810; DB01199; DB01245; DB01336; DB01337; DB01338; DB01339,18
+BE0003585,Neuronal acetylcholine receptor subunit alpha-3,Humans,M86383,P32297,DB00184; DB00472; DB00514; DB00674; DB00848; DB00915; DB01090; DB01156; DB01227; DB01273,10
+BE0003586,Neuronal acetylcholine receptor subunit alpha-5,Humans,M83712,P30532,DB00184; DB00674,2
+BE0003587,Neuronal acetylcholine receptor subunit alpha-6,Humans,U62435,Q15825,DB00184; DB00674; DB01273,3
+BE0002343,Neuronal acetylcholine receptor subunit alpha-9,Humans,AJ243342,Q9UGM1,DB00184; DB00674,2
+BE0000411,Neuronal acetylcholine receptor subunit alpha-10,Humans,AJ278118,Q9GZZ6,DB00184; DB00202; DB00333; DB00674; DB01090; DB01116; DB01161,7
+BE0003588,Neuronal acetylcholine receptor subunit beta-3,Humans,U62438,Q05901,DB00184; DB00674,2
+BE0003584,Neuronal acetylcholine receptor subunit beta-4,Humans,U62439,P30926,DB00184; DB00472; DB00514; DB00674; DB01090; DB01227,6
+BE0002090,Cytochrome P450 19A1,Humans,M22246,P11511,DB00184; DB00357; DB00655; DB00894; DB00990; DB01006; DB01026; DB01217,8
+BE0000519,Choline O-acetyltransferase,Humans,S56138,P28329,DB00184,1
+BE0000045,Muscarinic acetylcholine receptor M3,Humans,X15266,P20309,DB00185; DB00193; DB00202; DB00246; DB00280; DB00332; DB00334; DB00340; DB00342; DB00363; DB00376; DB00383; DB00387; DB00408; DB00411; DB00420; DB00424; DB00434; DB00458; DB00462; DB00477; DB00496; DB00517; DB00540; DB00572; DB00599; DB00622; DB00715; DB00725; DB00747; DB00777; DB00809; DB00835; DB00934; DB00986; DB01019; DB01036; DB01062; DB01069; DB01085; DB01142; DB01151; DB01224; DB01231; DB01238; DB01239; DB01337; DB01338; DB01403; DB01409; DB01591; DB01625; DB03128; DB04843; DB06153; DB06702; DB06709; DB06787; DB08897; DB09076; DB09089; DB09167; DB09300; DB11181; DB11235; DB12278; DB13720; DB14185,68
+BE0000092,Muscarinic acetylcholine receptor M1,Humans,X52068,P11229,DB00185; DB00193; DB00202; DB00209; DB00219; DB00245; DB00246; DB00280; DB00332; DB00334; DB00340; DB00342; DB00354; DB00363; DB00366; DB00376; DB00383; DB00387; DB00392; DB00408; DB00411; DB00420; DB00424; DB00434; DB00458; DB00462; DB00477; DB00483; DB00496; DB00508; DB00517; DB00540; DB00543; DB00572; DB00622; DB00670; DB00715; DB00725; DB00747; DB00771; DB00777; DB00782; DB00804; DB00805; DB00809; DB00810; DB00835; DB00875; DB00907; DB00934; DB00940; DB00942; DB00979; DB00986; DB01019; DB01036; DB01062; DB01069; DB01085; DB01142; DB01148; DB01151; DB01175; DB01224; DB01231; DB01233; DB01238; DB01239; DB01403; DB01409; DB01591; DB01618; DB03128; DB04843; DB06153; DB06702; DB06787; DB08897; DB09076; DB09089; DB09167; DB11156; DB11181; DB11235; DB12278; DB14185,86
+BE0004797,GABA-A receptor (anion channel),Humans,X13584,P14867,DB00186; DB00189; DB00228; DB00231; DB00237; DB00241; DB00273; DB00292; DB00306; DB00312; DB00349; DB00371; DB00402; DB00404; DB00475; DB00543; DB00555; DB00628; DB00659; DB00753; DB00794; DB00801; DB00818; DB00829; DB00842; DB00897; DB01028; DB01043; DB01068; DB01107; DB01159; DB01189; DB01205; DB01215; DB01236; DB01437; DB01588; DB01589; DB01708; DB01956; DB09118; DB11859; DB11901,43
+BE0000736,Translocator protein,Humans,M36035,P30536,DB00186; DB00231; DB00404; DB00628; DB00829; DB00897; DB00962; DB01068; DB01178; DB01198; DB01544; DB01587,12
+BE0000172,Beta-1 adrenergic receptor,Humans,J03019,P08588,DB00187; DB00195; DB00221; DB00243; DB00248; DB00264; DB00335; DB00368; DB00373; DB00397; DB00408; DB00489; DB00521; DB00555; DB00571; DB00598; DB00612; DB00668; DB00841; DB00852; DB00871; DB00938; DB00960; DB00983; DB01001; DB01064; DB01102; DB01118; DB01136; DB01151; DB01182; DB01193; DB01203; DB01210; DB01214; DB01288; DB01291; DB01297; DB01359; DB01407; DB01580; DB04846; DB04855; DB04861; DB06216; DB06262; DB09068; DB09351; DB11278,49
+BE0002348,Proteasome subunit beta type-5,Humans,D29011,P28074,DB00188; DB08889,2
+BE0002347,Proteasome subunit beta type-1,Humans,D00761,P20618,DB00188; DB08889,2
+BE0002198,Amine oxidase [flavin-containing] A,Humans,M68840,P21397,DB00191; DB00752; DB00780; DB00805; DB00909; DB01037; DB01171; DB01247; DB01577; DB01626; DB03147; DB04820; DB04821; DB04832,14
+BE0003476,Pro-neuropeptide Y,Humans,BC029497,P01303,DB00191,1
+BE0000197,Sodium channel protein type 5 subunit alpha,Humans,M77235,Q14524,DB00192; DB00252; DB00280; DB00281; DB00379; DB00473; DB00527; DB00532; DB00564; DB00661; DB00680; DB00740; DB00750; DB00754; DB00776; DB00868; DB00907; DB00908; DB00909; DB01035; DB01056; DB01182; DB01195; DB01228; DB01320; DB01346; DB01426; DB06217; DB11633,29
+BE0000770,Mu-type opioid receptor,Humans,L25119,P35372,DB00193; DB00295; DB00318; DB00321; DB00327; DB00333; DB00454; DB00497; DB00504; DB00514; DB00611; DB00647; DB00652; DB00704; DB00708; DB00802; DB00813; DB00836; DB00844; DB00854; DB00899; DB00904; DB00913; DB00921; DB00956; DB01081; DB01183; DB01192; DB01209; DB01221; DB01227; DB01452; DB06204; DB06230; DB06274; DB06800; DB09049; DB09061; DB09089; DB09209; DB09272; DB11186; DB11691,43
+BE0000533,5-hydroxytryptamine receptor 2C,Humans,M81778,P28335,DB00193; DB00246; DB00247; DB00248; DB00321; DB00334; DB00363; DB00370; DB00408; DB00420; DB00434; DB00458; DB00472; DB00477; DB00540; DB00543; DB00574; DB00589; DB00623; DB00656; DB00696; DB00714; DB00726; DB00734; DB00777; DB00805; DB00934; DB01079; DB01142; DB01149; DB01151; DB01186; DB01191; DB01200; DB01224; DB01238; DB01239; DB01242; DB01267; DB01392; DB01403; DB04871; DB04948; DB06144; DB06148; DB06153; DB06216; DB06594; DB09195; DB14185,50
+BE0000632,Kappa-type opioid receptor,Humans,U11053,P41145,DB00193; DB00289; DB00295; DB00318; DB00321; DB00327; DB00370; DB00396; DB00454; DB00497; DB00514; DB00555; DB00611; DB00647; DB00652; DB00704; DB00708; DB00813; DB00825; DB00836; DB00844; DB00854; DB00899; DB00921; DB01183; DB01209; DB01221; DB01452; DB06148; DB06204; DB06230; DB06274; DB06800; DB09209; DB09272; DB11186; DB11691,37
+BE0000420,Delta-type opioid receptor,Humans,U07882,P41143,DB00193; DB00295; DB00318; DB00321; DB00327; DB00333; DB00497; DB00514; DB00611; DB00647; DB00704; DB00708; DB00813; DB00836; DB00844; DB00854; DB00899; DB00921; DB00956; DB01081; DB01183; DB01192; DB01221; DB01452; DB06204; DB06230; DB06274; DB09061; DB09209; DB09272; DB11691,31
+BE0003438,Alpha-7 nicotinic cholinergic receptor subunit,Humans,AY641831,Q693P7,DB00193; DB00202; DB01043; DB01221,4
+BE0000694,Beta-2 adrenergic receptor,Humans,Y00106,P07550,DB00195; DB00221; DB00248; DB00264; DB00335; DB00368; DB00373; DB00397; DB00449; DB00489; DB00521; DB00571; DB00598; DB00612; DB00668; DB00816; DB00841; DB00852; DB00867; DB00871; DB00925; DB00938; DB00960; DB00983; DB01001; DB01064; DB01102; DB01136; DB01151; DB01182; DB01193; DB01203; DB01210; DB01214; DB01274; DB01288; DB01291; DB01359; DB01366; DB01407; DB01580; DB04846; DB04861; DB05039; DB06216; DB06262; DB06814; DB09080; DB09082; DB11587; DB13139,51
+BE0002705,Liver carboxylesterase 1,Humans,M73499,P23141,DB00198; DB00382; DB00454; DB00583; DB00647; DB00907; DB01183; DB01452; DB01599; DB02659; DB04838,11
+BE0000914,Sialidase-1,Humans,AF040958,Q99519,DB00198,1
+BE0003200,Sialidase-2,Humans,Y16535,Q9Y3R4,DB00198; DB00558,2
+BE0003521,Motilin receptor,Humans,AL137000,O43193,DB00199,1
+BE0000013,Adenosine receptor A1,Humans,S45235,P30542,DB00201; DB00277; DB00555; DB00640; DB00651; DB00806; DB00824; DB00996; DB01223; DB01303; DB09061,11
+BE0000924,Adenosine receptor A2a,Humans,M97370,P29274,DB00201; DB00277; DB00358; DB00555; DB00640; DB00651; DB00806; DB00824; DB01303; DB06213,10
+BE0000739,Ryanodine receptor 1,Humans,J05200,P21817,DB00201; DB01219; DB09085,3
+BE0004922,Cyclic nucleotide phosphodiesterase,Humans,U40370,P54750,DB00201,1
+BE0002385,DNA-dependent protein kinase catalytic subunit,Humans,U47077,P78527,DB00201,1
+BE0002406,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform",Humans,Y10055,O00329,DB00201; DB11952; DB12010; DB12483,4
+BE0002379,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform",Humans,Z29090,P42336,DB00201; DB12015; DB12483,3
+BE0002407,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit beta isoform",Humans,S67334,P42338,DB00201,1
+BE0004914,"Inositol 1,4,5-trisphosphate receptor",Humans,S67334,Q14643,DB00201,1
+BE0004874,Serine-protein kinase ATM,Humans,S67334,Q13315,DB00201,1
+BE0000560,Muscarinic acetylcholine receptor M2,Humans,M16404,P08172,DB00202; DB00246; DB00280; DB00332; DB00334; DB00340; DB00342; DB00363; DB00376; DB00383; DB00387; DB00392; DB00408; DB00411; DB00420; DB00424; DB00434; DB00458; DB00462; DB00483; DB00496; DB00508; DB00517; DB00540; DB00572; DB00622; DB00715; DB00725; DB00728; DB00747; DB00777; DB00804; DB00809; DB00835; DB00907; DB00934; DB00986; DB01019; DB01036; DB01062; DB01069; DB01075; DB01085; DB01142; DB01148; DB01151; DB01224; DB01231; DB01238; DB01239; DB01336; DB01337; DB01338; DB01403; DB01409; DB01591; DB03128; DB04834; DB06153; DB06702; DB06787; DB08801; DB08897; DB09076; DB09089; DB09167; DB09300; DB11181; DB11235; DB12278; DB14185,71
+BE0000182,"cGMP-specific 3',5'-cyclic phosphodiesterase",Humans,AF043731,O76074,DB00203; DB00277; DB00806; DB00820; DB00862; DB00975; DB04272; DB06237; DB06267; DB12010,10
+BE0003556,"Retinal rod rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit gamma",Humans,M36476,P18545,DB00203; DB00862,2
+BE0003557,"Retinal cone rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit gamma",Humans,D45399,Q13956,DB00203; DB00862,2
+BE0000210,Potassium channel subfamily K member 2,Humans,AF129399,O95069,DB00204; DB04855,2
+BE0001131,ATP-sensitive inward rectifier potassium channel 12,Humans,L36069,Q14500,DB00204,1
+BE0001153,Beta-hexosaminidase subunit beta,Humans,M13519,P07686,DB00205,1
+BE0004674,Chromaffin granule amine transporter,Humans,L09118,P54219,DB00206; DB00368; DB01577,3
+BE0003408,Baculoviral IAP repeat-containing protein 5,Humans,U75285,O15392,DB00206; DB04115,2
+BE0000110,P2Y purinoceptor 12,Humans,AF313449,Q9H244,DB00208; DB00374; DB00758; DB01240; DB06209; DB06441; DB08816,7
+BE0000144,Retinoic acid receptor gamma,Humans,M24857,P13631,DB00210; DB00459; DB00523; DB00755; DB00799; DB00982,6
+BE0000206,Retinoic acid receptor beta,Humans,X07282,P10826,DB00210; DB00459; DB00523; DB00755; DB00799,5
+BE0000707,Retinoic acid receptor RXR-gamma,Humans,U38480,P48443,DB00210; DB00307; DB00412; DB00459; DB00523; DB00755; DB01393; DB03756,8
+BE0000078,Retinoic acid receptor RXR-beta,Humans,X63522,P28702,DB00210; DB00307; DB00412; DB00459; DB00523; DB00755; DB00799; DB01393; DB03756,9
+BE0000663,Retinoic acid receptor alpha,Humans,X06614,P10276,DB00210; DB00459; DB00523; DB00755; DB00799; DB00982,6
+BE0000501,Alpha-1A adrenergic receptor,Humans,D25235,P35348,DB00211; DB00246; DB00248; DB00298; DB00321; DB00334; DB00346; DB00363; DB00368; DB00388; DB00408; DB00420; DB00449; DB00450; DB00457; DB00458; DB00477; DB00540; DB00543; DB00555; DB00575; DB00590; DB00610; DB00622; DB00656; DB00661; DB00668; DB00679; DB00692; DB00696; DB00699; DB00706; DB00723; DB00726; DB00734; DB00751; DB00777; DB00797; DB00800; DB00831; DB00852; DB00865; DB00875; DB00908; DB00925; DB00935; DB00964; DB01069; DB01136; DB01142; DB01149; DB01162; DB01175; DB01186; DB01200; DB01224; DB01238; DB01253; DB01267; DB01364; DB01403; DB01576; DB01579; DB01624; DB04855; DB04946; DB04948; DB06144; DB06153; DB06207; DB06216; DB06262; DB06694; DB06706; DB06711; DB06764; DB12278; DB14185,78
+BE0000575,Alpha-1B adrenergic receptor,Humans,M99589,P35368,DB00211; DB00246; DB00248; DB00298; DB00321; DB00334; DB00346; DB00363; DB00368; DB00388; DB00408; DB00420; DB00457; DB00458; DB00477; DB00540; DB00575; DB00590; DB00622; DB00661; DB00668; DB00679; DB00692; DB00696; DB00706; DB00723; DB00726; DB00734; DB00745; DB00777; DB00800; DB00908; DB00925; DB00935; DB01136; DB01142; DB01149; DB01162; DB01186; DB01200; DB01224; DB01238; DB01267; DB01403; DB01576; DB01579; DB01608; DB04855; DB06144; DB06153; DB06207; DB06262; DB06694; DB09128; DB14185,55
+BE0000715,Alpha-1D adrenergic receptor,Humans,M76446,P25100,DB00211; DB00248; DB00298; DB00321; DB00346; DB00368; DB00388; DB00420; DB00457; DB00458; DB00540; DB00575; DB00590; DB00622; DB00661; DB00668; DB00692; DB00696; DB00706; DB00723; DB00777; DB00800; DB00908; DB00925; DB00935; DB01136; DB01142; DB01162; DB01186; DB01200; DB01224; DB01403; DB04855; DB06144; DB06153; DB06207; DB06262; DB06694,38
+BE0000349,Potassium-transporting ATPase alpha chain 1,Humans,J05451,P20648,DB00213; DB00338; DB00448; DB00736; DB01129; DB05351,6
+BE0000502,Solute carrier family 12 member 1,Humans,U58130,Q13621,DB00214; DB00232; DB00310; DB00534; DB00695; DB00774; DB00887; DB00903; DB01325; DB02925,10
+BE0000281,Solute carrier family 12 member 2,Humans,U30246,P55011,DB00214; DB00887; DB01325,3
+BE0000442,Histamine H1 receptor,Humans,Z34897,P35367,DB00215; DB00245; DB00246; DB00283; DB00321; DB00334; DB00341; DB00342; DB00354; DB00363; DB00366; DB00370; DB00405; DB00408; DB00420; DB00427; DB00433; DB00434; DB00455; DB00458; DB00477; DB00540; DB00543; DB00555; DB00557; DB00568; DB00637; DB00656; DB00719; DB00726; DB00734; DB00737; DB00748; DB00751; DB00768; DB00777; DB00792; DB00797; DB00835; DB00902; DB00920; DB00934; DB00950; DB00967; DB00972; DB00985; DB01069; DB01075; DB01084; DB01106; DB01114; DB01142; DB01146; DB01151; DB01173; DB01175; DB01176; DB01224; DB01237; DB01238; DB01239; DB01246; DB01267; DB01403; DB01619; DB01620; DB01624; DB04837; DB04841; DB04890; DB04946; DB05381; DB06016; DB06148; DB06153; DB06216; DB06282; DB06691; DB06698; DB06766; DB08799; DB08801; DB08936; DB09167; DB09195; DB09488; DB09555; DB11235; DB11591; DB11614; DB14185,91
+BE0000659,5-hydroxytryptamine receptor 1D,Humans,M89955,P28221,DB00216; DB00246; DB00248; DB00315; DB00320; DB00321; DB00363; DB00408; DB00589; DB00669; DB00696; DB00714; DB00726; DB00734; DB00918; DB00952; DB00953; DB00998; DB01186; DB01200; DB01224; DB01238; DB01267; DB01392; DB04948; DB06153; DB14185,27
+BE0000797,5-hydroxytryptamine receptor 1B,Humans,D10995,P28222,DB00216; DB00246; DB00247; DB00248; DB00315; DB00320; DB00321; DB00363; DB00408; DB00543; DB00571; DB00589; DB00669; DB00696; DB00714; DB00904; DB00918; DB00952; DB00953; DB00960; DB00998; DB01186; DB01200; DB01224; DB01238; DB01359; DB01392; DB06153; DB06216; DB09068; DB14185,31
+BE0000460,5-hydroxytryptamine receptor 1F,Humans,L05597,P30939,DB00216; DB00247; DB00315; DB00669; DB00696; DB00952; DB00953; DB06148,8
+BE0000291,5-hydroxytryptamine receptor 1A,Humans,M28269,P08908,DB00216; DB00246; DB00247; DB00248; DB00315; DB00321; DB00363; DB00408; DB00413; DB00422; DB00458; DB00477; DB00490; DB00540; DB00543; DB00571; DB00589; DB00656; DB00669; DB00696; DB00714; DB00726; DB00734; DB00904; DB00952; DB00960; DB00988; DB01142; DB01149; DB01151; DB01186; DB01200; DB01224; DB01238; DB01267; DB01359; DB01392; DB01616; DB01618; DB01621; DB04908; DB04946; DB04948; DB05271; DB06016; DB06148; DB06153; DB06216; DB06684; DB08815; DB09061; DB09068; DB09128; DB09167; DB14185,55
+BE0000476,5-hydroxytryptamine receptor 1E,Humans,M91467,P28566,DB00216; DB00246; DB00247; DB00363; DB00408; DB01224; DB01238; DB14185,8
+BE0000393,5-hydroxytryptamine receptor 2B,Humans,X77307,P41595,DB00216; DB00247; DB00248; DB00320; DB00353; DB00508; DB00543; DB00574; DB00589; DB00696; DB00714; DB00805; DB01079; DB01142; DB01186; DB01200; DB01239; DB01242; DB01392; DB06016; DB06148; DB06153; DB06216,23
+BE0000650,5-hydroxytryptamine receptor 7,Humans,U68487,P34969,DB00216; DB00246; DB00247; DB00248; DB00321; DB00363; DB00408; DB00434; DB00458; DB00477; DB00543; DB00589; DB00734; DB00751; DB00934; DB00988; DB01200; DB01224; DB01238; DB01267; DB04946; DB04948; DB06148; DB06216; DB06288; DB08815; DB09068; DB09225; DB14185,29
+BE0004864,Alpha-2 adrenergic receptors,Humans,M23533,P08913,DB00217; DB00397; DB00433; DB00477; DB00540; DB00543; DB00697; DB00934; DB01151; DB06707; DB09167; DB09195,12
+BE0000644,ATP-sensitive inward rectifier potassium channel 1,Humans,U12541,P48048,DB00217; DB00222; DB00350; DB00414; DB01124; DB01382,6
+BE0000742,DNA topoisomerase 2-alpha,Humans,J04088,P11388,DB00218; DB00276; DB00380; DB00385; DB00444; DB00445; DB00467; DB00487; DB00537; DB00685; DB00694; DB00773; DB00978; DB00997; DB01059; DB01137; DB01165; DB01177; DB01179; DB01204; DB01208; DB09047,22
+BE0000708,ATP-sensitive inward rectifier potassium channel 11,Humans,D50582,Q14654,DB00222; DB00308; DB00661; DB00922; DB01119; DB01154; DB11633,7
+BE0000207,ATP-binding cassette sub-family C member 8,Humans,L78243,Q09428,DB00222; DB00672; DB00731; DB00912; DB01067; DB01120; DB01124; DB01251; DB01382,9
+BE0000516,Integrin alpha-L,Humans,Y00796,P20701,DB00227; DB00641; DB11611,3
+BE0002366,Histone deacetylase 2,Humans,U31814,Q92769,DB00227; DB00277; DB00313; DB01223; DB01303; DB02546; DB06176; DB09091,8
+BE0004857,Glycine receptor (alpha-1/beta),Humans,X52009,P23415,DB00228; DB09061,2
+BE0000415,Intermediate conductance calcium-activated potassium channel protein 4,Humans,AF000972,O15554,DB00228; DB00257; DB00468; DB01110; DB01159,5
+BE0000781,Potassium voltage-gated channel subfamily A member 1,Humans,L02750,Q09470,DB00228; DB00321; DB00753; DB01028; DB01115; DB01189; DB01236; DB11640,8
+BE0000218,Calcium-transporting ATPase type 2C member 1,Humans,AF181120,P98194,DB00228; DB00753; DB01028; DB01159; DB01189; DB01236,6
+BE0000484,"ATP synthase subunit delta, mitochondrial",Humans,X63422,P30049,DB00228; DB00753; DB01028; DB01159; DB01189; DB01236,6
+BE0000691,Voltage-dependent calcium channel subunit alpha-2/delta-1,Humans,M76559,P54289,DB00230; DB00270; DB00308; DB00401; DB00622; DB00653; DB00996; DB01023; DB01054; DB01115; DB04838; DB06712; DB08872,13
+BE0000795,Gamma-aminobutyric acid receptor subunit alpha-1,Humans,X13584,P14867,DB00231; DB00241; DB00273; DB00292; DB00306; DB00312; DB00371; DB00395; DB00402; DB00404; DB00418; DB00425; DB00474; DB00543; DB00599; DB00683; DB00690; DB00753; DB00794; DB00801; DB00829; DB00842; DB00849; DB00897; DB00962; DB01028; DB01107; DB01154; DB01159; DB01174; DB01198; DB01205; DB01215; DB01236; DB01346; DB01351; DB01353; DB01437; DB01544; DB01558; DB01559; DB01587; DB01588; DB01589; DB01595; DB13872,46
+BE0000381,Gamma-aminobutyric acid receptor subunit alpha-2,Humans,S62907,P47869,DB00231; DB00241; DB00306; DB00312; DB00371; DB00402; DB00404; DB00418; DB00425; DB00599; DB00683; DB00690; DB00794; DB00801; DB00829; DB00842; DB00849; DB00897; DB01198; DB01215; DB01346; DB01351; DB01353; DB01544; DB01558; DB01559; DB01588; DB01589; DB01595; DB13872,30
+BE0000523,Gamma-aminobutyric acid receptor subunit alpha-3,Humans,S62908,P34903,DB00231; DB00241; DB00306; DB00312; DB00371; DB00395; DB00402; DB00404; DB00418; DB00425; DB00599; DB00683; DB00690; DB00794; DB00801; DB00829; DB00842; DB00849; DB00897; DB01198; DB01215; DB01351; DB01353; DB01544; DB01558; DB01559; DB01588; DB01589; DB01595; DB13872,30
+BE0000478,Gamma-aminobutyric acid receptor subunit alpha-4,Humans,U30461,P48169,DB00231; DB00241; DB00306; DB00312; DB00371; DB00404; DB00418; DB00599; DB00683; DB00690; DB00794; DB00842; DB00849; DB00897; DB01351; DB01353; DB01544; DB01558; DB01595,19
+BE0000471,Gamma-aminobutyric acid receptor subunit alpha-5,Humans,L08485,P31644,DB00231; DB00241; DB00306; DB00312; DB00371; DB00395; DB00402; DB00404; DB00418; DB00599; DB00683; DB00690; DB00794; DB00801; DB00829; DB00842; DB00849; DB00897; DB01198; DB01205; DB01215; DB01351; DB01353; DB01544; DB01558; DB01559; DB01588; DB01589; DB01595; DB13872,30
+BE0000764,Gamma-aminobutyric acid receptor subunit alpha-6,Humans,S81944,Q16445,DB00231; DB00241; DB00306; DB00312; DB00371; DB00404; DB00418; DB00599; DB00683; DB00690; DB00794; DB00842; DB00849; DB00897; DB01351; DB01353; DB01544; DB01558; DB01595,19
+BE0002344,Gamma-aminobutyric acid receptor subunit beta-1,Humans,X14767,P18505,DB00231; DB00431; DB00690; DB00801; DB00829; DB00842; DB00897; DB01215; DB01440; DB01558; DB01559; DB01587; DB01588; DB01589; DB01595,15
+BE0002346,Gamma-aminobutyric acid receptor subunit beta-2,Humans,S67368,P47870,DB00231; DB00395; DB00690; DB00801; DB00818; DB00829; DB00842; DB00897; DB01215; DB01558; DB01559; DB01588; DB01595; DB06716,14
+BE0002345,Gamma-aminobutyric acid receptor subunit beta-3,Humans,M82919,P28472,DB00231; DB00431; DB00690; DB00801; DB00818; DB00829; DB00842; DB00897; DB01215; DB01544; DB01558; DB01559; DB01588; DB01589; DB01595; DB06716,16
+BE0003593,Gamma-aminobutyric acid receptor subunit gamma-1,Humans,AK122845,Q8N1C3,DB00231; DB00690; DB00801; DB00829; DB00842; DB00897; DB01215; DB01558; DB01559; DB01587; DB01588; DB01589; DB01595,13
+BE0003592,Gamma-aminobutyric acid receptor subunit gamma-2,Humans,X15376,P18507,DB00231; DB00395; DB00425; DB00690; DB00801; DB00829; DB00842; DB00897; DB01205; DB01215; DB01544; DB01558; DB01559; DB01588; DB01589; DB01595; DB13872,17
+BE0003594,Gamma-aminobutyric acid receptor subunit gamma-3,Humans,S82769,Q99928,DB00231; DB00690; DB00801; DB00829; DB00842; DB00897; DB01215; DB01558; DB01559; DB01588; DB01589; DB01595,12
+BE0003599,Gamma-aminobutyric acid receptor subunit delta,Humans,AF016917,O14764,DB00231; DB00690; DB00801; DB00829; DB00842; DB00897; DB01215; DB01558; DB01559; DB01587; DB01588; DB01589; DB01595,13
+BE0003595,Gamma-aminobutyric acid receptor subunit epsilon,Humans,U66661,P78334,DB00231; DB00690; DB00801; DB00829; DB00842; DB00897; DB01215; DB01558; DB01559; DB01587; DB01588; DB01589; DB01595,13
+BE0003596,Gamma-aminobutyric acid receptor subunit pi,Humans,U95367,O00591,DB00231; DB00690; DB00801; DB00829; DB00842; DB00897; DB01215; DB01558; DB01559; DB01588; DB01589; DB01595,12
+BE0000129,Gamma-aminobutyric acid receptor subunit rho-1,Humans,M62400,P24046,DB00231; DB00431; DB00690; DB00801; DB00829; DB00842; DB00897; DB01215; DB01558; DB01559; DB01588; DB01589; DB01595,13
+BE0003598,Gamma-aminobutyric acid receptor subunit rho-2,Humans,M86868,P28476,DB00231; DB00690; DB00801; DB00829; DB00842; DB00897; DB01215; DB01558; DB01559; DB01588; DB01589; DB01595,12
+BE0003619,Gamma-aminobutyric acid receptor subunit rho-3,Humans,AC026100,A8MPY1,DB00231; DB00690; DB00801; DB00829; DB00842; DB00897; DB01215; DB01558; DB01559; DB01588; DB01589; DB01595,12
+BE0003597,Gamma-aminobutyric acid receptor subunit theta,Humans,AF189259,Q9UN88,DB00231; DB00690; DB00829; DB00842; DB00897; DB01558; DB01595,7
+BE0000267,Carbonic anhydrase 1,Humans,X05014,P00915,DB00232; DB00273; DB00310; DB00381; DB00423; DB00436; DB00562; DB00606; DB00703; DB00774; DB00819; DB00869; DB00880; DB00909; DB00999; DB01021; DB01031; DB01119; DB01144; DB01194; DB01325; DB09460; DB09472,23
+BE0000322,Carbonic anhydrase 2,Humans,M77181,P00918,DB00232; DB00273; DB00391; DB00436; DB00482; DB00562; DB00580; DB00606; DB00695; DB00703; DB00774; DB00819; DB00869; DB00880; DB00909; DB00999; DB01021; DB01031; DB01119; DB01144; DB01194; DB01325; DB09460; DB09472,24
+BE0000535,Carbonic anhydrase 4,Humans,M83670,P22748,DB00232; DB00273; DB00436; DB00562; DB00606; DB00703; DB00774; DB00819; DB00869; DB00909; DB01021; DB01144; DB01194; DB09460,14
+BE0004655,Inhibitor of nuclear factor kappa-B kinase subunit alpha,Humans,L15326,O15111,DB00233; DB00244; DB00795; DB06151,4
+BE0003768,Group IIE secretory phospholipase A2,Humans,AF189279,Q9NZK7,DB00233; DB03585; DB04743,3
+BE0000436,"cGMP-inhibited 3',5'-cyclic phosphodiesterase A",Humans,M91667,Q14432,DB00235; DB00261; DB00277; DB00922; DB01166; DB01223; DB01303; DB01427; DB04880,9
+BE0000325,Ribonucleoside-diphosphate reductase large subunit,Humans,X59543,P23921,DB00242; DB00441; DB00631; DB01073,4
+BE0002450,Ribonucleoside-diphosphate reductase subunit M2,Humans,X59618,P31350,DB00242; DB05260,2
+BE0003613,Ribonucleoside-diphosphate reductase subunit M2 B,Humans,AB036063,Q7LG56,DB00242,1
+BE0000546,DNA polymerase alpha catalytic subunit,Humans,X06745,P09884,DB00242; DB00631; DB01073; DB01280,4
+BE0003614,DNA polymerase epsilon catalytic subunit A,Humans,L09561,Q07864,DB00242,1
+BE0003615,DNA polymerase epsilon subunit 2,Humans,AF025840,P56282,DB00242,1
+BE0003617,DNA polymerase epsilon subunit 3,Humans,AF226077,Q9NRF9,DB00242,1
+BE0003616,DNA polymerase epsilon subunit 4,Humans,BC031331,Q9NR33,DB00242,1
+BE0000250,Purine nucleoside phosphorylase,Humans,X00737,P00491,DB00242; DB00900,2
+BE0008662,Voltage gated sodium channel,Humans,-,-,DB00243; DB09085; DB09088; DB09342; DB09345; DB11148; DB11186; DB13908,8
+BE0008715,Voltage-dependent L-type calcium channel,Humans,M92270,Q13936,DB00243; DB00825; DB09089; DB09236; DB09238,5
+BE0004863,Alpha-1 adrenergic receptors,Humans,D25235,P35348,DB00243; DB00370; DB00433; DB00457; DB00477; DB00543; DB00598; DB00697; DB00841; DB00934; DB01151; DB06148; DB09167; DB09195,14
+BE0001154,Inhibitor of nuclear factor kappa-B kinase subunit beta,Humans,AF029684,O14920,DB00244; DB00795; DB00945; DB00995; DB01169; DB06151; DB12010,7
+BE0001075,Myeloperoxidase,Humans,J02694,P05164,DB00244; DB00535; DB00583; DB01065; DB04821,5
+BE0000020,D(1A) dopamine receptor,Humans,X55760,P21728,DB00246; DB00248; DB00334; DB00353; DB00363; DB00372; DB00397; DB00408; DB00420; DB00477; DB00502; DB00508; DB00543; DB00589; DB00623; DB00679; DB00714; DB00734; DB00777; DB00800; DB00805; DB00850; DB00875; DB00988; DB01063; DB01186; DB01200; DB01224; DB01235; DB01238; DB01239; DB01267; DB01403; DB01608; DB01621; DB01623; DB01624; DB04946; DB05271; DB06216; DB14185,41
+BE0000145,D(1B) dopamine receptor,Humans,X58454,P21918,DB00246; DB00248; DB00334; DB00408; DB00477; DB00589; DB00714; DB00800; DB00988; DB01186; DB01200; DB01224; DB01235; DB01238; DB01403; DB01624; DB05271; DB14185,18
+BE0000451,5-hydroxytryptamine receptor 2A,Humans,S42168,P28223,DB00246; DB00247; DB00248; DB00321; DB00334; DB00363; DB00370; DB00408; DB00409; DB00420; DB00434; DB00458; DB00477; DB00502; DB00540; DB00543; DB00555; DB00574; DB00589; DB00604; DB00623; DB00656; DB00679; DB00696; DB00714; DB00715; DB00726; DB00734; DB00751; DB00777; DB00805; DB00843; DB00875; DB00924; DB00933; DB00934; DB01069; DB01079; DB01142; DB01149; DB01151; DB01186; DB01200; DB01224; DB01238; DB01239; DB01242; DB01267; DB01392; DB01403; DB01618; DB01621; DB01623; DB01624; DB04842; DB04908; DB04946; DB05316; DB06016; DB06144; DB06148; DB06153; DB06216; DB06288; DB08815; DB09061; DB09128; DB09167; DB09195; DB09225; DB14185,71
+BE0000581,D(3) dopamine receptor,Humans,U32499,P35462,DB00246; DB00248; DB00268; DB00334; DB00363; DB00391; DB00408; DB00409; DB00413; DB00477; DB00502; DB00543; DB00589; DB00714; DB00734; DB00988; DB01100; DB01184; DB01186; DB01200; DB01224; DB01235; DB01238; DB01239; DB01267; DB01392; DB01403; DB04946; DB05271; DB06016; DB06148; DB06216; DB06288; DB11274; DB14185,35
+BE0000389,D(4) dopamine receptor,Humans,L12398,P21917,DB00246; DB00248; DB00268; DB00334; DB00363; DB00372; DB00408; DB00409; DB00413; DB00420; DB00477; DB00543; DB00589; DB00714; DB00734; DB00777; DB00988; DB01186; DB01200; DB01224; DB01235; DB01238; DB01267; DB01403; DB04908; DB04946; DB05271; DB06216; DB14185,29
+BE0000311,5-hydroxytryptamine receptor 3A,Humans,D49394,P46098,DB00246; DB00333; DB00334; DB00363; DB00377; DB00408; DB00543; DB00555; DB00604; DB00721; DB00726; DB00728; DB00757; DB00889; DB00904; DB00969; DB00988; DB01043; DB01156; DB01161; DB01199; DB01221; DB01224; DB01233; DB01238; DB06204; DB09061; DB09068; DB11699; DB14185,30
+BE0000945,5-hydroxytryptamine receptor 6,Humans,L41147,P50406,DB00246; DB00321; DB00334; DB00363; DB00408; DB00458; DB00477; DB00540; DB00543; DB01142; DB01224; DB01238; DB04946; DB06144; DB06148; DB06216; DB09225; DB14185,18
+BE0000289,Alpha-2A adrenergic receptor,Humans,M23533,P08913,DB00246; DB00248; DB00320; DB00321; DB00363; DB00368; DB00370; DB00408; DB00413; DB00449; DB00457; DB00484; DB00543; DB00555; DB00575; DB00589; DB00629; DB00633; DB00656; DB00668; DB00692; DB00696; DB00714; DB00726; DB00734; DB00751; DB00797; DB00800; DB00852; DB00865; DB00925; DB00935; DB00964; DB00968; DB01018; DB01136; DB01149; DB01186; DB01200; DB01224; DB01238; DB01267; DB01392; DB01403; DB01577; DB01608; DB01624; DB04846; DB04855; DB04948; DB06148; DB06153; DB06216; DB06262; DB06694; DB06711; DB08815; DB09242; DB11278; DB11738; DB14185,61
+BE0000572,Alpha-2B adrenergic receptor,Humans,M34041,P18089,DB00246; DB00248; DB00292; DB00363; DB00368; DB00408; DB00457; DB00484; DB00575; DB00589; DB00629; DB00668; DB00696; DB00714; DB00726; DB00734; DB00797; DB00800; DB00925; DB00935; DB00964; DB01018; DB01136; DB01186; DB01200; DB01224; DB01238; DB01267; DB01392; DB01403; DB01577; DB04846; DB04855; DB05271; DB06148; DB06153; DB06216; DB06262; DB06694; DB14185,40
+BE0000342,Alpha-2C adrenergic receptor,Humans,J03853,P18825,DB00246; DB00248; DB00363; DB00368; DB00408; DB00484; DB00575; DB00589; DB00714; DB00734; DB00797; DB00800; DB00925; DB00935; DB01136; DB01186; DB01200; DB01224; DB01238; DB01267; DB01392; DB01403; DB01577; DB04846; DB04855; DB04946; DB06148; DB06153; DB06216; DB06262; DB06694; DB08815; DB09128; DB14185,34
+BE0000405,Muscarinic acetylcholine receptor M4,Humans,M16405,P08173,DB00246; DB00334; DB00340; DB00342; DB00363; DB00376; DB00387; DB00408; DB00411; DB00420; DB00424; DB00458; DB00496; DB00540; DB00572; DB00622; DB00715; DB00725; DB00747; DB00777; DB00809; DB00835; DB00934; DB01019; DB01036; DB01069; DB01085; DB01142; DB01151; DB01224; DB01238; DB01239; DB01403; DB01409; DB01591; DB01625; DB03128; DB06702; DB06787; DB08897; DB09076; DB09089; DB09167; DB11181; DB11235; DB12278; DB14185,47
+BE0000247,Muscarinic acetylcholine receptor M5,Humans,M80333,P08912,DB00246; DB00340; DB00342; DB00363; DB00376; DB00408; DB00420; DB00458; DB00483; DB00496; DB00540; DB00572; DB00622; DB00715; DB00725; DB00747; DB00777; DB00835; DB00934; DB01036; DB01069; DB01142; DB01151; DB01224; DB01238; DB01239; DB01403; DB01409; DB01591; DB06702; DB08897; DB09076; DB09167; DB11181; DB11235; DB12278; DB14185,37
+BE0004889,D(1) dopamine receptor,Humans,X55760,P21728,DB00248; DB00334; DB00408; DB00458; DB00477; DB00555; DB00568; DB00696; DB00726; DB00988; DB06148; DB09097; DB09225; DB11274; DB11584,15
+BE0004916,D(2S) dopamine receptor,Humans,-,-,DB00248,1
+BE0004915,D(2L) dopamine receptor,Humans,-,-,DB00248,1
+BE0000141,Sodium channel protein type 1 subunit alpha,Humans,AF225985,P35498,DB00252; DB00273; DB00909; DB01121; DB01438; DB01595; DB04855; DB04930,8
+BE0003635,Sodium channel subunit beta-1,Humans,L10338,Q07699,DB00252; DB00909,2
+BE0002082,Sodium channel protein type 3 subunit alpha,Humans,AJ251507,Q9NY46,DB00252; DB00909; DB06218,3
+BE0000123,Estrogen receptor alpha,Humans,X03635,P03372,DB00255; DB00294; DB00304; DB00367; DB00396; DB00431; DB00481; DB00539; DB00603; DB00624; DB00648; DB00655; DB00675; DB00756; DB00783; DB00823; DB00841; DB00882; DB00890; DB00947; DB00957; DB00977; DB01065; DB01108; DB01183; DB01185; DB01196; DB01357; DB01406; DB01428; DB01708; DB02709; DB04573; DB04574; DB04575; DB04824; DB04930; DB04938; DB06202; DB06249; DB06401; DB06710; DB09070; DB09086; DB09371; DB11219; DB11619; DB13943; DB13944; DB13946; DB13952; DB13953; DB13954; DB13955; DB13956; DB14487; DB14533,57
+BE0002088,Estrogen-related receptor gamma,Humans,AF094518,P62508,DB00255; DB00675; DB00783; DB02659; DB13952; DB13953; DB13954; DB13955; DB13956,9
+BE0000792,Estrogen receptor beta,Humans,AB006590,Q92731,DB00255; DB00396; DB00481; DB00655; DB00675; DB00783; DB01108; DB01196; DB01428; DB01708; DB04573; DB04574; DB06202; DB06249; DB06401; DB09086; DB11219; DB13952; DB13953; DB13954; DB13955; DB13956,22
+BE0003722,Steroid hormone receptor ERR1,Humans,X51416,P11474,DB00255; DB07776,2
+BE0005001,Steroid hormone receptor ERR2,Humans,X51416,O95718,DB00255; DB07776,2
+BE0003740,Nuclear receptor coactivator 2,Humans,X97674,Q15596,DB00255; DB00783; DB13952; DB13953; DB13954; DB13955; DB13956,7
+BE0000132,Androgen receptor,Humans,M20132,P10275,DB00255; DB00367; DB00396; DB00421; DB00499; DB00621; DB00623; DB00624; DB00648; DB00655; DB00665; DB00675; DB00687; DB00957; DB00984; DB01026; DB01063; DB01128; DB01185; DB01395; DB01406; DB01420; DB01428; DB01608; DB01708; DB02266; DB04839; DB06412; DB06710; DB06713; DB08604; DB08804; DB08867; DB08899; DB09086; DB09123; DB09371; DB09389; DB11219; DB11619; DB11901; DB13155; DB13943; DB13944; DB13946,45
+BE0000635,Hydroxycarboxylic acid receptor 2,Humans,AY148884,Q8TDS4,DB00257; DB00627; DB08949,3
+BE0004815,Phosphate,Humans,-,-,DB00258; DB00658; DB06792,3
+BE0004810,RNA,Humans,-,-,DB00262; DB00544; DB00928; DB01101; DB09327,5
+BE0001185,Quinone oxidoreductase,Humans,L13278,Q08257,DB00266,1
+BE0000430,Voltage-dependent L-type calcium channel subunit alpha-1C,Humans,M92270,Q13936,DB00270; DB00308; DB00343; DB00381; DB00393; DB00401; DB00568; DB00622; DB00653; DB00661; DB01023; DB01054; DB01115; DB04855; DB04920; DB06712; DB06751; DB11633; DB12278,19
+BE0002354,Voltage-dependent L-type calcium channel subunit beta-2,Humans,S60415,Q08289,DB00270; DB00393; DB00401; DB00622; DB00653; DB00661; DB01023; DB01054; DB01115; DB04855; DB06712,11
+BE0000864,Voltage-dependent T-type calcium channel subunit alpha-1H,Humans,AF051946,O95180,DB00270; DB00568; DB00909; DB01023; DB01054; DB01115; DB01118; DB01244; DB04841; DB09061,10
+BE0002396,Voltage-dependent calcium channel subunit alpha-2/delta-2,Humans,AJ251368,Q9NY47,DB00270; DB00996; DB01023; DB01054; DB01118; DB01244; DB08872,7
+BE0002359,Voltage-dependent L-type calcium channel subunit alpha-1D,Humans,M76558,Q01668,DB00270; DB00393; DB00401; DB00568; DB00622; DB00661; DB01023; DB01054; DB01115; DB04855; DB04920; DB06712,12
+BE0002355,Voltage-dependent L-type calcium channel subunit alpha-1S,Humans,U30707,Q13698,DB00270; DB00393; DB00401; DB00568; DB00653; DB00661; DB01023; DB01054; DB01115; DB04855; DB04920; DB06712; DB09090,13
+BE0000112,Histamine H2 receptor,Humans,M64799,P25021,DB00272; DB00321; DB00408; DB00501; DB00585; DB00751; DB00768; DB00797; DB00863; DB00927; DB00940; DB01069; DB01142; DB05381; DB06216,15
+BE0003625,Carbonic anhydrase 3,Humans,AK313254,P07451,DB00273; DB00391; DB00482; DB00580; DB00703; DB00819; DB00869; DB00909; DB01144; DB01194,10
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,X02544,P02763,DB00276; DB00281; DB00396; DB00975,4
+BE0000530,Serum albumin,Humans,V00494,P02768,DB00276; DB00493; DB00545; DB01045; DB06713; DB11359; DB12965; DB13967,8
+BE0000241,Adenosine receptor A2b,Humans,M97759,P29275,DB00277; DB00640; DB00824,3
+BE0001133,"cAMP-specific 3',5'-cyclic phosphodiesterase 4A",Humans,L20965,P27815,DB00277; DB00651; DB00806; DB00824; DB00975; DB01088; DB01303; DB01656; DB05219; DB05676; DB06751,11
+BE0009002,Copine-1,Humans,U31814,Q99829,DB00277,1
+BE0009003,Minor histocompatibility antigen H13,Humans,U31814,Q8TCT9,DB00277,1
+BE0009004,Nodal modulator 1,Humans,U31814,Q15155,DB00277,1
+BE0001717,Poly [ADP-ribose] polymerase 1,Humans,X16674,P09874,DB00277; DB02701; DB09074; DB11760; DB11793; DB12332; DB14487; DB14533,8
+BE0009005,Protein RIC-3,Humans,X16674,Q7Z5B4,DB00277,1
+BE0009006,Tubulin monoglycylase TTLL3,Humans,X16674,Q9Y4R7,DB00277,1
+BE0000687,Thyroid hormone receptor alpha,Humans,X55074,P10827,DB00279; DB00451; DB00509; DB01118,4
+BE0000315,Thyroid hormone receptor beta,Humans,X04707,P10828,DB00279; DB00451; DB00509; DB01118,4
+BE0009045,Proliferating cell nuclear antigen,Humans,X04707,P12004,DB00279; DB00945,2
+BE0003603,Potassium voltage-gated channel subfamily D member 2,Humans,AF121104,Q9NZV8,DB00280; DB00458,2
+BE0003604,Potassium voltage-gated channel subfamily D member 3,Humans,AF048712,Q9UK17,DB00280; DB00458; DB06217; DB11633,4
+BE0003663,Alpha-1-acid glycoprotein 2,Humans,BC015964,P19652,DB00280; DB00281; DB00333; DB00458; DB14487; DB14533,6
+BE0000177,Sodium channel protein type 10 subunit alpha,Humans,AF117907,Q9Y5Y9,DB00281; DB00296; DB00297; DB00473; DB00527; DB00645; DB00721; DB00807; DB00892; DB00907; DB00961; DB01002; DB01086; DB01161; DB01173; DB06218,16
+BE0001143,Sodium channel protein type 9 subunit alpha,Humans,X82835,Q15858,DB00281; DB00909; DB06201; DB06218,4
+BE0000767,Epidermal growth factor receptor,Humans,X00588,P00533,DB00281; DB00317; DB00530; DB01259; DB05294; DB08916; DB09330; DB11828; DB11963; DB12010; DB12267,11
+BE0002083,Sodium channel protein type 4 subunit alpha,Humans,M81758,P35499,DB00281; DB00586; DB00818; DB00909; DB01195; DB13154,6
+BE0000776,Farnesyl pyrophosphate synthase,Humans,J05262,P14324,DB00282; DB00399; DB00630; DB00710; DB00884,5
+BE0004801,Hydroxylapatite,Humans,-,-,DB00282; DB00399; DB00630; DB00710; DB00720; DB00884; DB01077; DB01133; DB05260,9
+BE0000837,"Maltase-glucoamylase, intestinal",Humans,AF016833,O43451,DB00284; DB00491,2
+BE0002639,Pancreatic alpha-amylase,Humans,M18785,P04746,DB00284; DB03088,2
+BE0000876,Lysosomal alpha-glucosidase,Humans,Y00839,P10253,DB00284; DB00491,2
+BE0001176,"Sucrase-isomaltase, intestinal",Humans,X63597,P14410,DB00284; DB00747,2
+BE0000610,Prostaglandin F2-alpha receptor,Humans,L24470,P43088,DB00287; DB00654; DB00905; DB01160; DB08819; DB11660,6
+BE0000422,Annexin A1,Humans,BC001275,P04083,DB00288; DB00591; DB00741; DB01234; DB14539; DB14540; DB14541; DB14542; DB14543; DB14544,10
+BE0004956,NMDA receptor,Humans,D13515,Q05586,DB00289; DB00312; DB00418; DB00874; DB00996; DB01174; DB01708; DB04896; DB11823,9
+BE0001028,G protein-activated inward rectifier potassium channel 1,Humans,U39196,P48549,DB00289; DB01159,2
+BE0000324,Thymidylate synthase,Humans,X02308,P04818,DB00293; DB00322; DB00432; DB00440; DB00441; DB00544; DB00642; DB01101; DB06813; DB09256; DB09327,11
+BE0000557,Progesterone receptor,Humans,X51730,P06401,DB00294; DB00304; DB00351; DB00367; DB00378; DB00396; DB00421; DB00431; DB00588; DB00603; DB00648; DB00717; DB00764; DB00823; DB00834; DB00957; DB01395; DB01406; DB01428; DB06713; DB06789; DB08867; DB08906; DB09123; DB09124; DB09389; DB11219; DB11619; DB13867; DB14512,30
+BE0004024,Lymphocyte antigen 96,Humans,AB018549,Q9Y6Y9,DB00295; DB00333; DB03017,3
+BE0000064,Prostaglandin E2 receptor EP1 subtype,Humans,L22647,P34995,DB00297; DB00429; DB00770; DB00905; DB00917; DB01088,6
+BE0000211,Plasminogen,Humans,X05199,P00747,DB00302; DB00513,2
+BE0000303,Voltage-dependent L-type calcium channel subunit beta-1,Humans,M92303,Q02641,DB00308; DB00381; DB00393; DB00653; DB00661; DB04855,6
+BE0000679,Voltage-dependent calcium channel gamma-1 subunit,Humans,L07738,Q06432,DB00308; DB00343; DB00528; DB00653; DB01054; DB04842,6
+BE0000154,Potassium channel subfamily K member 1,Humans,U33632,O00180,DB00308; DB00908; DB01346,3
+BE0000680,Potassium channel subfamily K member 6,Humans,AF134149,Q9Y257,DB00308; DB00908,2
+BE0000462,Potassium voltage-gated channel subfamily H member 6,Humans,AF311913,Q9H252,DB00308; DB00590; DB01110; DB01162,4
+BE0000699,Potassium voltage-gated channel subfamily H member 7,Humans,AF032897,Q9NS40,DB00308; DB00590; DB01110; DB01162,4
+BE0000026,Tubulin beta-1 chain,Humans,AJ292757,Q9H4B7,DB00309; DB01229; DB01248; DB01394; DB06772; DB08871,6
+BE0000881,Histone deacetylase 9,Humans,AY032737,Q9UKV0,DB00313,1
+BE0004901,Sodium channel protein,Humans,AF225985,P35498,DB00313; DB05541; DB13269,3
+BE0002194,Fatty-acid amide hydrolase 1,Humans,U82535,O00519,DB00316; DB00599; DB12010,3
+BE0001039,High affinity nerve growth factor receptor,Humans,M23102,P04629,DB00321; DB00619; DB08896; DB12010; DB14723,5
+BE0003605,BDNF/NT-3 growth factors receptor,Humans,U12140,Q16620,DB00321; DB11823; DB12010; DB14723,4
+BE0000897,Potassium voltage-gated channel subfamily KQT member 2,Humans,D82346,O43526,DB00321; DB00586; DB00939; DB04953,4
+BE0000146,Histamine H4 receptor,Humans,AB044934,Q9H3N8,DB00321; DB00363; DB00408; DB00477; DB00543; DB01142; DB05381; DB06148,8
+BE0000156,Sigma non-opioid intracellular receptor 1,Humans,U75283,Q99720,DB00321; DB00409; DB00514; DB00652; DB00907; DB01708; DB06174; DB11186,8
+BE0002398,Potassium voltage-gated channel subfamily KQT member 3,Humans,AF071491,O43525,DB00321; DB00586; DB00939; DB04953,4
+BE0004890,Muscarinic acetylcholine receptor,Humans,X52068,P11229,DB00321; DB00454; DB00543; DB00555; DB00568; DB00726; DB01221; DB11855,8
+BE0009629,HERG human cardiac K+ channel,Humans,-,-,DB00321,1
+BE0000556,Atrial natriuretic peptide receptor 1,Humans,X15357,P16066,DB00325; DB00727; DB00883; DB01612; DB01613,5
+BE0001640,"Phospholipase A2, membrane associated",Humans,M22430,P14555,DB00328; DB00586; DB03017,3
+BE0003560,Prostaglandin reductase 2,Humans,AY346133,Q8N8N7,DB00328,1
+BE0003561,Prostaglandin D2 receptor 2,Humans,AB008535,Q9Y5Y4,DB00328; DB00605; DB00770; DB00917; DB01088; DB12789,6
+BE0004958,5-hydroxytryptamine receptor 1,Humans,M28269,P08908,DB00334; DB01221,2
+BE0008668,GABA-A receptor (benzodiazepine site),Humans,X13584,P14867,DB00334; DB00555,2
+BE0002386,Serine/threonine-protein kinase mTOR,Humans,L34075,P42345,DB00337; DB00877; DB01590; DB12010,4
+BE0000695,Peptidyl-prolyl cis-trans isomerase FKBP1A,Humans,M34539,P62942,DB00337; DB00864; DB00877,3
+BE0003721,Aryl hydrocarbon receptor,Humans,D16354,P35869,DB00338; DB00379; DB00393; DB00499; DB01076; DB01097; DB02709; DB08995; DB11577; DB12328,10
+BE0000483,Voltage-dependent T-type calcium channel subunit alpha-1G,Humans,AF134986,O43497,DB00347; DB00568; DB00593; DB00661; DB00909; DB04841; DB05246; DB09061,8
+BE0000455,4-hydroxyphenylpyruvate dioxygenase,Humans,U29895,P32754,DB00348,1
+BE0000270,Renin,Humans,L00073,P00797,DB00350; DB09026,2
+BE0000553,Calcium-activated potassium channel subunit alpha-1,Humans,U13913,Q12791,DB00356; DB00436; DB00774; DB00999; DB01003; DB01110; DB01119; DB01159; DB04209,9
+BE0003537,"Cholesterol side-chain cleavage enzyme, mitochondrial",Humans,M14565,P05108,DB00357,1
+BE0000130,Hemoglobin subunit alpha,Humans,J00153,P69905,DB00358; DB06154; DB09146; DB14487; DB14488; DB14489; DB14490; DB14491; DB14501; DB14533,10
+BE0000121,Tryptophan 5-hydroxylase 1,Humans,X52836,P17752,DB00360; DB12095,2
+BE0000143,Tubulin beta chain,Humans,J00314,P07437,DB00361; DB00541; DB00570; DB01179; DB01394; DB11641,6
+BE0000666,Neuron-specific vesicular protein calcyon,Humans,AF225903,Q9NYX4,DB00363; DB00714; DB00831,3
+BE0003848,Nuclear receptor subfamily 1 group I member 3,Humans,Z30425,Q14994,DB00366; DB00737; DB00836; DB01026; DB01620; DB01708; DB02709; DB04540; DB04824; DB08604,10
+BE0000539,3-oxo-5-alpha-steroid 4-dehydrogenase 1,Humans,M32313,P18405,DB00367; DB01126; DB01216; DB09389,4
+BE0001012,Beta-3 adrenergic receptor,Humans,M29932,P13945,DB00368; DB00571; DB00871; DB00938; DB00960; DB00983; DB01001; DB01064; DB01102; DB01288; DB01407; DB01580; DB04846; DB06262; DB08893,15
+BE0005582,5HT3 serotonin receptor,Humans,S42168,Q9UE69,DB00370,1
+BE0000475,Prostacyclin receptor,Humans,L29016,P43119,DB00374; DB01088; DB01160; DB01240; DB11362,5
+BE0002425,DNA topoisomerase 2-beta,Humans,X68060,Q02880,DB00380; DB00694; DB00773,3
+BE0002226,Voltage-dependent N-type calcium channel subunit alpha-1B,Humans,M94172,Q00975,DB00381; DB00661; DB00996; DB01202,4
+BE0003563,Voltage-dependent calcium channel subunit alpha-2/delta-3,Humans,AJ272268,Q8IZS8,DB00381; DB06712,2
+BE0000973,Sphingomyelin phosphodiesterase,Humans,M59916,P17405,DB00381; DB00477; DB01151,3
+BE0000012,Voltage-dependent T-type calcium channel subunit alpha-1I,Humans,AF129133,Q9P0X4,DB00381; DB00568; DB00617; DB00661; DB00909; DB04841; DB06152; DB09061,8
+BE0009351,Voltage-dependent N-type calcium channel,Humans,-,-,DB00381,1
+BE0000497,Amiloride-sensitive sodium channel subunit gamma,Humans,X87160,P51170,DB00384; DB00594,2
+BE0000190,Amiloride-sensitive sodium channel subunit alpha,Humans,X76180,P37088,DB00384; DB00594,2
+BE0000024,Amiloride-sensitive sodium channel subunit beta,Humans,X87159,P51168,DB00384; DB00594,2
+BE0000495,Amiloride-sensitive sodium channel subunit delta,Humans,U38254,P51172,DB00384; DB00594,2
+BE0000507,Thyroid peroxidase,Humans,J02969,P07202,DB00389; DB00509; DB00550; DB00763; DB08604; DB11085; DB11496,7
+BE0000732,Sodium/potassium-transporting ATPase subunit alpha-1,Humans,D00099,P05023,DB00390; DB00511; DB00774; DB00903; DB01021; DB01078; DB01092; DB01119; DB01158; DB01188; DB01244; DB01396; DB01430; DB13996; DB14499; DB14517; DB14518,17
+BE0002357,Voltage-dependent L-type calcium channel subunit alpha-1F,Humans,AJ006216,O60840,DB00393; DB00568; DB00661; DB04855; DB04920,5
+BE0002358,Voltage-dependent L-type calcium channel subunit beta-3,Humans,X76555,P54284,DB00393; DB00661; DB04855,3
+BE0002356,Voltage-dependent L-type calcium channel subunit beta-4,Humans,U95020,O00305,DB00393; DB00661; DB04855,3
+BE0000668,Mineralocorticoid receptor,Humans,M16801,P08235,DB00393; DB00396; DB00421; DB00588; DB00624; DB00687; DB00700; DB01023; DB01395; DB06780; DB08906; DB13867; DB13943; DB13944; DB13946,15
+BE0000634,Serine/threonine-protein kinase B-raf,Humans,M95712,P15056,DB00398; DB08881; DB08896; DB08912; DB11718; DB12010,6
+BE0000036,RAF proto-oncogene serine/threonine-protein kinase,Humans,X03484,P04049,DB00398; DB08896; DB08912; DB12010,4
+BE0000023,Vascular endothelial growth factor receptor 3,Humans,X69878,P35916,DB00398; DB01268; DB06589; DB06626; DB08896; DB09078; DB09079; DB12010,8
+BE0000369,Vascular endothelial growth factor receptor 2,Humans,AF035121,P35968,DB00398; DB01268; DB06589; DB06595; DB06626; DB08875; DB08896; DB08901; DB09078; DB09079; DB12010; DB12147,12
+BE0000147,Receptor-type tyrosine-protein kinase FLT3,Humans,U02687,P36888,DB00398; DB01268; DB06595; DB08901; DB09079; DB12010; DB12141; DB12267,8
+BE0000205,Platelet-derived growth factor receptor beta,Humans,J03278,P09619,DB00398; DB00619; DB01254; DB01268; DB06589; DB06595; DB08896; DB12010; DB12147,9
+BE0000453,Mast/stem cell growth factor receptor Kit,Humans,X06182,P10721,DB00398; DB00619; DB01254; DB01268; DB04868; DB06589; DB06595; DB08896; DB08901; DB09078; DB12010; DB12147,12
+BE0002131,Fibroblast growth factor receptor 1,Humans,X51803,P11362,DB00398; DB08896; DB08901; DB09078; DB09079; DB12010; DB12147,7
+BE0002411,Proto-oncogene tyrosine-protein kinase receptor Ret,Humans,X12949,P07949,DB00398; DB05294; DB08875; DB08896; DB08901; DB12010,6
+BE0000029,Vascular endothelial growth factor receptor 1,Humans,X51602,P17948,DB00398; DB01268; DB06589; DB06626; DB08896; DB09078; DB09079; DB12010,8
+BE0003570,Geranylgeranyl pyrophosphate synthase,Humans,AB017971,O95749,DB00399,1
+BE0004660,"Keratin, type I cytoskeletal 12",Humans,U38534,Q99456,DB00400; DB11157,2
+BE0004688,5-hydroxytryptamine receptor 5A,Humans,D49394,P47898,DB00408; DB06216,2
+BE0001018,Solute carrier family 15 member 1,Humans,U13173,P46059,DB00415; DB00417; DB00493; DB00713; DB01053; DB01212; DB03793; DB09213,8
+BE0001134,Solute carrier family 15 member 2,Humans,S78203,Q16348,DB00415; DB00493; DB00713; DB01053,4
+BE0003379,Angiopoietin-1 receptor,Humans,L06139,Q02763,DB00415; DB05294; DB08896; DB08901; DB12010,5
+BE0000477,Ceramide glucosyltransferase,Humans,D50840,Q16739,DB00419; DB09039,2
+BE0003542,"Cytochrome P450 11B2, mitochondrial",Humans,X54741,P19099,DB00421,1
+BE0004886,17alpha-hydroxylase,Humans,-,-,DB00421,1
+BE0004885,"17,20-desmolase",Humans,-,-,DB00421,1
+BE0004911,Dihydrotestosterone receptor,Humans,-,-,DB00421,1
+BE0001045,"Solute carrier family 2, facilitated glucose transporter member 2",Humans,J03810,P11168,DB00428,1
+BE0005827,Bifunctional protein NCOAT,Humans,AE015928,O60502,DB00428,1
+BE0000433,Glycine receptor subunit alpha-1,Humans,X52009,P23415,DB00431; DB00572; DB00753; DB01028; DB01159; DB01189; DB01236; DB01956; DB03929; DB09061; DB14487; DB14533,12
+BE0000745,Glycine receptor subunit alpha-2,Humans,X52008,P23416,DB00431; DB01956,2
+BE0000414,Glycine receptor subunit alpha-3,Humans,AF017724,O75311,DB00431; DB01956; DB09061,3
+BE0000055,Glycine receptor subunit beta,Humans,U33267,P48167,DB00431,1
+BE0000419,Solute carrier family 12 member 3,Humans,U44128,P55017,DB00436; DB00524; DB00562; DB00808; DB00880; DB00999; DB01021; DB01119; DB01324; DB01325,10
+BE0002204,Xanthine dehydrogenase/oxidase,Humans,D11456,P47989,DB00437; DB00583; DB03147; DB04854,4
+BE0000637,UMP-CMP kinase,Humans,AF070416,P30085,DB00441,1
+BE0000531,Chromodomain-helicase-DNA-binding protein 1,Humans,AF006513,O14646,DB00445,1
+BE0000929,Complement decay-accelerating factor,Humans,M31516,P08174,DB00446,1
+BE0003474,Microtubule-associated protein tau,Humans,BN000503,P10636,DB00448; DB00637; DB01229; DB01248,4
+BE0003576,Integrin alpha-V,Humans,M14648,P06756,DB00451,1
+BE0001155,Integrin beta-3,Humans,J02703,P05106,DB00451; DB00775; DB02709,3
+BE0000919,C-X-C chemokine receptor type 4,Humans,L01639,P61073,DB00452; DB06809,2
+BE0005191,Potassium voltage-gated channel subfamily H member 1,Humans,L41147,O95259,DB00458; DB00637,2
+BE0000866,Platelet glycoprotein IX,Humans,X52997,P14770,DB00468,1
+BE0000061,Cannabinoid receptor 1,Humans,X54937,P21554,DB00470; DB00486; DB06155; DB09061,4
+BE0000095,Cannabinoid receptor 2,Humans,X74328,P34972,DB00470; DB00486; DB06202; DB09061,4
+BE0000705,Cysteinyl leukotriene receptor 1,Humans,AF119711,Q9Y271,DB00471; DB00549; DB00716,3
+BE0004552,Cyclin-dependent kinases regulatory subunit 1,Humans,M81778,P61024,DB00472,1
+BE0004881,5-hydroxytryptamine 2 receptor,Humans,S42168,P28223,DB00477,1
+BE0000418,Calmodulin,Humans,J04046,P0DP23,DB00477; DB00527; DB00622; DB00623; DB00753; DB00831; DB00836; DB00850; DB00925; DB01023; DB01065; DB01069; DB01100; DB01115; DB01244; DB04825; DB04841; DB11093; DB11348; DB13800; DB14481,21
+BE0004879,alpha1-acid glycoprotein,Humans,X02544,P02763,DB00477; DB01041,2
+BE0004755,Protein cereblon,Humans,V00355,Q96SW2,DB00480; DB01041; DB08910,3
+BE0003517,Tumor necrosis factor ligand superfamily member 11,Humans,AF013171,O14788,DB00480,1
+BE0003403,Cadherin-5,Humans,X79981,P33151,DB00480,1
+BE0008982,Serpin B9,Humans,AB006590,P50453,DB00481,1
+BE0008981,Trefoil factor 1,Humans,AB006590,P04155,DB00481,1
+BE0001193,3-phosphoinositide-dependent protein kinase 1,Humans,AF017995,O15530,DB00482; DB12010,2
+BE0002369,ATP-binding cassette sub-family B member 5,Humans,AY090613,Q2M3G0,DB00482,1
+BE0001067,ATP-binding cassette sub-family G member 2,Humans,AF103796,Q9UNQ0,DB00482; DB11995,2
+BE0001032,Multidrug resistance protein 1,Humans,M14758,P08183,DB00482; DB00778; DB00813; DB09031,4
+BE0004698,Neutral alpha-glucosidase AB,Humans,Y00839,Q14697,DB00491,1
+BE0004699,Neutral alpha-glucosidase C,Humans,Y00839,Q8TET4,DB00491,1
+BE0001066,Solute carrier family 22 member 6,Humans,AF057039,Q4U2R8,DB00493; DB01032; DB01212,3
+BE0003645,Solute carrier family 22 member 8,Humans,AF097491,Q8TCC7,DB00493; DB01032; DB01053; DB01212; DB11995,5
+BE0000879,Solute carrier family 22 member 11,Humans,AB026116,Q9NSA0,DB00493; DB01032; DB01212; DB11560,4
+BE0003646,Solute carrier family 22 member 7,Humans,AF097518,Q9Y694,DB00493,1
+BE0002449,Telomerase reverse transcriptase,Humans,AF015950,O14746,DB00495,1
+BE0004899,Kappa-type opioid receptor 2b,Humans,-,-,DB00497,1
+BE0003478,Melanin-concentrating hormone receptor 1,Humans,U71092,Q99705,DB00502,1
+BE0001088,Tissue-type plasminogen activator,Humans,L00153,P00750,DB00513; DB01088; DB09213,3
+BE0001283,Apolipoprotein(a),Humans,X06290,P08519,DB00513,1
+BE0000290,"HCG20471, isoform CRA_c",Humans,AL450283,Q5T1J1,DB00514; DB00704,2
+BE0004896,Membrane-associated progesterone receptor component 1,Humans,X70697,O00264,DB00514,1
+BE0004904,NADPH oxidase,Humans,U11053,P04839,DB00514,1
+BE0008954,DNA-3-methyladenine glycosylase,Humans,-,P29372,DB00515; DB14487; DB14533,3
+BE0000910,Alpha-2-macroglobulin,Humans,M11313,P01023,DB00515; DB12965; DB14487; DB14533,4
+BE0000510,Serotransferrin,Humans,M12530,P02787,DB00515; DB00677; DB14487; DB14488; DB14489; DB14490; DB14491; DB14501; DB14517; DB14518; DB14533,11
+BE0002833,Copper transport protein ATOX1,Humans,U70660,O00244,DB00515; DB02772,2
+BE0001340,Tubulin alpha-1A chain,Humans,X01703,Q71U36,DB00518; DB00570; DB00643,3
+BE0001367,Tubulin beta-4B chain,Humans,X02344,P68371,DB00518; DB00643,2
+BE0000970,Insulin-like growth factor-binding protein 3,Humans,M31159,P17936,DB00523,1
+BE0008996,Pregnancy-specific beta-1-glycoprotein 5,Humans,M31159,Q15238,DB00523,1
+BE0009043,Cytochrome P450 26C1,Humans,M31159,Q6V0L0,DB00523; DB00755,2
+BE0001046,Elastin,Humans,M17282,P15502,DB00533,1
+BE0004897,Sigma receptor,Humans,M30625,O00264,DB00540; DB01104,2
+BE0001391,Tubulin alpha-4A chain,Humans,X06956,P68366,DB00541; DB01179; DB06772,3
+BE0003610,3-oxo-5-beta-steroid 4-dehydrogenase,Humans,Z28339,P51857,DB00548; DB01216,2
+BE0000585,3-oxo-5-alpha-steroid 4-dehydrogenase 2,Humans,M74047,P31213,DB00548; DB01126; DB01216,3
+BE0002214,Adenosine deaminase,Humans,X02994,P00813,DB00552; DB00975,2
+BE0009300,Voltage-dependent R-type calcium channel subunit alpha-1E,Humans,M31822,Q15878,DB00555,1
+BE0002081,Sodium channel protein type 2 subunit alpha,Humans,M94055,Q99250,DB00555; DB00818; DB00909,3
+BE0000521,Endothelin-1 receptor,Humans,S63938,P25101,DB00559; DB00945; DB06268; DB06403; DB08932,5
+BE0000043,Endothelin B receptor,Humans,M74921,P24530,DB00559; DB06268; DB06403; DB08932,4
+BE0003582,Potassium channel subfamily K member 3,Humans,AF006823,O14649,DB00561; DB01159,2
+BE0003583,Potassium channel subfamily K member 9,Humans,AF212829,Q9NPC2,DB00561; DB01159,2
+BE0002437,Carbonic anhydrase 9,Humans,X66839,Q16790,DB00562; DB00774; DB00909; DB09460,4
+BE0001653,Carbonic anhydrase 12,Humans,AF051882,O43570,DB00562; DB00774; DB00819; DB00909,4
+BE0004808,Lead,Humans,-,-,DB00566; DB00974; DB14600,3
+BE0004814,Mercury,Humans,-,-,DB00566; DB06782,2
+BE0004802,Cadmium,Humans,-,-,DB00566; DB06782,2
+BE0004813,Arsenic,Humans,-,-,DB00566; DB06782,2
+BE0003711,Tubulin delta chain,Humans,AF201333,Q9UJT1,DB00570,1
+BE0003713,Tubulin gamma-1 chain,Humans,M61764,P23258,DB00570,1
+BE0003712,Tubulin epsilon chain,Humans,AF201334,Q9UJT0,DB00570,1
+BE0001040,Transcription factor AP-1,Humans,J04111,P05412,DB00570; DB01029; DB01169,3
+BE0000757,Solute carrier family 22 member 4,Humans,AB007448,Q9H015,DB00583,1
+BE0000106,Solute carrier family 22 member 5,Humans,AF057164,O76082,DB00583,1
+BE0000496,Carnitine O-acetyltransferase,Humans,X78706,P43155,DB00583,1
+BE0000097,Mitochondrial carnitine/acylcarnitine carrier protein CACL,Humans,BX247983,Q8N8R3,DB00583,1
+BE0000579,Mitochondrial carnitine/acylcarnitine carrier protein,Humans,Y10319,O43772,DB00583,1
+BE0000373,Peroxisomal carnitine O-octanoyltransferase,Humans,AF168793,Q9UKG9,DB00583,1
+BE0000179,"Carnitine O-palmitoyltransferase 2, mitochondrial",Humans,U09648,P23786,DB00583; DB01074,2
+BE0000406,"Carnitine O-palmitoyltransferase 1, liver isoform",Humans,L39211,P50416,DB00583; DB01016; DB01074,3
+BE0000353,Acid-sensing ion channel 1,Humans,U78180,P78348,DB00586; DB00594,2
+BE0000657,Cytosolic phospholipase A2,Humans,M72393,P47712,DB00588; DB13867,2
+BE0001170,Annexin A2,Humans,D00017,P07355,DB00591,1
+BE0003201,Annexin A3,Humans,M20560,P12429,DB00591; DB09095,2
+BE0008969,Annexin A4,Humans,M20560,P09525,DB00591,1
+BE0004149,Annexin A5,Humans,M20560,P08758,DB00591,1
+BE0000351,Amiloride-sensitive amine oxidase [copper-containing],Humans,M55602,P19801,DB00594,1
+BE0000678,Acid-sensing ion channel 2,Humans,U50352,Q16515,DB00594,1
+BE0000752,Sodium/hydrogen exchanger 1,Humans,M81768,P19634,DB00594,1
+BE0000895,Urokinase-type plasminogen activator,Humans,X02419,P00749,DB00594,1
+BE0000084,5-hydroxytryptamine receptor 4,Humans,Y12505,Q13639,DB00604; DB00904; DB01079; DB01233; DB06480,5
+BE0001062,Mitogen-activated protein kinase 3,Humans,X60188,P27361,DB00605; DB01169,2
+BE0004353,Aldo-keto reductase family 1 member B10,Humans,U37100,O60218,DB00605,1
+BE0000229,Sodium/potassium-transporting ATPase subunit gamma,Humans,U50743,P54710,DB00606; DB11590,2
+BE0009094,Secreted frizzled-related protein 4,Humans,M83670,Q6FHJ7,DB00606; DB00790,2
+BE0000704,Tumor necrosis factor,Humans,M16441,P01375,DB00608; DB00668; DB00852; DB01041; DB01296; DB01407; DB01427; DB05676; DB08910; DB11967; DB13751,11
+BE0001171,Toll-like receptor 9,Humans,AF259262,Q9NR96,DB00608; DB01611,2
+BE0002436,Histamine N-methyltransferase,Humans,D16224,P50135,DB00613,1
+BE0001120,Heat shock protein HSP 90-alpha,Humans,X15183,P07900,DB00615; DB00716,2
+BE0001165,Endoplasmin,Humans,M33716,P14625,DB00615,1
+BE0003600,BCR/ABL fusion protein isoform X9,Humans,EU216066,A9UF02,DB00619,1
+BE0001104,RET proto-oncogene,Humans,AF032124,O43519,DB00619; DB12147,2
+BE0000853,Macrophage colony-stimulating factor 1 receptor,Humans,M25786,P07333,DB00619; DB01268; DB12010; DB12147,4
+BE0000852,Platelet-derived growth factor receptor alpha,Humans,M21574,P16234,DB00619; DB01268; DB06589; DB06595; DB08896; DB08901; DB12010; DB12147,8
+BE0001124,Epithelial discoidin domain-containing receptor 1,Humans,L20817,Q08345,DB00619; DB12010,2
+BE0000014,Tyrosine-protein kinase ABL1,Humans,X16416,P00519,DB00619; DB01254; DB04868; DB06616; DB08896; DB08901; DB12010; DB12267,8
+BE0003565,"Calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1A",Humans,U40370,P54750,DB00622; DB01023; DB01244,3
+BE0003323,"Calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1B",Humans,U56976,Q01064,DB00622; DB01023; DB01244,3
+BE0000836,Hydroxycarboxylic acid receptor 3,Humans,D10923,P49019,DB00627; DB08949,2
+BE0000526,Nicotinate-nucleotide pyrophosphorylase [carboxylating],Humans,D78177,Q15274,DB00627,1
+BE0000783,Nicotinamide N-methyltransferase,Humans,U08021,P40261,DB00627,1
+BE0000980,Tyrosine-protein phosphatase non-receptor type 4,Humans,M68941,P29074,DB00630,1
+BE0003567,Receptor-type tyrosine-protein phosphatase S,Humans,U35234,Q13332,DB00630; DB01077,2
+BE0003568,Receptor-type tyrosine-protein phosphatase epsilon,Humans,X54134,P23469,DB00630,1
+BE0003569,V-type proton ATPase catalytic subunit A,Humans,L09235,P38606,DB00630; DB01077; DB01133,3
+BE0000354,Adenosine receptor A3,Humans,L20463,P0DMS8,DB00640; DB00824; DB01223; DB12010,4
+BE0001041,Integrin beta-2,Humans,M15395,P05107,DB00641,1
+BE0001240,Bifunctional purine biosynthesis protein PURH,Humans,U37436,P31939,DB00642,1
+BE0000882,Trifunctional purine biosynthetic protein adenosine-3,Humans,X54199,P22102,DB00642,1
+BE0000731,"Cytochrome P450 11B1, mitochondrial",Humans,M32879,P15538,DB00648; DB01011,2
+BE0000242,"Adrenodoxin, mitochondrial",Humans,M23668,P10109,DB00648,1
+BE0002353,"cAMP-specific 3',5'-cyclic phosphodiesterase 4C",Humans,Z46632,Q08493,DB00651; DB01088; DB01656; DB05219,4
+BE0000706,"High affinity cAMP-specific 3',5'-cyclic phosphodiesterase 7A",Humans,L12052,Q13946,DB00651,1
+BE0000627,"cAMP-specific 3',5'-cyclic phosphodiesterase 7B",Humans,AB038040,Q9NP56,DB00651,1
+BE0004852,Glutamate (NMDA) receptor,Humans,D13515,Q05586,DB00659; DB01043; DB09409; DB13146,4
+BE0001192,Metabotropic glutamate receptor 5,Humans,D28538,P41594,DB00659; DB06201,2
+BE0000356,Voltage-dependent P/Q-type calcium channel subunit alpha-1A,Humans,AF004884,O00555,DB00661; DB00836; DB01244,3
+BE0000384,Substance-P receptor,Humans,S62045,P25103,DB00673; DB01221; DB09048,3
+BE0004661,Acetylcholine receptor subunit alpha,Humans,M55040,P02708,DB00674,1
+BE0004662,Acetylcholine receptor subunit beta,Humans,M55040,P11230,DB00674,1
+BE0004663,Acetylcholine receptor subunit delta,Humans,M55040,Q07001,DB00674,1
+BE0004664,Acetylcholine receptor subunit gamma,Humans,M55040,P07510,DB00674,1
+BE0004665,Acetylcholine receptor subunit epsilon,Humans,M55040,Q04844,DB00674,1
+BE0004877,"3-beta-hydroxysteroid-Delta(8),Delta(7)-isomerase",Humans,AB006590,Q15125,DB00675,1
+BE0004895,Protein kinase C,Humans,X52479,P17252,DB00675,1
+BE0001015,Fibroblast growth factor 2,Humans,X04431,P09038,DB00686; DB00877,2
+BE0000689,Fibroblast growth factor 1,Humans,M13361,P05230,DB00686; DB01025; DB06589,3
+BE0000326,Fibroblast growth factor 4,Humans,J02986,P08620,DB00686,1
+BE0000982,Angiotensin-converting enzyme 2,Humans,AF291820,Q9BYF1,DB00691,1
+BE0003837,Ig kappa chain V-II region RPMI 6410,Humans,Z00020,P06310,DB00693,1
+BE0003580,Nischarin,Humans,AF082516,Q9Y2I1,DB00697; DB09242,2
+BE0003629,Carbonic anhydrase 7,Humans,AY075019,P43166,DB00703; DB00819; DB00909; DB01144,4
+BE0000099,Cysteinyl leukotriene receptor 2,Humans,AB038269,Q9NS75,DB00716,1
+BE0000995,fMet-Leu-Phe receptor,Humans,M37128,P21462,DB00716,1
+BE0000296,Prostaglandin D2 receptor,Humans,U31332,Q13258,DB00716,1
+BE0000599,ADP/ATP translocase 1,Humans,J02966,P12235,DB00720,1
+BE0000709,ADP/ATP translocase 2,Humans,M57424,P05141,DB00720,1
+BE0000624,ADP/ATP translocase 3,Humans,J03592,P12236,DB00720,1
+BE0004906,Calcium-activated potassium channel,Humans,U13913,Q12791,DB00721; DB09089,2
+BE0004891,Phospholipase A2,Humans,-,-,DB00721,1
+BE0004917,Lysophospholipase,Humans,-,-,DB00721,1
+BE0000155,Toll-like receptor 7,Humans,AF240467,Q9NYK1,DB00724; DB01611,2
+BE0003518,Toll-like receptor 8,Humans,BC101077,Q9NR97,DB00724,1
+BE0000577,Squalene monooxygenase,Humans,D78130,Q14534,DB00735; DB00857; DB01091,3
+BE0002517,tRNA (cytosine(38)-C(5))-methyltransferase,Humans,AF012128,O14717,DB00738,1
+BE0004807,Iron,Humans,-,-,DB00746; DB00974; DB01609; DB14600,4
+BE0004818,Aluminum,Humans,-,-,DB00746,1
+BE0003392,Amyloid beta A4 protein,Humans,X06989,P05067,DB00746; DB02709; DB06782; DB09148; DB09149; DB09151; DB14487; DB14517; DB14518; DB14533,10
+BE0000697,Retinoic acid-induced protein 3,Humans,AF095448,Q8NFJ5,DB00755,1
+BE0000074,Nuclear receptor subfamily 0 group B member 1,Humans,U31929,P51843,DB00755; DB01234,2
+BE0000653,Retinoic acid receptor responder protein 1,Humans,U27185,P49788,DB00755,1
+BE0005828,Lipocalin-1,Humans,X07282,P31025,DB00755,1
+BE0005829,Odorant-binding protein 2a,Humans,X07282,Q9NY56,DB00755,1
+BE0000314,Retinol-binding protein 4,Humans,X00129,P02753,DB00755,1
+BE0004284,"[Pyruvate dehydrogenase [lipoamide]] kinase isozyme 4, mitochondrial",Humans,U54617,Q16654,DB00755,1
+BE0003480,Cytochrome P450 26A1,Humans,AF005418,O43174,DB00755,1
+BE0009044,Cytochrome P450 26B1,Humans,AF005418,Q9NR63,DB00755,1
+BE0001105,Major prion protein,Humans,M13899,P04156,DB00759,1
+BE0000971,DNA topoisomerase 1,Humans,J03250,P11387,DB00762; DB01030; DB05630; DB11254,4
+BE0000091,"DNA topoisomerase I, mitochondrial",Humans,AF349031,Q969P6,DB00762; DB01030,2
+BE0000968,Histamine H3 receptor,Humans,AF140538,Q9Y5N1,DB00768; DB05381; DB06698; DB11642,4
+BE0001090,Protein S100-A1,Humans,X58079,P23297,DB00768,1
+BE0001206,Protein S100-A12,Humans,X97859,P80511,DB00768; DB01025,2
+BE0001177,Protein S100-B,Humans,M59488,P04271,DB00768; DB11093; DB11348; DB14481,4
+BE0000885,Protein S100-A13,Humans,X99920,Q99584,DB00768; DB01025; DB01164; DB11093; DB11348; DB14481,6
+BE0003602,Protein S100-A2,Humans,M87068,P29034,DB00768; DB14487; DB14533,3
+BE0000368,Prostaglandin E2 receptor EP2 subtype,Humans,U19487,P43116,DB00770; DB00917; DB00929; DB08964,4
+BE0000439,Integrin alpha-IIb,Humans,J02764,P08514,DB00775,1
+BE0001002,Membrane primary amine oxidase,Humans,U39447,Q16853,DB00780; DB01275,2
+BE0003446,G-protein coupled estrogen receptor 1,Humans,BC011634,Q99527,DB00783; DB13952; DB13953; DB13954; DB13955; DB13956,6
+BE0009014,ATP synthase subunit a,Humans,BC011634,P00846,DB00783; DB13952; DB13953; DB13954; DB13955; DB13956,6
+BE0009015,Beclin-1,Humans,BC011634,Q14457,DB00783; DB13952; DB13953; DB13954; DB13955; DB13956,6
+BE0003559,"6-phosphogluconate dehydrogenase, decarboxylating",Humans,U30255,P52209,DB00789; DB00851; DB00920,3
+BE0000069,"Acetyl-CoA acetyltransferase, mitochondrial",Humans,D90228,P24752,DB00795,1
+BE0001893,Thromboxane-A synthase,Humans,M80647,P24557,DB00795,1
+BE0003997,Phospholipase A2,Humans,M21054,P04054,DB00795; DB02659,2
+BE0000942,Low-density lipoprotein receptor-related protein 2,Humans,U33837,P98164,DB00798,1
+BE0001096,5'-nucleotidase,Humans,X55740,P21589,DB00806,1
+BE0000261,Cytosolic purine 5'-nucleotidase,Humans,D38524,P49902,DB00811,1
+BE0000457,Ectonucleotide pyrophosphatase/phosphodiesterase family member 1,Humans,M57736,P22413,DB00811; DB01143,2
+BE0000117,Prostacyclin synthase,Humans,D38145,Q16647,DB00812; DB01240,2
+BE0003634,Carbonic anhydrase 14,Humans,AB025904,Q9ULX7,DB00819; DB00909,2
+BE0000880,Aquaporin-1,Humans,M77829,P29972,DB00819,1
+BE0003558,"Dual 3',5'-cyclic-AMP and -GMP phosphodiesterase 11A",Humans,AB036704,Q9HCR9,DB00820,1
+BE0001186,Transient receptor potential cation channel subfamily M member 8,Humans,AY090109,Q7Z2W7,DB00825; DB01744; DB09061,3
+BE0001122,Transient receptor potential cation channel subfamily A member 1,Humans,Y10601,O75762,DB00825; DB01744; DB09061,3
+BE0003416,Transient receptor potential cation channel subfamily V member 3,Humans,AJ487035,Q8NET8,DB00825; DB01744; DB09061; DB09086,4
+BE0001024,"Troponin C, slow skeletal and cardiac muscles",Humans,X07897,P63316,DB00831; DB00922; DB01023; DB01244,4
+BE0004350,Protein S100-A4,Humans,M80563,P26447,DB00831,1
+BE0008983,Prostate-specific antigen,Humans,X03225,P07288,DB00834; DB04839,2
+BE0000947,Pro-opiomelanocortin,Humans,M38297,P01189,DB00836,1
+BE0008670,"Sulfonylurea receptor 1, Kir6.2",Humans,L78243,Q09428,DB00839; DB01016,2
+BE0000703,Bile salt export pump,Humans,AF091582,O95342,DB00845; DB01016,2
+BE0000896,"Alkaline phosphatase, placental-like",Humans,J03252,P10696,DB00848; DB01143,2
+BE0000716,DNA polymerase alpha subunit B,Humans,L24559,Q14181,DB00851,1
+BE0004878,"Nuclear factor of activated T-cells, cytoplasmic 1",Humans,J03019,O95644,DB00852,1
+BE0004898,Nuclear factor kappa-light-chain-enhancer of activated B cells,Humans,-,-,DB00852; DB01041,2
+BE0004924,activator protein 1,Humans,-,P18846,DB00852,1
+BE0001029,Interleukin-2,Humans,J00264,P60568,DB00852; DB01327; DB05676,3
+BE0000050,Delta-aminolevulinic acid dehydratase,Humans,M13928,P13716,DB00855,1
+BE0004825,Copper,Humans,-,-,DB00859,1
+BE0000165,Vasopressin V1a receptor,Humans,L25615,P37288,DB00872; DB06212; DB09059,3
+BE0000293,Vasopressin V2 receptor,Humans,U04357,P30518,DB00872; DB06212; DB09059,3
+BE0000601,Solute carrier family 12 member 4,Humans,U55054,Q9UP95,DB00887,1
+BE0000047,Solute carrier family 12 member 5,Humans,AF208159,Q9H2X9,DB00887,1
+BE0001195,Cystic fibrosis transmembrane conductance regulator,Humans,M28668,P13569,DB00887; DB01016; DB01050; DB08820; DB09213; DB09280; DB11712,7
+BE0000049,High affinity immunoglobulin epsilon receptor subunit gamma,Humans,M33195,P30273,DB00895,1
+BE0000015,High affinity immunoglobulin epsilon receptor subunit alpha,Humans,X06948,P12319,DB00895,1
+BE0009011,Lymphoid enhancer-binding factor 1,Humans,U58130,Q9UJU2,DB00903,1
+BE0002375,Prostaglandin E2 receptor EP3 subtype,Humans,S69200,P43115,DB00905; DB00917; DB00929; DB08964,4
+BE0000249,Sodium- and chloride-dependent GABA transporter 1,Humans,X54673,P30531,DB00906,1
+BE0000192,Sodium channel protein type 11 subunit alpha,Humans,AF188679,Q9UI33,DB00907; DB00909,2
+BE0003636,Sodium channel subunit beta-2,Humans,AF007783,O60939,DB00909,1
+BE0003637,Sodium channel subunit beta-3,Humans,AJ243396,Q9NY72,DB00909,1
+BE0003638,Sodium channel subunit beta-4,Humans,AY149967,Q8IWT1,DB00909,1
+BE0003626,"Carbonic anhydrase 5A, mitochondrial",Humans,L19297,P35218,DB00909; DB01194,2
+BE0003627,"Carbonic anhydrase 5B, mitochondrial",Humans,AB021660,Q9Y2D0,DB00909,1
+BE0003628,Carbonic anhydrase 6,Humans,AB021660,P23280,DB00909; DB06795,2
+BE0003630,Carbonic anhydrase-related protein,Humans,L04656,P35219,DB00909,1
+BE0003631,Carbonic anhydrase-related protein 10,Humans,AB036836,Q9NS85,DB00909,1
+BE0003632,Carbonic anhydrase-related protein 11,Humans,AF067662,O75493,DB00909,1
+BE0003633,Carbonic anhydrase 13,Humans,AK095314,Q8N1Q1,DB00909,1
+BE0002441,ATP-sensitive inward rectifier potassium channel 8,Humans,D50312,Q15842,DB00914; DB00922; DB01154; DB01251,4
+BE0000875,Lanosterol 14-alpha demethylase,Humans,U23942,Q16850,DB00916; DB01007; DB01045; DB01167,4
+BE0003522,Prostaglandin E2 receptor EP4 subtype,Humans,BC113523,P35408,DB00917; DB00929,2
+BE0002378,Nociceptin receptor,Humans,X77130,P41146,DB00921,1
+BE0000892,DNA (cytosine-5)-methyltransferase 1,Humans,X63692,P26358,DB00928; DB01035; DB01099; DB01262,4
+BE0004907,5'-AMP-activated protein kinase,Humans,AB022017,Q13131,DB00945; DB12010,2
+BE0009667,Nuclear factor kappa b beta subunit,Humans,-,-,DB00945,1
+BE0003380,Cellular tumor antigen p53,Humans,X02469,P04637,DB00945; DB14487; DB14533,3
+BE0001098,78 kDa glucose-regulated protein,Humans,M19645,P11021,DB00945,1
+BE0004876,Ribosomal protein S6 kinase alpha-3,Humans,M19645,P51812,DB00945; DB12010,2
+BE0003469,NF-kappa-B inhibitor alpha,Humans,BC004983,P25963,DB00945,1
+BE0004952,Tumor necrosis factor-inducible gene 6 protein,Humans,BC004983,P98066,DB00945; DB08818,2
+BE0000444,Caspase-1,Humans,X65019,P29466,DB00945; DB01017,2
+BE0001162,Caspase-3,Humans,U13737,P42574,DB00945; DB01017; DB13751,3
+BE0001027,G1/S-specific cyclin-D1,Humans,X59798,P24385,DB00945; DB01169; DB11718,3
+BE0004689,Myc proto-oncogene protein,Humans,X59798,P01106,DB00945,1
+BE0002887,Cytochrome P450 2C8,Humans,M17397,P10632,DB00951; DB03796,2
+BE0002433,Cytochrome P450 1A2,Humans,Z00036,P05177,DB00951; DB11994,2
+BE0003536,Cytochrome P450 2C19,Humans,M61854,P33261,DB00951,1
+BE0000105,Sterol O-acyltransferase 1,Humans,L21934,P35610,DB00973,1
+BE0000802,Niemann-Pick C1-like protein 1,Humans,AF192522,Q9UHC9,DB00973,1
+BE0001078,Aminopeptidase N,Humans,X13276,P15144,DB00973,1
+BE0004812,Manganese cation,Humans,-,-,DB00974; DB14600,2
+BE0000631,"cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A",Humans,AB020593,Q9Y233,DB00975; DB01113; DB08814,3
+BE0009008,Calcipressin-1,Humans,L20965,P53805,DB00975,1
+BE0000515,Melatonin receptor type 1A,Humans,U14108,P48039,DB00980; DB01065; DB02709; DB06594; DB09071,5
+BE0000327,Melatonin receptor type 1B,Humans,U25341,P49286,DB00980; DB01065; DB02709; DB06594; DB09071,5
+BE0000113,DNA polymerase beta,Humans,L11607,P06746,DB00987; DB14488; DB14489; DB14490; DB14491; DB14501,6
+BE0005839,5-hydroxytryptamine receptor 3B,Humans,D49394,O95264,DB00988,1
+BE0002390,Superoxide dismutase [Cu-Zn],Humans,L44139,P00441,DB00988; DB01064; DB14487; DB14533,4
+BE0000710,High affinity immunoglobulin gamma Fc receptor I,Humans,X14356,P12314,DB00992,1
+BE0000077,Hypoxanthine-guanine phosphoribosyltransferase,Humans,M31642,P00492,DB00993; DB01033; DB01632,3
+BE0001109,Ras-related C3 botulinum toxin substrate 1,Humans,M29870,P63000,DB00993,1
+BE0000907,"Peroxiredoxin-5, mitochondrial",Humans,AJ249483,P30044,DB00995; DB03793,2
+BE0005819,Nucleolar and coiled-body phosphoprotein 1,Humans,J04088,Q14978,DB00997,1
+BE0001191,Protein S100-P,Humans,X65614,P25815,DB01003,1
+BE0003552,C-X-C chemokine receptor type 1,Humans,L19591,P25024,DB01009,1
+BE0000509,Extracellular calcium-sensing receptor,Humans,X81086,P41180,DB01012; DB11093; DB11348; DB14481,4
+BE0002218,G protein-activated inward rectifier potassium channel 4,Humans,U39195,P48544,DB01016,1
+BE0000469,ATP-binding cassette sub-family C member 9,Humans,AF061323,O60706,DB01016; DB09220,2
+BE0000119,ATP-binding cassette sub-family A member 1,Humans,AF275948,O95477,DB01016; DB01599,2
+BE0004923,Mitochondrial ATP-sensitive potassium channel,Humans,D50582,Q14654,DB01016,1
+BE0001051,Interleukin-1 beta,Humans,K02770,P01584,DB01017; DB05260; DB11967,3
+BE0000163,Vascular endothelial growth factor A,Humans,M32977,P15692,DB01017; DB01120; DB01136; DB03088; DB03754; DB05294,6
+BE0001009,Cytochrome c,Humans,M22877,P99999,DB01017,1
+BE0003578,Guanylate cyclase soluble subunit alpha-2,Humans,X63282,P33402,DB01020; DB08931; DB09241; DB09282,4
+BE0003566,"Troponin C, skeletal muscle",Humans,X07898,P02585,DB01023,1
+BE0000125,Interleukin-3,Humans,M14743,P08700,DB01025; DB14487; DB14533,3
+BE0004884,17-hydroxylase,Humans,-,-,DB01026,1
+BE0004873,Steroid 21-hydroxylase,Humans,-,P08686,DB01026,1
+BE0004883,11-hydroxylase,Humans,-,-,DB01026,1
+BE0003719,Pannexin-1,Humans,AF093239,Q96RD7,DB01032,1
+BE0009016,Taste receptor type 2 member 16,Humans,AF093239,Q9NYV7,DB01032,1
+BE0004941,Inosine-5'-monophosphate dehydrogenase,Humans,J05272,P20839,DB01033,1
+BE0001020,Metalloproteinase,Humans,AJ003147,O43923,DB01039; DB13873,2
+BE0001086,Nuclear factor NF-kappa-B p105 subunit,Humans,M55643,P19838,DB01041; DB08814,2
+BE0000748,Fibroblast growth factor receptor 2,Humans,X52832,P21802,DB01041; DB08896; DB08901; DB09078; DB09079; DB12010; DB12147,7
+BE0001004,Solute carrier organic anion transporter family member 1B1,Humans,AF060500,Q9Y6L6,DB01045; DB01211; DB05521,3
+BE0003642,Solute carrier organic anion transporter family member 1A2,Humans,U21943,P46721,DB01045,1
+BE0003659,Solute carrier organic anion transporter family member 1B3,Humans,AJ251506,Q9NPD5,DB01045; DB01211,2
+BE0001042,Solute carrier organic anion transporter family member 2B1,Humans,AB026256,O94956,DB01045; DB05521,2
+BE0000765,Chloride channel protein 2,Humans,AF026004,P51788,DB01046,1
+BE0004659,Smoothened homolog,Humans,X03225,Q99835,DB01047; DB06786; DB08828; DB09143; DB11978,5
+BE0009142,"HLA class I histocompatibility antigen, B-57 alpha chain",Humans,U28646,P18465,DB01048,1
+BE0000246,Apoptosis regulator Bcl-2,Humans,M13994,P10415,DB01050; DB01229; DB01248; DB01367; DB06756; DB08871; DB09213; DB09401; DB11581,9
+BE0001151,Thrombomodulin,Humans,X05495,P07204,DB01050; DB09213,2
+BE0003591,"Fatty acid-binding protein, intestinal",Humans,BC069466,P12104,DB01050; DB09213,2
+BE0001025,Platelet glycoprotein Ib alpha chain,Humans,J02940,P07359,DB01050; DB09213,2
+BE0003756,Protein S100-A7,Humans,M86757,P31151,DB01050; DB09213; DB14487; DB14533,4
+BE0000923,Mitogen-activated protein kinase 1,Humans,M84489,P28482,DB01064; DB01169,2
+BE0000955,Phosphatidylinositol 3-kinase regulatory subunit alpha,Humans,M61906,P27986,DB01064,1
+BE0002383,Phosphatidylinositol 3-kinase regulatory subunit beta,Humans,X80907,O00459,DB01064,1
+BE0002384,Phosphatidylinositol 3-kinase regulatory subunit gamma,Humans,D88532,Q92569,DB01064,1
+BE0003554,Nuclear receptor ROR-beta,Humans,Y08639,Q92753,DB01065,1
+BE0003555,Eosinophil peroxidase,Humans,X14346,P11678,DB01065,1
+BE0002109,Calreticulin,Humans,M32294,P27797,DB01065; DB11093; DB11348; DB14481,4
+BE0003553,Acetylserotonin O-methyltransferase,Humans,U11090,P46597,DB01065,1
+BE0002804,Deoxycytidine kinase,Humans,M60527,P27707,DB01073,1
+BE0000854,Dipeptidyl peptidase 4,Humans,U13735,P27487,DB01076; DB01261; DB04876; DB06203; DB06335; DB08882,6
+BE0008669,Adenosine triphosphate (ATP),Humans,-,-,DB01077; DB01133,2
+BE0000683,Pancreatic triacylglycerol lipase,Humans,J05125,P16233,DB01083,1
+BE0003620,Gastric triacylglycerol lipase,Humans,X05997,P07098,DB01083,1
+BE0000959,Fatty acid synthase,Humans,U26644,P49327,DB01083,1
+BE0002459,"Keratin, type II cytoskeletal 7",Humans,AJ238246,P08729,DB01087,1
+BE0005034,Sodium/potassium-transporting ATPase subunit alpha-2,Humans,D00099,P50993,DB01092,1
+BE0005047,Sodium/potassium-transporting ATPase subunit alpha-3,Humans,D00099,P13637,DB01092,1
+BE0000382,"Dihydroorotate dehydrogenase (quinone), mitochondrial",Humans,M94065,Q02127,DB01097; DB01117; DB03247; DB08880,4
+BE0000871,Protein-tyrosine kinase 2-beta,Humans,U33284,Q14289,DB01097; DB11817; DB12010,3
+BE0000464,Neurotensin receptor type 2,Humans,Y10148,O95665,DB01106,1
+BE0004422,Calcium-activated potassium channel subunit beta-1,Humans,U25138,Q16558,DB01110,1
+BE0003196,Calcium-activated potassium channel subunit beta-2,Humans,AF099137,Q9Y691,DB01110,1
+BE0004423,Calcium-activated potassium channel subunit beta-3,Humans,AF139471,Q9NPA1,DB01110,1
+BE0004424,Calcium-activated potassium channel subunit beta-4,Humans,AF160967,Q86W47,DB01110,1
+BE0004425,Small conductance calcium-activated potassium channel protein 1,Humans,U69883,Q92952,DB01110,1
+BE0004426,Small conductance calcium-activated potassium channel protein 2,Humans,AF239613,Q9H2S1,DB01110,1
+BE0004427,Small conductance calcium-activated potassium channel protein 3,Humans,AF031815,Q9UGI6,DB01110,1
+BE0000623,Tyrosine-protein phosphatase non-receptor type 1,Humans,M31724,P18031,DB01133,1
+BE0000979,Natriuretic peptides B,Humans,M31776,P16860,DB01136; DB06412,2
+BE0001095,Gap junction alpha-1 protein,Humans,X52947,P17302,DB01136,1
+BE0001114,Vascular cell adhesion protein 1,Humans,M30257,P19320,DB01136,1
+BE0001074,E-selectin,Humans,M30640,P16581,DB01136,1
+BE0002374,Hypoxia-inducible factor 1-alpha,Humans,U22431,Q16665,DB01136,1
+BE0005187,Inward rectifier potassium channel 4,Humans,U22431,P48050,DB01136,1
+BE0001069,Canalicular multispecific organic anion transporter 1,Humans,U63970,Q92887,DB01138,1
+BE0000785,Multidrug resistance-associated protein 1,Humans,L05628,P33527,DB01138; DB06176,2
+BE0004782,Solute carrier family 22 member 12,Humans,L05628,Q96S37,DB01138; DB11560,2
+BE0001200,Rhodopsin,Humans,U49742,P08100,DB01159; DB03796,2
+BE0001030,G protein-activated inward rectifier potassium channel 2,Humans,U24660,P48051,DB01159; DB11633,2
+BE0001080,Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-2,Humans,AF493870,P59768,DB01159,1
+BE0000948,Neuropeptide S receptor,Humans,AY310326,Q6W5P4,DB01159,1
+BE0000984,Transforming growth factor beta-1,Humans,X05839,P01137,DB01162,1
+BE0001979,"Thioredoxin reductase 1, cytoplasmic",Humans,X91247,Q16881,DB01169; DB03147,2
+BE0000428,RAC-alpha serine/threonine-protein kinase,Humans,M63167,P31749,DB01169; DB02709,2
+BE0009012,Cyclin-dependent kinase inhibitor 1,Humans,M63167,P38936,DB01169,1
+BE0002365,Histone deacetylase 1,Humans,U50079,Q13547,DB01169; DB02546; DB06176; DB08868; DB14487; DB14533,6
+BE0005808,Protein PML,Humans,U50079,P29590,DB01169,1
+BE0000951,Estrogen sulfotransferase,Humans,U08098,P49888,DB01176,1
+BE0002442,Toll-like receptor 4,Humans,U93091,O00206,DB01183; DB03017,2
+BE0000345,Prolactin receptor,Humans,M31661,P16471,DB01185,1
+BE0001100,Microtubule-associated protein 2,Humans,U01828,P11137,DB01196; DB01229; DB01248,3
+BE0001169,Microtubule-associated protein 1A,Humans,U38291,P78559,DB01196,1
+BE0000642,72 kDa type IV collagenase,Humans,J03210,P08253,DB01197,1
+BE0001680,Leukotriene A-4 hydrolase,Humans,U27293,P09960,DB01197,1
+BE0000993,Synaptic vesicle glycoprotein 2A,Humans,AB018279,Q7L0J3,DB01202; DB05541,2
+BE0004003,Stathmin-4,Humans,AJ303455,Q9H169,DB01206,1
+BE0004957,5-hydroxytryptamine receptor 2,Humans,S42168,P28223,DB01221,1
+BE0003475,Microtubule-associated protein 4,Humans,BC015149,P27816,DB01229; DB01248,2
+BE0000672,Potassium voltage-gated channel subfamily KQT member 1,Humans,AF000571,P51787,DB01244; DB11633,2
+BE0000987,Thiopurine S-methyltransferase,Humans,S62904,P51580,DB01250,1
+BE0000944,Interferon gamma,Humans,X13274,P01579,DB01250; DB01296; DB05676,3
+BE0000838,Proto-oncogene tyrosine-protein kinase Src,Humans,AL133293,P12931,DB01254; DB04272; DB06616; DB08901; DB09079; DB12010,6
+BE0000841,Ephrin type-A receptor 2,Humans,M59371,P29317,DB01254; DB08896; DB12010,3
+BE0000842,Tyrosine-protein kinase Lck,Humans,X05027,P06239,DB01254; DB08901; DB09079; DB12010,4
+BE0000840,Tyrosine-protein kinase Yes,Humans,M15990,P07947,DB01254; DB12010,2
+BE0000891,Signal transducer and activator of transcription 5B,Humans,U48730,P51692,DB01254,1
+BE0000435,Abelson tyrosine-protein kinase 2,Humans,M35296,P42684,DB01254; DB12010,2
+BE0000839,Tyrosine-protein kinase Fyn,Humans,M14333,P06241,DB01254; DB12010,2
+BE0001284,Tyrosine-protein kinase BTK,Humans,X58957,Q06187,DB01254; DB09053; DB11703; DB12010,4
+BE0008998,Nuclear receptor subfamily 4 group A member 3,Humans,X58957,Q92570,DB01254,1
+BE0004743,Breakpoint cluster region protein,Humans,X58957,P11274,DB01254; DB06616; DB08901,3
+BE0001356,Tyrosine-protein kinase CSK,Humans,X60114,P41240,DB01254; DB12010,2
+BE0005587,Ephrin type-A receptor 5,Humans,X60114,P54756,DB01254; DB12010,2
+BE0002453,Ephrin type-B receptor 4,Humans,U07695,P54760,DB01254; DB12010,2
+BE0005539,Tyrosine-protein kinase Fgr,Humans,U07695,P09769,DB01254; DB12010,2
+BE0004742,Tyrosine-protein kinase FRK,Humans,U07695,P42685,DB01254; DB08896; DB12010,3
+BE0003775,Heat shock cognate 71 kDa protein,Humans,AB034951,P11142,DB01254,1
+BE0004315,Tyrosine-protein kinase Lyn,Humans,M16038,P07948,DB01254; DB06616; DB08901; DB09079; DB12010,5
+BE0005595,Mitogen-activated protein kinase kinase kinase MLT,Humans,M16038,Q9NYL2,DB01254; DB12010,2
+BE0001019,Mitogen-activated protein kinase 14,Humans,L35263,Q16539,DB01254; DB12010,2
+BE0000511,Receptor tyrosine-protein kinase erbB-2,Humans,M11767,P04626,DB01259; DB08916; DB12010; DB12267,4
+BE0000844,Oxytocin receptor,Humans,X64878,P30559,DB01282; DB09059,2
+BE0002387,Nuclear factor NF-kappa-B p100 subunit,Humans,X61498,Q00653,DB01296,1
+BE0000930,Serum paraoxonase/arylesterase 1,Humans,M63012,P27169,DB01327; DB14487; DB14533,3
+BE0003486,Interleukin-15,Humans,Z38000,P40933,DB01327,1
+BE0004905,ATP-sensitive potassium channel,Humans,U12541,P48048,DB01392; DB11148,2
+BE0000203,Gonadotropin-releasing hormone receptor,Humans,L03380,P30968,DB01406; DB11619; DB11979,3
+BE0000472,Putative gonadotropin-releasing hormone II receptor,Humans,AF403014,Q96P88,DB01406,1
+BE0001047,C-C motif chemokine 2,Humans,M24545,P13500,DB01406,1
+BE0001094,Beta-nerve growth factor,Humans,V01511,P01138,DB01407,1
+BE0004908,"cAMP-specific 3',5'-cyclic phosphodiesterase 3",Humans,-,-,DB01427,1
+BE0000443,"25-hydroxyvitamin D-1 alpha hydroxylase, mitochondrial",Humans,AF027152,O15528,DB01436,1
+BE0004841,Gamma-hydroxybutyrate (GHB) receptor,Humans,U11053,Q9HAB3,DB01440,1
+BE0001148,Dipeptidase 1,Humans,D13137,P16444,DB01597,1
+BE0000997,Atrial natriuretic peptide receptor 2,Humans,AB005647,P20594,DB01613,1
+BE0004582,Uridine-cytidine kinase-like 1,Humans,Z19547,Q9NWZ5,DB01632,1
+BE0003074,Carbonyl reductase [NADPH] 1,Humans,J04056,P16152,DB01698; DB02709; DB11672,3
+BE0000886,Bile salt sulfotransferase,Humans,L20000,Q06520,DB01708,1
+BE0001264,Sulfotransferase family cytosolic 2B member 1,Humans,U92314,O00204,DB01708; DB02789,2
+BE0002367,Histone deacetylase 3,Humans,U66914,O15379,DB02546,1
+BE0002368,Histone deacetylase 6,Humans,AF132609,Q9UBN7,DB02546; DB06176; DB13346,3
+BE0001608,Histone deacetylase 8,Humans,AF230097,Q9BY41,DB02546; DB14487; DB14488; DB14489; DB14490; DB14491; DB14501; DB14533,8
+BE0001033,"Ferrochelatase, mitochondrial",Humans,D00726,P22830,DB02659,1
+BE0001967,Gastrotropin,Humans,U19869,P51161,DB02659,1
+BE0003986,"Cytochrome c oxidase subunit 4 isoform 1, mitochondrial",Humans,M21575,P13073,DB02659,1
+BE0000335,Cytochrome c oxidase subunit 1,Humans,V00662,P00395,DB02659,1
+BE0003385,Cytochrome c oxidase subunit 2,Humans,V00662,P00403,DB02659,1
+BE0003987,Cytochrome c oxidase subunit 3,Humans,J01415,P00414,DB02659,1
+BE0003988,"Cytochrome c oxidase subunit 5A, mitochondrial",Humans,M22760,P20674,DB02659,1
+BE0003989,"Cytochrome c oxidase subunit 5B, mitochondrial",Humans,M22760,P10606,DB02659,1
+BE0003990,Cytochrome c oxidase subunit 6C,Humans,X13238,P09669,DB02659,1
+BE0003991,"Cytochrome c oxidase subunit 7B, mitochondrial",Humans,Z14244,P24311,DB02659,1
+BE0003992,"Cytochrome c oxidase subunit 7C, mitochondrial",Humans,X16560,P15954,DB02659,1
+BE0003993,"Cytochrome c oxidase subunit 8A, mitochondrial",Humans,BC063025,P10176,DB02659,1
+BE0003994,"Cytochrome c oxidase subunit 6A2, mitochondrial",Humans,M83308,Q02221,DB02659,1
+BE0003995,Cytochrome c oxidase subunit 6B1,Humans,X13923,P14854,DB02659,1
+BE0003996,"Cytochrome c oxidase subunit 7A1, mitochondrial",Humans,M83186,P24310,DB02659,1
+BE0003999,Ferrochelatase,Humans,BX571744,Q7KZA3,DB02659,1
+BE0005788,G-protein coupled bile acid receptor 1,Humans,U68233,Q8TDU6,DB02659; DB03619; DB06777,3
+BE0003362,"NAD-dependent protein deacylase sirtuin-5, mitochondrial",Humans,AF083110,Q9NXA8,DB02701,1
+BE0001241,ADP-ribosyl cyclase 2,Humans,D21878,Q10588,DB02701,1
+BE0001209,Casein kinase II subunit alpha,Humans,J02853,P68400,DB02709; DB12010,2
+BE0000309,Arachidonate 15-lipoxygenase,Humans,M23892,P16050,DB02709,1
+BE0008985,Phosphatidylinositol 4-kinase type 2-beta,Humans,D16354,Q8TCG2,DB02709,1
+BE0008988,Integrin alpha-5,Humans,D16354,P08648,DB02709,1
+BE0000878,Alpha-synuclein,Humans,L08850,P37840,DB02709,1
+BE0005467,C-type lectin domain family 14 member A,Humans,U25341,Q86T13,DB02709,1
+BE0001057,"Solute carrier family 2, facilitated glucose transporter member 1",Humans,K03195,P11166,DB02709,1
+BE0009095,Far upstream element-binding protein 2,Humans,M63167,Q92945,DB02709,1
+BE0004442,tRNA-splicing ligase RtcB homolog,Humans,U70660,Q9Y3I0,DB02772,1
+BE0002101,"Actin, alpha skeletal muscle",Humans,J00068,P68133,DB02772,1
+BE0000395,Taste receptor type 1 member 2,Humans,AF458154,Q8TE23,DB02772,1
+BE0001432,Ganglioside GM2 activator,Humans,M76477,P17900,DB03017,1
+BE0004019,Hepatocyte nuclear factor 4-alpha,Humans,X87870,P41235,DB03017,1
+BE0004020,Very low-density lipoprotein receptor,Humans,L20470,P98155,DB03017,1
+BE0001854,Glycolipid transfer protein,Humans,AF209704,Q9NZD2,DB03017; DB04224; DB04465,3
+BE0000994,Lactotransferrin,Humans,X53961,P02788,DB03017; DB04743; DB08439,3
+BE0003266,Complement component C8 gamma chain,Humans,M17263,P07360,DB03017; DB04272; DB14487; DB14533,4
+BE0004022,Group IID secretory phospholipase A2,Humans,AF112982,Q9UNK4,DB03017; DB03193,2
+BE0004465,Ig lambda-1 chain C regions,Humans,M18785,P0CG04,DB03088,1
+BE0002939,Ig lambda chain V-II region MGC,Humans,M18785,P01709,DB03088,1
+BE0004464,Trefoil factor 2,Humans,M18785,Q03403,DB03088,1
+BE0003872,Disintegrin and metalloproteinase domain-containing protein 28,Humans,AF137334,Q9UKQ2,DB03088,1
+BE0004492,Keratin-associated protein 5-2,Humans,AF051831,Q701N4,DB03088,1
+BE0004439,Orexin,Humans,AF051831,O43612,DB03088,1
+BE0002941,C-C motif chemokine 8,Humans,Y10802,P80075,DB03088,1
+BE0004457,Alpha-amylase 2B,Humans,Y10802,P19961,DB03088,1
+BE0001181,Angiogenin,Humans,M11567,P03950,DB03088; DB04272,2
+BE0001671,Alpha-amylase 1,Humans,M18786,P04745,DB03088,1
+BE0002364,NADPH--cytochrome P450 reductase,Humans,S90469,P16435,DB03147; DB03247,2
+BE0001921,"Glutaryl-CoA dehydrogenase, mitochondrial",Humans,U69141,Q92947,DB03147,1
+BE0001745,"Medium-chain specific acyl-CoA dehydrogenase, mitochondrial",Humans,M91432,P11310,DB03147,1
+BE0004141,D-amino-acid oxidase,Humans,X13227,P14920,DB03147; DB03793,2
+BE0004566,L-amino-acid oxidase,Humans,M26393,Q96RQ9,DB03147; DB04272,2
+BE0004574,ERO1-like protein beta,Humans,AE014299,Q86YB8,DB03147,1
+BE0000397,"Isovaleryl-CoA dehydrogenase, mitochondrial",Humans,M34192,P26440,DB03147,1
+BE0000960,Dihydropyrimidine dehydrogenase [NADP(+)],Humans,U09178,Q12882,DB03147; DB03247; DB09257; DB09327,4
+BE0000605,"Isobutyryl-CoA dehydrogenase, mitochondrial",Humans,AF126245,Q9UKU7,DB03147,1
+BE0000965,"Apoptosis-inducing factor 1, mitochondrial",Humans,AF100928,O95831,DB03147,1
+BE0004507,NADH-cytochrome b5 reductase 1,Humans,AJ236923,Q9UHQ9,DB03147,1
+BE0004480,"NADPH:adrenodoxin oxidoreductase, mitochondrial",Humans,S62734,P22570,DB03147,1
+BE0004135,Peroxisomal acyl-coenzyme A oxidase 1,Humans,U07866,Q15067,DB03147,1
+BE0004580,FAD-linked sulfhydryl oxidase ALR,Humans,M10123,P55789,DB03147,1
+BE0004614,Ribosomal protein S6 kinase alpha-4,Humans,U08996,O75676,DB03247,1
+BE0004577,Hydroxyacid oxidase 2,Humans,L48616,Q9NYQ3,DB03247,1
+BE0003043,Phosphopantothenoylcysteine decarboxylase,Humans,AY358848,Q96CD2,DB03247,1
+BE0003766,Hydroxyacid oxidase 1,Humans,AF244134,Q9UJM8,DB03247,1
+BE0004105,Serine/threonine-protein kinase Sgk1,Humans,Y10032,O00141,DB03247,1
+BE0002467,Protein disulfide-isomerase,Humans,X05130,P07237,DB03615; DB14487; DB14533,3
+BE0004053,Elongation factor Tu GTP-binding domain-containing protein 1,Humans,AK023181,Q7Z2Z2,DB03619,1
+BE0001746,Soluble calcium-activated nucleotidase 1,Humans,AF328554,Q8WVQ1,DB03754,1
+BE0003175,Endonuclease 8-like 1,Humans,AB079068,Q96FI4,DB03754; DB14488; DB14489; DB14490; DB14491; DB14501,6
+BE0004510,Decorin,Humans,AE000512,P07585,DB03754,1
+BE0005540,Sterol regulatory element-binding protein 1,Humans,U38480,P36956,DB03756,1
+BE0001658,Ribonuclease UK114,Humans,X95384,P52758,DB03793,1
+BE0001710,Ras-related protein Rab-9A,Humans,U44103,P51151,DB03793,1
+BE0003957,Glycodelin,Humans,J04129,P09466,DB03796,1
+BE0003179,Hepatocyte nuclear factor 4-gamma,Humans,Z49826,Q14541,DB03796,1
+BE0003181,Trafficking protein particle complex subunit 3,Humans,AJ224335,O43617,DB03796,1
+BE0004538,Palmitoyl-protein thioesterase 1,Humans,AL096881,P50897,DB03796,1
+BE0004171,Myelin P2 protein,Humans,X62167,P02689,DB03796; DB04224,2
+BE0003601,Alpha-lactalbumin,Humans,X62167,P00709,DB03796,1
+BE0004463,Serpin B3,Humans,D13515,P29508,DB03929,1
+BE0001687,Bis(5'-adenosyl)-triphosphatase,Humans,U46922,P49789,DB04173,1
+BE0001156,E3 ubiquitin-protein ligase XIAP,Humans,U45880,P98170,DB04209,1
+BE0005300,cGMP-gated cation channel alpha-1,Humans,U45880,P29973,DB04209,1
+BE0001855,Macrophage migration inhibitory factor,Humans,M25639,P14174,DB04272,1
+BE0004551,Carboxy-terminal domain RNA polymerase II polypeptide A small phosphatase 1,Humans,M25639,Q9GZU7,DB04272,1
+BE0004625,Hepatocyte growth factor-regulated tyrosine kinase substrate,Humans,D01045,O14964,DB04272,1
+BE0003257,Carboxypeptidase B,Humans,M81057,P15086,DB04272,1
+BE0004434,U6 snRNA-associated Sm-like protein LSm6,Humans,U00096,P62312,DB04272,1
+BE0003262,Pleckstrin homology domain-containing family A member 1,Humans,AF286160,Q9HB21,DB04272,1
+BE0001480,Uridine-cytidine kinase 2,Humans,D78335,Q9BZX2,DB04272,1
+BE0000999,Tumor necrosis factor ligand superfamily member 13B,Humans,AF136293,Q9Y275,DB04272,1
+BE0004443,Inosine triphosphate pyrophosphatase,Humans,J04795,Q9BY32,DB04272,1
+BE0004459,"Citrate synthase, mitochondrial",Humans,J04795,O75390,DB04272,1
+BE0001541,Heparan sulfate glucosamine 3-O-sulfotransferase 3A1,Humans,AF105376,Q9Y663,DB04272,1
+BE0000908,Eosinophil cationic protein,Humans,X15161,P12724,DB04272,1
+BE0004501,Glycosyltransferase 6 domain-containing protein 1,Humans,X06173,Q7Z4J2,DB04465,1
+BE0001353,Galectin-3,Humans,M57710,P17931,DB04465,1
+BE0004545,Nuclear receptor ROR-alpha,Humans,M22246,P35398,DB04540,1
+BE0009096,C-type lectin domain family 4 member E,Humans,J03258,Q9ULY5,DB04540,1
+BE0003404,Aurora kinase B,Humans,AF008552,Q96GD4,DB04703; DB12010,2
+BE0003549,Cytochrome P450 2B6,Humans,M29874,P20813,DB04794,1
+BE0003538,UDP-glucuronosyltransferase 1-9,Humans,S55985,O60656,DB04824,1
+BE0004946,"Myosin light chain kinase 2, skeletal/cardiac muscle",Humans,J04046,Q9H1R3,DB04825; DB12010,2
+BE0000911,C-C chemokine receptor type 5,Humans,X91492,P51681,DB04835,1
+BE0001415,Tubulin beta-3 chain,Humans,U47634,Q13509,DB04845,1
+BE0003833,60S ribosomal protein L3,Humans,X73460,P39023,DB04865; DB09092,2
+BE0002397,Furin,Humans,X17094,P09958,DB04951,1
+BE0002399,Potassium voltage-gated channel subfamily KQT member 4,Humans,AF105202,P56696,DB04953,1
+BE0002400,Potassium voltage-gated channel subfamily KQT member 5,Humans,AF249278,Q9NR82,DB04953,1
+BE0002417,Protein kinase C delta type,Humans,L07860,Q05655,DB05013; DB12010,2
+BE0008667,Histone deacetylase,Humans,U50079,Q13547,DB05015; DB06603,2
+BE0002422,Alpha-galactosidase A,Humans,X05790,P06280,DB05018,1
+BE0000870,Dual specificity mitogen-activated protein kinase kinase 1,Humans,L05624,Q02750,DB05239; DB06616; DB08911,3
+BE0003813,"V-type proton ATPase subunit B, brain isoform",Humans,M60346,P21281,DB05260,1
+BE0004731,Protein-tyrosine kinase 6,Humans,X00588,Q13882,DB05294; DB12010,2
+BE0000619,Potassium-transporting ATPase subunit beta,Humans,M75110,P51164,DB05351,1
+BE0003374,Macrophage erythroblast attacher,Humans,AK001088,Q7L5Y9,DB05389,1
+BE0003375,Scavenger receptor cysteine-rich type 1 protein M130,Humans,BC051281,Q86VB7,DB05389,1
+BE0004839,NAPQI (N-acetyl-p-benzoquinone imine),Humans,-,-,DB06151,1
+BE0000385,Interferon alpha/beta receptor 2,Humans,L42243,P48551,DB06152,1
+BE0000629,Hemoglobin subunit beta,Humans,U01317,P68871,DB06154; DB14487; DB14533,3
+BE0009339,Free radicals,Humans,-,-,DB06154; DB06755; DB13257; DB13501,4
+BE0005802,G-protein coupled receptor 55,Humans,X54937,Q9Y2T6,DB06155; DB09061,2
+BE0003523,Histone deacetylase 4,Humans,AF132607,P56524,DB06176; DB14487; DB14533,3
+BE0003440,Thrombopoietin receptor,Humans,M90102,P40238,DB06210; DB11995; DB13125,3
+BE0004717,Potassium voltage-gated channel subfamily A member 5,Humans,M77235,P22460,DB06217; DB11633,2
+BE0004753,Sodium/glucose cotransporter 2,Humans,AF369229,P31639,DB06292; DB08907; DB09038; DB11827,4
+BE0002133,Fibroblast growth factor receptor 3,Humans,M58051,P22607,DB06589; DB08901; DB09078; DB09079; DB12010; DB12147,6
+BE0001341,Tyrosine-protein kinase ITK/TSK,Humans,D13720,Q08881,DB06589; DB12010,2
+BE0004714,SH2B adapter protein 3,Humans,M13361,Q9UQQ2,DB06589,1
+BE0001424,Tyrosine-protein kinase HCK,Humans,M16591,P08631,DB06616; DB12010,2
+BE0001072,Cyclin-dependent kinase 2,Humans,AB012305,P24941,DB06616,1
+BE0004744,Dual specificity mitogen-activated protein kinase kinase 2,Humans,L05624,P36507,DB06616; DB08911; DB11967; DB12010,4
+BE0004745,Mitogen-activated protein kinase kinase kinase 2,Humans,L05624,Q9Y2U5,DB06616; DB12010,2
+BE0004384,Calcium/calmodulin-dependent protein kinase type II subunit gamma,Humans,BC034044,Q13555,DB06616; DB12010,2
+BE0004817,Calcium ions,Humans,-,-,DB06689,1
+BE0004672,Coagulation factor XII,Humans,-,P00748,DB06689; DB14487; DB14533,3
+BE0004824,Tyrosine,Humans,-,-,DB06715,1
+BE0004844,Stanozolol Binding Protein (STBP),Humans,-,-,DB06718,1
+BE0004843,Low-affinity glucocorticoid-binding protein (LAGS),Humans,-,-,DB06718,1
+BE0009007,Prohibitin-2,Humans,AJ277028,Q99623,DB06774,1
+BE0004671,"Carbamoyl-phosphate synthase [ammonia], mitochondrial",Humans,AJ277028,P31327,DB06775,1
+BE0001111,Cytochrome P450 1B1,Humans,U03688,Q16678,DB07776,1
+BE0003862,"[Pyruvate dehydrogenase [lipoamide]] kinase isozyme 1, mitochondrial",Humans,L42450,Q15118,DB08809,1
+BE0001113,CD44 antigen,Humans,M24915,P16070,DB08818,1
+BE0001085,Intercellular adhesion molecule 1,Humans,X06990,P05362,DB08818,1
+BE0004702,Hyaluronan mediated motility receptor,Humans,X06990,O75330,DB08818,1
+BE0004512,Neurocan core protein,Humans,X06990,O14594,DB08818,1
+BE0004606,Versican core protein,Humans,X06990,P13611,DB08818,1
+BE0004930,"Complement component 1 Q subcomponent-binding protein, mitochondrial",Humans,X06990,Q07021,DB08818,1
+BE0004933,Hyaluronan and proteoglycan link protein 1,Humans,X06990,P10915,DB08818,1
+BE0004935,Hyaluronan and proteoglycan link protein 3,Humans,X06990,Q96S86,DB08818,1
+BE0004936,Hyaluronan and proteoglycan link protein 4,Humans,X06990,Q86UW8,DB08818,1
+BE0004940,Hyaluronan-binding protein 2,Humans,X06990,Q14520,DB08818,1
+BE0004944,Layilin,Humans,X06990,Q6UX15,DB08818,1
+BE0004948,Stabilin-2,Humans,X06990,Q8WWQ8,DB08818,1
+BE0004942,Interphotoreceptor matrix proteoglycan 2,Humans,X06990,Q9BZV3,DB08818,1
+BE0004943,Intracellular hyaluronan-binding protein 4,Humans,X06990,Q5JVS0,DB08818,1
+BE0000232,Microsomal triglyceride transfer protein large subunit,Humans,X75500,P55157,DB08827,1
+BE0000359,ALK tyrosine kinase receptor,Humans,U62540,Q9UM73,DB08865; DB09063; DB11363; DB12010; DB12130; DB12141; DB12267,7
+BE0000915,Hepatocyte growth factor receptor,Humans,J02958,P08581,DB08865; DB08875; DB12010; DB12267,4
+BE0002432,Sphingosine 1-phosphate receptor 5,Humans,AF331840,Q9H228,DB08868; DB12371,2
+BE0004145,Tyrosine-protein kinase JAK1,Humans,-,P23458,DB08877; DB08895; DB11817; DB12010,4
+BE0002408,Tyrosine-protein kinase JAK2,Humans,AF058925,O60674,DB08877; DB08895; DB11817; DB12010,4
+BE0004739,Proteasome subunit beta type-8,Humans,D29011,P28062,DB08889,1
+BE0004737,Proteasome subunit beta type-9,Humans,D00761,P28065,DB08889,1
+BE0002349,Proteasome subunit beta type-2,Humans,D26599,P49721,DB08889,1
+BE0004738,Proteasome subunit beta type-10,Humans,D26599,P40306,DB08889,1
+BE0003493,Tyrosine-protein kinase JAK3,Humans,U57096,P52333,DB08895; DB11817; DB12010,3
+BE0004146,Non-receptor tyrosine-protein kinase TYK2,Humans,X54637,P29597,DB08895; DB12010,2
+BE0004741,Discoidin domain-containing receptor 2,Humans,L06139,Q16832,DB08896; DB12010,2
+BE0003390,Mitogen-activated protein kinase 11,Humans,U53442,Q15759,DB08896,1
+BE0001203,Fibroblast growth factor receptor 4,Humans,X57205,P22455,DB08901; DB09078; DB12147,3
+BE0004756,Kelch-like ECH-associated protein 1,Humans,M16801,Q14145,DB08908,1
+BE0005551,Transcription factor p65,Humans,M16801,Q04206,DB08908,1
+BE0004757,Serine/threonine-protein kinase SIK1,Humans,X03484,P57059,DB08912; DB12010,2
+BE0004758,Serine/threonine-protein kinase Nek11,Humans,X03484,Q8NG66,DB08912; DB12010,2
+BE0004759,LIM domain kinase 1,Humans,X03484,P53667,DB08912; DB12010,2
+BE0004772,Receptor tyrosine-protein kinase erbB-4,Humans,M11767,Q15303,DB08916; DB12010; DB12267,3
+BE0000928,Proteinase-activated receptor 1,Humans,M62424,P25116,DB09030,1
+BE0005864,Orexin receptor type 1,Humans,S80335,O43613,DB09034,1
+BE0005865,Orexin receptor type 2,Humans,S80335,O43614,DB09034,1
+BE0008633,"Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta isoform (P110δ)",Humans,-,-,DB09054,1
+BE0000773,Vasopressin V1b receptor,Humans,D31833,P47901,DB09059,1
+BE0009153,G-protein coupled receptor 12,Humans,X74328,P47775,DB09061,1
+BE0002304,N-arachidonyl glycine receptor,Humans,L42324,Q14330,DB09061,1
+BE0009158,Transient receptor potential cation channel subfamily V member 2,Humans,AY090109,Q9Y5S1,DB09061,1
+BE0009159,Transient receptor potential cation channel subfamily V member 4,Humans,AJ487035,Q9HBA0,DB09061,1
+BE0002468,Voltage-dependent anion-selective channel protein 1,Humans,L06132,P21796,DB09061,1
+BE0008636,solute carrier family 6 member 2,Humans,-,-,DB09068; DB13931,2
+BE0004521,"3-ketoacyl-CoA thiolase, peroxisomal",Humans,-,P09110,DB09069,1
+BE0002216,Cyclin-dependent kinase 4,Humans,M14505,P11802,DB09073; DB11730; DB12001; DB12010,4
+BE0002212,Cyclin-dependent kinase 6,Humans,X66365,Q00534,DB09073; DB11730; DB12001,3
+BE0003798,Poly [ADP-ribose] polymerase 2,Humans,AJ236912,Q9UGN5,DB09074; DB11760; DB11793; DB12332,4
+BE0004049,Poly [ADP-ribose] polymerase 3,Humans,Y16836,Q9Y6F1,DB09074; DB12332,2
+BE0008625,Platelet derived growth factor receptor alpha,Humans,-,-,DB09078; DB09079,2
+BE0008626,RET,Humans,-,-,DB09078,1
+BE0008628,Platelet derived growth factor receptor beta,Humans,-,-,DB09079,1
+BE0004631,Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2,Humans,Y00106,Q9UL51,DB09083,1
+BE0005295,Ryanodine receptor 2,Humans,J05200,Q92736,DB09085,1
+BE0008716,Voltage-dependent T-type calcium channel,Humans,AF134986,O43497,DB09089; DB09238,2
+BE0005793,P2X purinoceptor 4,Humans,X13794,Q99571,DB09119; DB14575,2
+BE0003732,Adenylate cyclase type 2,Humans,AF410885,Q08462,DB09121,1
+BE0003733,Adenylate cyclase type 5,Humans,AF497517,O95622,DB09121,1
+BE0000033,Insulin receptor,Humans,M10051,P06213,DB09129; DB12010; DB12267,3
+BE0008992,Cystatin-B,Humans,M11228,P04080,DB09131,1
+BE0004961,Hydroxyapatite,Humans,-,-,DB09165,1
+BE0008720,Amorphous calcium phosphate,Humans,-,-,DB09165,1
+BE0008644,Neurokinin-1 Receptor (NK1R),Humans,-,-,DB09291; DB14019,2
+BE0000266,Neprilysin,Humans,X07166,P08473,DB09292,1
+BE0009333,Thyroxine 5-deiodinase,Humans,M15036,P55073,DB09333,1
+BE0002193,Thymidine phosphorylase,Humans,M63193,P19971,DB09343,1
+BE0003510,Bcl-2-like protein 1,Humans,BC019307,Q07817,DB09401,1
+BE0003511,Induced myeloid leukemia cell differentiation protein Mcl-1,Humans,AF118278,Q07820,DB09401,1
+BE0009346,Sodium/iodide cotransporter,Humans,D13515,Q92911,DB09418,1
+BE0008659,Thyrotropin Releasing Hormone Receptor,Humans,D13515,P34981,DB09421,1
+BE0004525,V-type proton ATPase subunit C 1,Humans,AB006590,P21283,DB09552,1
+BE0008691,Calcium and integrin-binding protein 1,Humans,M32294,Q99828,DB11093; DB11348; DB14481,3
+BE0005812,Programmed cell death protein 6,Humans,M32294,O75340,DB11093; DB11348; DB14481; DB14487; DB14533,5
+BE0008692,Sorcin,Humans,M32294,P30626,DB11093; DB11348; DB14481,3
+BE0008693,Calcineurin B homologous protein 1,Humans,M32294,Q99653,DB11093; DB11348; DB14481,3
+BE0002145,SPARC,Humans,Y00755,P09486,DB11093; DB11348; DB14481,3
+BE0001011,Calnexin,Humans,L10284,P27824,DB11093; DB11348; DB14481,3
+BE0008694,Fibrillin-2,Humans,L10284,P35556,DB11093; DB11348; DB14481,3
+BE0008695,Calsequestrin-2,Humans,M59488,O14958,DB11093; DB11348; DB14481,3
+BE0005259,Regucalcin,Humans,M59488,Q15493,DB11093; DB11348; DB14481,3
+BE0008696,Peflin,Humans,M59488,Q9UBV8,DB11093; DB11348; DB14481,3
+BE0002950,Protein S100-A6,Humans,M14300,P06703,DB11093; DB11348; DB14481,3
+BE0008697,Translationally-controlled tumor protein,Humans,M14300,P13693,DB11093; DB11348; DB14481,3
+BE0008698,Calcium and integrin-binding family member 2,Humans,M14300,O75838,DB11093; DB11348; DB14481,3
+BE0008699,Calsequestrin-1,Humans,X99920,P31415,DB11093; DB11348; DB13800; DB14481,4
+BE0008700,Nucleobindin-1,Humans,X99920,Q02818,DB11093; DB11348; DB14481,3
+BE0008701,Nucleobindin-2,Humans,X99920,P80303,DB11093; DB11348; DB14481,3
+BE0008702,Fibrillin-3,Humans,J04046,Q75N90,DB11093; DB11348; DB14481,3
+BE0008703,Grancalcin,Humans,J04046,P28676,DB11093; DB11348; DB14481,3
+BE0008704,Calcium-dependent secretion activator 1,Humans,J04046,Q9ULU8,DB11093; DB11348; DB14481,3
+BE0008705,Calmodulin-2,Humans,J04046,P0DP24,DB11093; DB11348; DB14481,3
+BE0008706,Calmodulin-3,Humans,J04046,P0DP25,DB11093; DB11348; DB14481,3
+BE0008707,Protein S100-A16,Humans,J04046,Q96FQ6,DB11093; DB11348; DB14481,3
+BE0008708,Calretinin,Humans,J04046,P22676,DB11093; DB11348; DB13800; DB14481,4
+BE0008709,Calcyphosin,Humans,J04046,Q13938,DB11093; DB11348; DB14481,3
+BE0008710,Calcium-dependent secretion activator 2,Humans,J04046,Q86UW7,DB11093; DB11348; DB14481,3
+BE0008711,Calreticulin-3,Humans,J04046,Q96L12,DB11093; DB11348; DB14481,3
+BE0005274,Neurexin-1,Humans,J04046,Q9ULB1,DB11093; DB11348; DB14481,3
+BE0004557,Neuronal calcium sensor 1,Humans,J04046,P62166,DB11093; DB11348; DB14481,3
+BE0004791,Pepsin,Humans,-,-,DB11098,1
+BE0005562,G-protein coupled receptor 35,Humans,BX571856,Q9HC97,DB11156,1
+BE0009063,"Keratin, type II cytoskeletal 2 epidermal",Humans,X52068,P35908,DB11157; DB14487; DB14533,3
+BE0003789,C-Jun-amino-terminal kinase-interacting protein 1,Humans,AF074091,Q9UQF2,DB11157,1
+BE0009373,Skin epithelial cells,Humans,-,-,DB11185; DB12328,2
+BE0009546,Sweat ducts,Humans,-,-,DB11200,1
+BE0009547,Blood vessels,Humans,-,-,DB11201,1
+BE0001035,Protein-glutamine gamma-glutamyltransferase 2,Humans,M55153,P21980,DB11254,1
+BE0004862,Serotonin Receptors,Humans,M28269,P08908,DB11273; DB12141; DB13345,3
+BE0009376,Dopamine receptor,Humans,X55760,P21728,DB11275; DB13345,2
+BE0001161,Endothelial protein C receptor,Humans,L35545,Q9UNN8,DB11328,1
+BE0005561,Platelet-activating factor receptor,Humans,-,P25105,DB11614,1
+BE0005190,G protein-activated inward rectifier potassium channel 3,Humans,U24660,Q92806,DB11633,1
+BE0000337,Transthyretin,Humans,K02091,P02766,DB11644; DB14487; DB14533,3
+BE0003639,Multidrug resistance-associated protein 5,Humans,AF104942,O15440,DB11672,1
+BE0004281,Elongation factor 2,Humans,X51466,P13639,DB11823,1
+BE0003394,Brain-derived neurotrophic factor,Humans,M37762,P23560,DB11823,1
+BE0001315,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform",Humans,X83368,P48736,DB11952; DB12010,2
+BE0000918,Interleukin-6,Humans,X04430,P05231,DB11967,1
+BE0003430,Mitogen-activated protein kinase kinase kinase 1,Humans,AF042838,Q13233,DB11967; DB12010,2
+BE0003781,Oxysterols receptor LXR-alpha,Humans,U22662,Q13133,DB11994,1
+BE0001598,Oxysterols receptor LXR-beta,Humans,U07132,P55055,DB11994,1
+BE0004866,CYP3A,Humans,M18907,P08684,DB11994,1
+BE0003533,Cytochrome P450 2E1,Humans,J02625,P05181,DB11994,1
+BE0002793,Cytochrome P450 2C9,Humans,AY341248,P11712,DB11994,1
+BE0002363,Cytochrome P450 2D6,Humans,M20403,P10635,DB11994,1
+BE0001316,Tyrosine-protein kinase SYK,Humans,Z29630,P43405,DB12010,1
+BE0001204,Equilibrative nucleoside transporter 1,Humans,U81375,Q99808,DB12010,1
+BE0003541,UDP-glucuronosyltransferase 1-1,Humans,M57899,P22309,DB12010,1
+BE0001646,Cathepsin S,Humans,S93414,P25774,DB12010,1
+BE0002135,Cathepsin L1,Humans,X12451,P07711,DB12010,1
+BE0009380,Ribosomal protein S6 kinase alpha-6,Humans,X16416,Q9UK32,DB12010,1
+BE0009381,"Atypical kinase COQ8A, mitochondrial",Humans,X54637,Q8NI60,DB12010,1
+BE0009382,Serine/threonine-protein kinase NIM1,Humans,J02958,Q8IY84,DB12010,1
+BE0004109,Serine/threonine-protein kinase MST4,Humans,AF231012,Q9P289,DB12010,1
+BE0003761,cAMP-dependent protein kinase catalytic subunit alpha,Humans,X07767,P17612,DB12010,1
+BE0009383,Serine/threonine-protein kinase 24,Humans,X07767,Q9Y6E0,DB12010,1
+BE0009384,Serine/threonine-protein kinase 3,Humans,X07767,Q13188,DB12010,1
+BE0009385,Tyrosine-protein kinase Tec,Humans,X07767,P42680,DB12010,1
+BE0009386,Serine/threonine-protein kinase 33,Humans,X07767,Q9BYT3,DB12010,1
+BE0009387,Serine/threonine-protein kinase 35,Humans,X07767,Q8TDR2,DB12010,1
+BE0009388,Serine/threonine-protein kinase 36,Humans,X07767,Q9NRP7,DB12010,1
+BE0009389,Serine/threonine-protein kinase 38,Humans,X07767,Q15208,DB12010,1
+BE0009390,Serine/threonine-protein kinase 38-like,Humans,X07767,Q9Y2H1,DB12010,1
+BE0009391,STE20/SPS1-related proline-alanine-rich protein kinase,Humans,X07767,Q9UEW8,DB12010,1
+BE0009392,Serine/threonine-protein kinase TAO1,Humans,X07767,Q7L7X3,DB12010,1
+BE0004632,Serine/threonine-protein kinase TAO2,Humans,X07767,Q9UL54,DB12010,1
+BE0009393,Serine/threonine-protein kinase TAO3,Humans,X07767,Q9H2K8,DB12010,1
+BE0009394,Serine/threonine-protein kinase TBK1,Humans,X07767,Q9UHD2,DB12010,1
+BE0009395,Dual specificity testis-specific protein kinase 1,Humans,L06139,Q15569,DB12010,1
+BE0003782,TGF-beta receptor type-1,Humans,L11695,P36897,DB12010,1
+BE0001861,TGF-beta receptor type-2,Humans,M85079,P37173,DB12010,1
+BE0009396,Tyrosine-protein kinase receptor Tie-1,Humans,M85079,P35590,DB12010,1
+BE0009397,Serine/threonine-protein kinase tousled-like 1,Humans,M85079,Q9UKI8,DB12010,1
+BE0009398,Serine/threonine-protein kinase tousled-like 2,Humans,M85079,Q86UE8,DB12010,1
+BE0009399,TRAF2 and NCK-interacting protein kinase,Humans,M85079,Q9UKE5,DB12010,1
+BE0009400,Non-receptor tyrosine-protein kinase TNK1,Humans,M85079,Q13470,DB12010,1
+BE0000772,Activated CDC42 kinase 1,Humans,L13738,Q07912,DB12010,1
+BE0009401,Serine/threonine-protein kinase TNNI3K,Humans,L13738,Q59H18,DB12010,1
+BE0009402,Testis-specific serine/threonine-protein kinase 1,Humans,L13738,Q9BXA7,DB12010,1
+BE0003791,Dual specificity protein kinase TTK,Humans,M86699,P33981,DB12010,1
+BE0009403,Tyrosine-protein kinase TXK,Humans,M86699,P42681,DB12010,1
+BE0009404,Tyrosine-protein kinase receptor TYRO3,Humans,M86699,Q06418,DB12010,1
+BE0009405,Serine/threonine-protein kinase ULK1,Humans,M86699,O75385,DB12010,1
+BE0009406,Serine/threonine-protein kinase ULK2,Humans,M86699,Q8IYT8,DB12010,1
+BE0009407,Serine/threonine-protein kinase ULK3,Humans,M86699,Q6PHR2,DB12010,1
+BE0003335,Wee1-like protein kinase,Humans,U10564,P30291,DB12010,1
+BE0009408,Mitogen-activated protein kinase kinase kinase 19,Humans,M15990,Q56UN5,DB12010,1
+BE0001312,Tyrosine-protein kinase ZAP-70,Humans,L05148,P43403,DB12010,1
+BE0009409,AP2-associated protein kinase 1,Humans,L05148,Q2M2I8,DB12010,1
+BE0000264,Activin receptor type-1,Humans,L02911,Q04771,DB12010,1
+BE0000665,Activin receptor type-1B,Humans,Z22536,P36896,DB12010,1
+BE0009410,"Atypical kinase COQ8B, mitochondrial",Humans,Z22536,Q96D53,DB12010,1
+BE0009411,Ankyrin repeat and protein kinase domain-containing protein 1,Humans,U62540,Q8NFD2,DB12010,1
+BE0000991,Aurora kinase A,Humans,D84212,O14965,DB12010,1
+BE0004601,Aurora kinase C,Humans,AF008552,Q9UQB9,DB12010,1
+BE0009412,Tyrosine-protein kinase receptor UFO,Humans,AF008552,P30530,DB12010; DB12141,2
+BE0009413,Tyrosine-protein kinase Blk,Humans,AF008552,P51451,DB12010,1
+BE0009414,BMP-2-inducible protein kinase,Humans,AF008552,Q9NSY1,DB12010,1
+BE0009415,Bone morphogenetic protein receptor type-1B,Humans,AF008552,O00238,DB12010,1
+BE0009324,Bone morphogenetic protein receptor type-2,Humans,AF008552,Q13873,DB12010,1
+BE0009416,Cytoplasmic tyrosine-protein kinase BMX,Humans,AF008552,P51813,DB12010,1
+BE0009417,Calcium/calmodulin-dependent protein kinase type 1,Humans,X58957,Q14012,DB12010,1
+BE0004324,Calcium/calmodulin-dependent protein kinase type 1D,Humans,AB081726,Q8IU85,DB12010,1
+BE0004147,Calcium/calmodulin-dependent protein kinase type 1G,Humans,AF428261,Q96NX5,DB12010,1
+BE0004076,Calcium/calmodulin-dependent protein kinase type II subunit alpha,Humans,AF145710,Q9UQM7,DB12010,1
+BE0003792,Calcium/calmodulin-dependent protein kinase type II subunit beta,Humans,AF078803,Q13554,DB12010,1
+BE0004108,Calcium/calmodulin-dependent protein kinase type II subunit delta,Humans,AF078803,Q13557,DB12010,1
+BE0009418,Calcium/calmodulin-dependent protein kinase kinase 1,Humans,BC034044,Q8N5S9,DB12010,1
+BE0009419,Calcium/calmodulin-dependent protein kinase kinase 2,Humans,BC034044,Q96RR4,DB12010,1
+BE0002641,Peripheral plasma membrane protein CASK,Humans,AF032119,O14936,DB12010,1
+BE0009420,Kappa-casein,Humans,AF032119,P07498,DB12010,1
+BE0001082,Cyclin-dependent kinase 1,Humans,X05360,P06493,DB12010,1
+BE0009421,Serine/threonine-protein kinase MRCK gamma,Humans,X05360,Q6DT37,DB12010,1
+BE0009422,Cyclin-dependent kinase-like 1,Humans,M14505,Q00532,DB12010,1
+BE0009423,Cyclin-dependent kinase-like 2,Humans,M14505,Q92772,DB12010,1
+BE0003382,Serine/threonine-protein kinase Chk1,Humans,AF016582,O14757,DB12010,1
+BE0003381,Serine/threonine-protein kinase Chk2,Humans,AF086904,O96017,DB12010,1
+BE0009424,Citron Rho-interacting kinase,Humans,AF086904,O14578,DB12010,1
+BE0001824,Dual specificity protein kinase CLK1,Humans,L29219,P49759,DB12010,1
+BE0009425,Dual specificity protein kinase CLK2,Humans,L29219,P49760,DB12010,1
+BE0004043,Dual specificity protein kinase CLK3,Humans,L29220,P49761,DB12010,1
+BE0009426,Dual specificity protein kinase CLK4,Humans,L29220,Q9HAZ1,DB12010,1
+BE0009427,Casein kinase I isoform alpha,Humans,X60114,P48729,DB12010,1
+BE0003984,Casein kinase II subunit alpha',Humans,M55268,P19784,DB12010,1
+BE0001776,Death-associated protein kinase 1,Humans,X76104,P53355,DB12010,1
+BE0009428,Death-associated protein kinase 2,Humans,X76104,Q9UIK4,DB12010,1
+BE0003788,Death-associated protein kinase 3,Humans,AB007144,O43293,DB12010,1
+BE0009429,Serine/threonine-protein kinase DCLK1,Humans,AB007144,O15075,DB12010,1
+BE0009430,Serine/threonine-protein kinase DCLK2,Humans,AB007144,Q8N568,DB12010,1
+BE0009431,Serine/threonine-protein kinase DCLK3,Humans,AB007144,Q9C098,DB12010,1
+BE0004012,Dual specificity tyrosine-phosphorylation-regulated kinase 1A,Humans,U58496,Q13627,DB12010,1
+BE0009432,Dual specificity tyrosine-phosphorylation-regulated kinase 1B,Humans,U58496,Q9Y463,DB12010,1
+BE0009433,Eukaryotic translation initiation factor 2-alpha kinase 1,Humans,X00588,Q9BQI3,DB12010,1
+BE0009434,"Interferon-induced, double-stranded RNA-activated protein kinase",Humans,X00588,P19525,DB12010,1
+BE0009435,eIF-2-alpha kinase GCN2,Humans,X00588,Q9P2K8,DB12010,1
+BE0009436,Ephrin type-A receptor 1,Humans,X00588,P21709,DB12010,1
+BE0009437,Ephrin type-A receptor 3,Humans,M59371,P29320,DB12010,1
+BE0009438,Ephrin type-A receptor 4,Humans,M59371,P54764,DB12010,1
+BE0009439,Ephrin type-A receptor 6,Humans,M59371,Q9UF33,DB12010,1
+BE0004140,Ephrin type-A receptor 7,Humans,L36642,Q15375,DB12010,1
+BE0009440,Ephrin type-A receptor 8,Humans,L36642,P29322,DB12010,1
+BE0009441,Ephrin type-B receptor 1,Humans,L36642,P54762,DB12010,1
+BE0004549,Ephrin type-B receptor 2,Humans,L36642,P29323,DB12010,1
+BE0009442,Ephrin type-B receptor 6,Humans,U07695,O15197,DB12010,1
+BE0003839,Serine/threonine-protein kinase/endoribonuclease IRE1,Humans,AF059198,O75460,DB12010,1
+BE0009443,Tyrosine-protein kinase Fer,Humans,AF059198,P16591,DB12010,1
+BE0009444,Tyrosine-protein kinase Fes/Fps,Humans,AF059198,P07332,DB12010,1
+BE0009445,Cyclin-G-associated kinase,Humans,M14333,O14976,DB12010,1
+BE0009446,Glycogen synthase kinase-3 alpha,Humans,M14333,P49840,DB12010,1
+BE0001065,Glycogen synthase kinase-3 beta,Humans,L33801,P49841,DB12010; DB14507,2
+BE0009447,Homeodomain-interacting protein kinase 2,Humans,M16591,Q9H2X6,DB12010,1
+BE0009448,Homeodomain-interacting protein kinase 3,Humans,M16591,Q9H422,DB12010,1
+BE0009449,Serine/threonine-protein kinase ICK,Humans,M16591,Q9UPZ9,DB12010,1
+BE0009450,Inhibitor of nuclear factor kappa-B kinase subunit epsilon,Humans,AF029684,Q14164,DB12010,1
+BE0009451,Insulin receptor-related protein,Humans,M10051,P14616,DB12010,1
+BE0009452,Interleukin-1 receptor-associated kinase 1,Humans,M10051,P51617,DB12010,1
+BE0009453,Interleukin-1 receptor-associated kinase 3,Humans,M10051,Q9Y616,DB12010,1
+BE0004344,Interleukin-1 receptor-associated kinase 4,Humans,AF445802,Q9NWZ3,DB12010,1
+BE0009454,Serine/threonine-protein kinase SIK3,Humans,AF035121,Q9Y2K2,DB12010,1
+BE0009455,Serine/threonine-protein kinase LATS1,Humans,X06182,O95835,DB12010,1
+BE0009456,LIM domain kinase 2,Humans,X05027,P53671,DB12010,1
+BE0009457,Leucine-rich repeat serine/threonine-protein kinase 2,Humans,X05027,Q5S007,DB12010,1
+BE0009458,Leukocyte tyrosine kinase receptor,Humans,X05027,P29376,DB12010,1
+BE0009459,Dual specificity mitogen-activated protein kinase kinase 3,Humans,M16038,P46734,DB12010,1
+BE0009460,Dual specificity mitogen-activated protein kinase kinase 5,Humans,M16038,Q13163,DB12010,1
+BE0009461,Dual specificity mitogen-activated protein kinase kinase 6,Humans,M16038,P52564,DB12010,1
+BE0009462,Mitogen-activated protein kinase kinase kinase 10,Humans,AF042838,Q02779,DB12010,1
+BE0009463,Mitogen-activated protein kinase kinase kinase 11,Humans,AF042838,Q16584,DB12010,1
+BE0009464,Mitogen-activated protein kinase kinase kinase 12,Humans,AF042838,Q12852,DB12010,1
+BE0009465,Mitogen-activated protein kinase kinase kinase 13,Humans,AF042838,O43283,DB12010,1
+BE0009466,Mitogen-activated protein kinase kinase kinase 15,Humans,AF042838,Q6ZN16,DB12010,1
+BE0009467,Mitogen-activated protein kinase kinase kinase 3,Humans,AF042838,Q99759,DB12010,1
+BE0009468,Mitogen-activated protein kinase kinase kinase 4,Humans,AF042838,Q9Y6R4,DB12010,1
+BE0009469,Mitogen-activated protein kinase kinase kinase 6,Humans,AF042838,O95382,DB12010,1
+BE0004386,Mitogen-activated protein kinase kinase kinase 9,Humans,AY327900,P80192,DB12010,1
+BE0009470,Mitogen-activated protein kinase kinase kinase kinase 1,Humans,AY327900,Q92918,DB12010,1
+BE0009471,Mitogen-activated protein kinase kinase kinase kinase 2,Humans,AY327900,Q12851,DB12010,1
+BE0009472,Mitogen-activated protein kinase kinase kinase kinase 3,Humans,AY327900,Q8IVH8,DB12010,1
+BE0009473,Mitogen-activated protein kinase kinase kinase kinase 4,Humans,AY327900,O95819,DB12010,1
+BE0009474,Mitogen-activated protein kinase kinase kinase kinase 5,Humans,AY327900,Q9Y4K4,DB12010,1
+BE0001097,Mitogen-activated protein kinase 10,Humans,U07620,P53779,DB12010,1
+BE0003391,Mitogen-activated protein kinase 13,Humans,Y10488,O15264,DB12010,1
+BE0009475,Mitogen-activated protein kinase 15,Humans,L35263,Q8TD08,DB12010,1
+BE0009476,Mitogen-activated protein kinase 4,Humans,L35263,P31152,DB12010,1
+BE0009477,Mitogen-activated protein kinase 7,Humans,L35263,Q13164,DB12010,1
+BE0003772,Mitogen-activated protein kinase 9,Humans,L31951,P45984,DB12010,1
+BE0009478,MAP kinase-activated protein kinase 5,Humans,L31951,Q8IW41,DB12010,1
+BE0009479,Serine/threonine-protein kinase MARK1,Humans,L31951,Q9P0L2,DB12010,1
+BE0009480,Serine/threonine-protein kinase MARK2,Humans,L31951,Q7KZI7,DB12010,1
+BE0009481,MAP/microtubule affinity-regulating kinase 3,Humans,L31951,P27448,DB12010,1
+BE0009482,MAP/microtubule affinity-regulating kinase 4,Humans,L31951,Q96L34,DB12010,1
+BE0009483,CLIP-associating protein 1,Humans,L31951,Q7Z460,DB12010,1
+BE0009484,Microtubule-associated serine/threonine-protein kinase 1,Humans,L31951,Q9Y2H9,DB12010,1
+BE0009485,Megakaryocyte-associated tyrosine-protein kinase,Humans,L31951,P42679,DB12010,1
+BE0009486,Maternal embryonic leucine zipper kinase,Humans,L31951,Q14680,DB12010,1
+BE0004271,Tyrosine-protein kinase Mer,Humans,U08023,Q12866,DB12010,1
+BE0009487,Misshapen-like kinase 1,Humans,U08023,Q8N4C8,DB12010,1
+BE0009488,MAP kinase-interacting serine/threonine-protein kinase 1,Humans,U08023,Q9BUB5,DB12010,1
+BE0009489,MAP kinase-interacting serine/threonine-protein kinase 2,Humans,U08023,Q9HBH9,DB12010,1
+BE0009490,Macrophage-stimulating protein receptor,Humans,U08023,Q04912,DB12010,1
+BE0009491,"Muscle, skeletal receptor tyrosine-protein kinase",Humans,U08023,O15146,DB12010,1
+BE0009492,"Myosin light chain kinase, smooth muscle",Humans,U08023,Q15746,DB12010,1
+BE0009493,Myosin light chain kinase 3,Humans,U08023,Q32MK0,DB12010,1
+BE0009494,Myosin light chain kinase family member 4,Humans,U08023,Q86YV6,DB12010,1
+BE0009495,Myosin-IIIa,Humans,U08023,Q8NEV4,DB12010,1
+BE0009496,Serine/threonine-protein kinase Nek1,Humans,U08023,Q96PY6,DB12010,1
+BE0003796,Serine/threonine-protein kinase Nek2,Humans,Z29066,P51955,DB12010,1
+BE0009497,Serine/threonine-protein kinase Nek3,Humans,Z29066,P51956,DB12010,1
+BE0009498,Serine/threonine-protein kinase Nek4,Humans,Z29066,P51957,DB12010,1
+BE0009499,Serine/threonine-protein kinase Nek5,Humans,Z29066,Q6P3R8,DB12010,1
+BE0009500,Serine/threonine-protein kinase Nek9,Humans,Z29066,Q8TD19,DB12010,1
+BE0009501,NT-3 growth factor receptor,Humans,U12140,Q16288,DB12010; DB14723,2
+BE0009502,NUAK family SNF1-like kinase 1,Humans,U12140,O60285,DB12010,1
+BE0009503,NUAK family SNF1-like kinase 2,Humans,U12140,Q9H093,DB12010,1
+BE0009504,Serine/threonine-protein kinase OSR1,Humans,U12140,O95747,DB12010,1
+BE0009505,Serine/threonine-protein kinase PAK 1,Humans,U12140,Q13153,DB12010,1
+BE0009506,Serine/threonine-protein kinase PAK 2,Humans,U12140,Q13177,DB12010,1
+BE0009507,Serine/threonine-protein kinase PAK 3,Humans,U12140,O75914,DB12010,1
+BE0009508,Serine/threonine-protein kinase PAK 4,Humans,U12140,O96013,DB12010,1
+BE0009509,Serine/threonine-protein kinase PAK 6,Humans,U12140,Q9NQU5,DB12010,1
+BE0009510,Serine/threonine-protein kinase PAK 5,Humans,U12140,Q9P286,DB12010,1
+BE0004077,Cyclin-dependent kinase 16,Humans,X66363,Q00536,DB12010,1
+BE0009511,Cyclin-dependent kinase 17,Humans,X66363,Q00537,DB12010,1
+BE0000437,Cyclin-dependent kinase 15,Humans,AB053308,Q96Q40,DB12010,1
+BE0009512,"Phosphorylase b kinase gamma catalytic chain, skeletal muscle/heart isoform",Humans,AB053308,Q16816,DB12010,1
+BE0009513,Phosphatidylinositol 4-kinase beta,Humans,AB053308,Q9UBF8,DB12010,1
+BE0009514,Phosphatidylinositol 4-phosphate 3-kinase C2 domain-containing subunit beta,Humans,AB053308,O00750,DB12010,1
+BE0009515,Phosphatidylinositol 4-phosphate 3-kinase C2 domain-containing subunit gamma,Humans,AB053308,O75747,DB12010,1
+BE0009516,Serine/threonine-protein kinase pim-3,Humans,M27903,Q86V86,DB12010,1
+BE0009517,Phosphatidylinositol 5-phosphate 4-kinase type-2 beta,Humans,M27903,P78356,DB12010,1
+BE0009518,Phosphatidylinositol 5-phosphate 4-kinase type-2 gamma,Humans,M27903,Q8TBX8,DB12010,1
+BE0009519,Membrane-associated tyrosine- and threonine-specific cdc2-inhibitory kinase,Humans,M27903,Q99640,DB12010,1
+BE0009520,Serine/threonine-protein kinase N1,Humans,M27903,Q16512,DB12010,1
+BE0009521,Serine/threonine-protein kinase N2,Humans,M27903,Q16513,DB12010,1
+BE0003745,Serine/threonine-protein kinase PLK1,Humans,U01038,P53350,DB12010,1
+BE0009522,Serine/threonine-protein kinase PLK2,Humans,U01038,Q9NYY3,DB12010,1
+BE0009523,Serine/threonine-protein kinase PLK3,Humans,U01038,Q9H4B4,DB12010,1
+BE0009524,Serine/threonine-protein kinase PLK4,Humans,U01038,O00444,DB12010,1
+BE0004475,cAMP-dependent protein kinase catalytic subunit beta,Humans,AB022017,P22694,DB12010,1
+BE0003431,Protein kinase C epsilon type,Humans,X65293,Q02156,DB12010,1
+BE0009279,Protein kinase C gamma type,Humans,X65293,P05129,DB12010,1
+BE0003889,Protein kinase C iota type,Humans,L18964,P41743,DB12010,1
+BE0001385,Protein kinase C theta type,Humans,L01087,Q04759,DB12010,1
+BE0009525,Serine/threonine-protein kinase D1,Humans,L01087,Q15139,DB12010,1
+BE0009526,cGMP-dependent protein kinase 2,Humans,L01087,Q13237,DB12010,1
+BE0009527,Serine/threonine-protein kinase PRP4 homolog,Humans,L01087,Q13523,DB12010,1
+BE0003090,Focal adhesion kinase 1,Humans,L13616,Q05397,DB12010,1
+BE0009528,Serine/threonine-protein kinase RIO1,Humans,X12949,Q9BRS2,DB12010,1
+BE0009529,Serine/threonine-protein kinase RIO2,Humans,X12949,Q9BVS4,DB12010,1
+BE0009530,Serine/threonine-protein kinase RIO3,Humans,X12949,O14730,DB12010,1
+BE0009531,Receptor-interacting serine/threonine-protein kinase 1,Humans,X12949,Q13546,DB12010,1
+BE0009532,Receptor-interacting serine/threonine-protein kinase 2,Humans,X12949,O43353,DB12010,1
+BE0009533,Receptor-interacting serine/threonine-protein kinase 4,Humans,X12949,P57078,DB12010,1
+BE0004191,Rho-associated protein kinase 2,Humans,D87931,O75116,DB12010; DB13931,2
+BE0009534,Proto-oncogene tyrosine-protein kinase ROS,Humans,D87931,P08922,DB12010,1
+BE0004274,Ribosomal protein S6 kinase alpha-1,Humans,L07597,Q15418,DB12010,1
+BE0009535,Serine/threonine-protein kinase SBK1,Humans,L07597,Q52WX2,DB12010,1
+BE0009536,Uncharacterized serine/threonine-protein kinase SBK3,Humans,L07597,P0C264,DB12010,1
+BE0009537,Serine/threonine-protein kinase Sgk3,Humans,L07597,Q96BR1,DB12010,1
+BE0009538,Serine/threonine-protein kinase SIK2,Humans,L07597,Q9H0K1,DB12010,1
+BE0004041,STE20-like serine/threonine-protein kinase,Humans,AB002804,Q9H2G2,DB12010,1
+BE0009539,SNF-related serine/threonine-protein kinase,Humans,AB002804,Q9NRH2,DB12010,1
+BE0009540,Tyrosine-protein kinase Srms,Humans,AL133293,Q9H3Y6,DB12010,1
+BE0009541,Serine/threonine-protein kinase 10,Humans,AL133293,O94804,DB12010,1
+BE0009542,Serine/threonine-protein kinase 16,Humans,AL133293,O75716,DB12010,1
+BE0009543,Serine/threonine-protein kinase 17A,Humans,AL133293,Q9UEE5,DB12010,1
+BE0004328,Serine/threonine-protein kinase 17B,Humans,AB011421,O94768,DB12010,1
+BE0009544,Serine/threonine-protein kinase 32A,Humans,AB011421,Q8WU08,DB12010,1
+BE0000080,Tryptophan 5-hydroxylase 2,Humans,AY098914,Q8IWU9,DB12095,1
+BE0000858,Insulin-like growth factor 1 receptor,Humans,X04434,P08069,DB12267,1
+BE0008652,Sphingosine 1-phosphate receptor 1,Humans,AF331840,P21453,DB12371,1
+BE0009548,Gastrin,Humans,U03882,P01350,DB12532,1
+BE0008688,Metallothionein,Humans,L02932,Q14872,DB12965,1
+BE0001140,Ceruloplasmin,Humans,M13699,P00450,DB12965; DB14487; DB14488; DB14489; DB14490; DB14491; DB14501; DB14533,8
+BE0003383,Growth hormone secretagogue receptor type 1,Humans,U60179,Q92847,DB13074,1
+BE0005577,Glutathione,Humans,-,-,DB13145,1
+BE0004769,Y+L amino acid transporter 1,Humans,U53347,Q9UM01,DB13146,1
+BE0009275,Histone deacetylase 10,Humans,AL512711,Q969S8,DB13346,1
+BE0004903,Nuclear factor NF-kappa-B,Humans,X61498,Q00653,DB13751,1
+BE0000239,Lipoprotein lipase,Humans,M15856,P06858,DB13751,1
+BE0004527,"Isocitrate dehydrogenase [NADP], mitochondrial",Humans,AF061056,P48735,DB13874,1
+BE0001016,Rho-associated protein kinase 1,Humans,U43195,Q13464,DB13931,1
+BE0009370,Thiol groups,Humans,-,-,DB13960,1
+BE0009352,Lung epithelial cells,Humans,-,-,DB14001,1
+BE0009341,Transuranium elements,Humans,-,-,DB14007,1
+BE0001683,Fructose-bisphosphate aldolase A,Humans,M11560,P04075,DB14487; DB14533,2
+BE0004528,Elongation factor 1-alpha 1,Humans,M11560,P68104,DB14487; DB14533,2
+BE0005807,Alpha-enolase,Humans,M11560,P06733,DB14487; DB14533,2
+BE0003106,Nucleoside diphosphate kinase A,Humans,X75598,P15531,DB14487; DB14533,2
+BE0008980,Protein disulfide-isomerase A3,Humans,X05130,P30101,DB14487; DB14533,2
+BE0005844,Peroxiredoxin-1,Humans,X05130,Q06830,DB14487; DB14533,2
+BE0004590,Phosphoserine phosphatase,Humans,X05130,P78330,DB14487; DB14533,2
+BE0003844,Triosephosphate isomerase,Humans,M10036,P60174,DB14487; DB14533,2
+BE0004542,"Elongation factor Tu, mitochondrial",Humans,M10036,P49411,DB14487; DB14533,2
+BE0004779,Metallothionein-2,Humans,M14743,P02795,DB14487; DB14533,2
+BE0005815,Copper chaperone for superoxide dismutase,Humans,M14743,O14618,DB14487; DB14533,2
+BE0005833,Semenogelin-1,Humans,AF132607,P04279,DB14487; DB14533,2
+BE0005834,Apoptosis regulatory protein Siva,Humans,AF230097,O15304,DB14487; DB14533,2
+BE0001003,E3 ubiquitin-protein ligase Mdm2,Humans,M92424,Q00987,DB14487; DB14533,2
+BE0003491,Insulin,Humans,AJ009655,P01308,DB14487; DB14533,2
+BE0005835,Utrophin,Humans,AJ009655,P46939,DB14487; DB14533,2
+BE0008955,Protein S100-A8,Humans,S67156,P05109,DB14487; DB14533,2
+BE0008993,Protein S100-A9,Humans,S67156,P06702,DB14487; DB14533,2
+BE0008994,Tumor protein p73,Humans,J05070,O15350,DB14487; DB14533,2
+BE0005770,Metallothionein-3,Humans,X02469,P25713,DB14487; DB14533,2
+BE0005538,DAN domain family member 5,Humans,X02469,Q8N907,DB14487; DB14533,2
+BE0004778,Metallothionein-1A,Humans,X02469,P04731,DB14487; DB14533,2
+BE0009047,Alpha-1B-glycoprotein,Humans,X02469,P04217,DB14487; DB14533,2
+BE0001060,Angiotensinogen,Humans,K02215,P01019,DB14487; DB14533,2
+BE0009048,Alpha-2-HS-glycoprotein,Humans,K02215,P02765,DB14487; DB14533,2
+BE0001213,Serum amyloid P-component,Humans,D00097,P02743,DB14487; DB14533,2
+BE0003449,Apolipoprotein A-I,Humans,BC110286,P02647,DB14487; DB14533,2
+BE0000922,Apolipoprotein A-II,Humans,X00955,P02652,DB14487; DB14533,2
+BE0009049,Apolipoprotein A-IV,Humans,X00955,P06727,DB14487; DB14533,2
+BE0005852,Apolipoprotein B receptor,Humans,X00955,Q0VD83,DB14487; DB14533,2
+BE0001119,Apolipoprotein E,Humans,M12529,P02649,DB14487; DB14533,2
+BE0009069,Apolipoprotein L1,Humans,M12529,O14791,DB14487; DB14533,2
+BE0002095,Complement C1q subcomponent subunit B,Humans,X03084,P02746,DB14487; DB14533,2
+BE0002096,Complement C1q subcomponent subunit C,Humans,AF087892,P02747,DB14487; DB14533,2
+BE0002093,Complement C1r subcomponent,Humans,X04701,P00736,DB14487; DB14533,2
+BE0001529,Complement C1s subcomponent,Humans,X06596,P09871,DB14487; DB14533,2
+BE0003455,Complement C3,Humans,AY513239,P01024,DB14487; DB14533,2
+BE0004686,Complement C4-B,Humans,AY513239,P0C0L5,DB14487; DB14533,2
+BE0009050,C4b-binding protein alpha chain,Humans,AY513239,P04003,DB14487; DB14533,2
+BE0009070,C4b-binding protein beta chain,Humans,AY513239,P20851,DB14487; DB14533,2
+BE0000855,Complement C5,Humans,M57729,P01031,DB14487; DB14533,2
+BE0009071,Lys-63-specific deubiquitinase BRCC36,Humans,M57729,P46736,DB14487; DB14533,2
+BE0009072,Complement component C8 alpha chain,Humans,M57729,P07357,DB14487; DB14533,2
+BE0009051,Complement component C8 beta chain,Humans,M57729,P07358,DB14487; DB14533,2
+BE0001701,Complement factor B,Humans,X72875,P00751,DB14487; DB14533,2
+BE0009053,Complement factor H,Humans,X72875,P08603,DB14487; DB14533,2
+BE0009054,Complement factor I,Humans,X72875,P05156,DB14487; DB14533,2
+BE0009055,Clusterin,Humans,X72875,P10909,DB14487; DB14533,2
+BE0003503,Carboxypeptidase N catalytic chain,Humans,BC027897,P15169,DB14487; DB14533,2
+BE0003504,Carboxypeptidase N subunit 2,Humans,BC042334,P22792,DB14487; DB14533,2
+BE0009073,Dermcidin,Humans,BC042334,P81605,DB14487; DB14533,2
+BE0009074,Desmoplakin,Humans,BC042334,P15924,DB14487; DB14533,2
+BE0009075,Coagulation factor XIII B chain,Humans,BC042334,P05160,DB14487; DB14533,2
+BE0009076,Ficolin-3,Humans,M17262,O75636,DB14487; DB14533,2
+BE0000538,Fibrinogen alpha chain,Humans,AF361104,P02671,DB14487; DB14533,2
+BE0001180,Fibronectin,Humans,AJ276395,P02751,DB14487; DB14533,2
+BE0004161,Gelsolin,Humans,X04412,P06396,DB14487; DB14533,2
+BE0009057,Haptoglobin-related protein,Humans,U01317,P00739,DB14487; DB14533,2
+BE0009077,Hornerin,Humans,U01317,Q86YZ3,DB14487; DB14533,2
+BE0009058,Insulin-like growth factor-binding protein complex acid labile subunit,Humans,U01317,P35858,DB14487; DB14533,2
+BE0005097,Ig alpha-1 chain C region,Humans,U01317,P01876,DB14487; DB14533,2
+BE0005098,Ig mu chain C region,Humans,U01317,P01871,DB14487; DB14533,2
+BE0009078,Immunoglobulin kappa variable 1-17,Humans,U01317,P01599,DB14487; DB14533,2
+BE0000616,Ig kappa chain V-III region GOL,Humans,U01317,P01619,DB14487; DB14533,2
+BE0009079,Immunoglobulin lambda variable 3-21,Humans,U01317,P80748,DB14487; DB14533,2
+BE0009080,Inter-alpha-trypsin inhibitor heavy chain H1,Humans,U01317,P19827,DB14487; DB14533,2
+BE0009060,Inter-alpha-trypsin inhibitor heavy chain H2,Humans,U01317,P19823,DB14487; DB14533,2
+BE0009081,Inter-alpha-trypsin inhibitor heavy chain H3,Humans,U01317,Q06033,DB14487; DB14533,2
+BE0009082,Inter-alpha-trypsin inhibitor heavy chain H4,Humans,U01317,Q14624,DB14487; DB14533,2
+BE0009083,Immunoglobulin J chain,Humans,U01317,P01591,DB14487; DB14533,2
+BE0009084,Junction plakoglobin,Humans,U01317,P14923,DB14487; DB14533,2
+BE0002440,Plasma kallikrein,Humans,M13143,P03952,DB14487; DB14533,2
+BE0001017,Kininogen-1,Humans,K02566,P01042,DB14487; DB14533,2
+BE0009061,"Keratin, type II cytoskeletal 1",Humans,K02566,P04264,DB14487; DB14533,2
+BE0009062,"Keratin, type I cytoskeletal 10",Humans,K02566,P13645,DB14487; DB14533,2
+BE0009085,"Keratin, type I cytoskeletal 14",Humans,K02566,P02533,DB14487; DB14533,2
+BE0009086,"Keratin, type I cytoskeletal 16",Humans,K02566,P08779,DB14487; DB14533,2
+BE0009087,"Keratin, type II cytoskeletal 5",Humans,K02566,P13647,DB14487; DB14533,2
+BE0009088,"Keratin, type II cytoskeletal 6A",Humans,K02566,P02538,DB14487; DB14533,2
+BE0009064,"Keratin, type I cytoskeletal 9",Humans,K02566,P35527,DB14487; DB14533,2
+BE0004613,N-acetylmuramoyl-L-alanine amidase,Humans,BC015964,Q96PD5,DB14487; DB14533,2
+BE0009089,Pregnancy zone protein,Humans,M63012,P20742,DB14487; DB14533,2
+BE0005533,Selenoprotein P,Humans,M86757,P49908,DB14487; DB14533,2
+BE0000952,Alpha-1-antitrypsin,Humans,K01396,P01009,DB14487; DB14533,2
+BE0009090,Alpha-1-antichymotrypsin,Humans,K01396,P01011,DB14487; DB14533,2
+BE0009067,Kallistatin,Humans,K01396,P29622,DB14487; DB14533,2
+BE0000209,Corticosteroid-binding globulin,Humans,J02943,P08185,DB14487; DB14533,2
+BE0000775,Heparin cofactor 2,Humans,M12849,P05546,DB14487; DB14533,2
+BE0001068,Vitronectin,Humans,X03168,P04004,DB14487; DB14533,2
+BE0009092,Amyloid-like protein 1,Humans,X03168,P51693,DB14487; DB14533,2
+BE0009093,Amyloid-like protein 2,Humans,X03168,Q06481,DB14487; DB14533,2
+BE0008725,Transferrin receptor protein 1,Humans,X16674,P02786,DB14488; DB14489; DB14490; DB14491; DB14501; DB14520,6
+BE0008990,Alpha-hemoglobin-stabilizing protein,Humans,AF230097,Q9NZD4,DB14488; DB14489; DB14490; DB14491; DB14501,5
+BE0008991,"Frataxin, mitochondrial",Humans,J00153,Q16595,DB14488; DB14489; DB14490; DB14491; DB14501,5
+BE0000399,Ferritin heavy chain,Humans,X00318,P02794,DB14488; DB14489; DB14490; DB14491; DB14501,5
+BE0009013,Flap endonuclease 1,Humans,X00318,P39748,DB14488; DB14489; DB14490; DB14491; DB14501,5
+BE0005817,Endonuclease 8-like 2,Humans,AB079068,Q969S2,DB14488; DB14489; DB14490; DB14491; DB14501,5
+BE0000983,Inositol monophosphatase 2,Humans,AF014398,O14732,DB14507,1
+BE0001152,Inositol monophosphatase 1,Humans,X66922,P29218,DB14507,1
+BE0001091,Kallikrein-1,Humans,M25629,P06870,DB14517; DB14518,2
+BE0001173,Cytochrome b5,Humans,M22865,P00167,DB14527; DB14528; DB14529; DB14530,4
+BE0001251,Isocitrate dehydrogenase [NADP] cytoplasmic,Humans,AF020038,O75874,DB14568,1
