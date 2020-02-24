@@ -11,5 +11,5 @@ Table with 'Gene stable ID' mapped to 'UniProtKB Gene Name ID'. The was used to 
 
 To download this table using BioMart select 'Ensembl Genes 98' => 'Human genes (GRCh38.p13)'. Then go to 'Attributes', click on 'GENE' and uncheck 'Gene stable ID version', 'Transcript stable ID', 'Transcript stable ID version'. Then click on 'EXTERNAL', find 'External References (max 3)' and check 'UniProtKB Gene Name ID'. Finally, go to 'Results' => 'Export all results to', select 'CSV' and click 'Go'.
 
-### filenames_mapping_unique.csv
-As previous but with 'Unique results only' checked.
+### filenames_mapping_type.csv
+As previous but with an extra column that specifies the transcript type.
