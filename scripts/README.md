@@ -53,7 +53,7 @@ It merges all three file to produce a `.csv` table with all human genes with 1:1
 #### What is it for
 It creates density plot + histogram graphs for each group of targets.  See the definition of each group of targets in `results` dir.
 
-### chi2_test.ipynb
+### chi2_test_(/variable/).ipynb
 #### Input
 `dnds_for_targets.csv`
 
@@ -61,4 +61,14 @@ It creates density plot + histogram graphs for each group of targets.  See the d
 none
 
 #### What is it for
-It calculates chi-square statistics to assess independency between 2 factors: the 'goodness' of target (whether it is in DrugBank or not) & the dN/dS ratio for the target.
+It calculates chi-square statistics to assess independency between 2 factors: the 'goodness' of target (whether it is in DrugBank or not) & the dN/dS ratio or dN value (depending on `/variable/`) for the target.
+
+### dNdS_scatter_plot.ipynb 
+#### Input
+`dnds_for_targets.csv`
+
+#### Output
+none
+
+#### What is it for
+It creates dN/dS scatter plots 'Chimpanzee vs Mouse' for all targets and for targets with dN/dS to the right of 95% quantile. 
